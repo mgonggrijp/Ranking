@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response from="1" to="4" selected="0" maxPageSize="100">
+  <summary count="4" type="local">
+    <dimension name="type" label="types">
+      <category value="dataset" label="Dataset" count="4" />
+    </dimension>
+    <dimension name="mdActions" label="mdActions">
+      <category value="mdActions-download" label="mdActions-download" count="2" />
+      <category value="mdActions-view" label="mdActions-view" count="2" />
+    </dimension>
+    <dimension name="topicCat" label="topicCats">
+      <category value="structure" label="Structure" count="2" />
+      <category value="inlandWaters" label="Inland waters" count="1" />
+      <category value="geoscientificInformation" label="Geoscientific information" count="1" />
+    </dimension>
+    <dimension name="inspireThemeURI" label="inspireThemesURI" />
+    <dimension name="keyword" label="keywords">
+      <category value="global radiation" label="global radiation" count="2" />
+      <category value="pluviometry" label="pluviometry" count="2" />
+      <category value="soil fauna" label="soil fauna" count="2" />
+      <category value="soil major elements" label="soil major elements" count="2" />
+      <category value="soil moisture" label="soil moisture" count="2" />
+      <category value="soil temperature" label="soil temperature" count="2" />
+      <category value="soil trace elements" label="soil trace elements" count="2" />
+      <category value="soil granulometry" label="soil granulometry" count="2" />
+      <category value="vegetation carbon content" label="vegetation carbon content" count="2" />
+      <category value="vegetation nitrogen content" label="vegetation nitrogen content" count="2" />
+      <category value="yield" label="yield" count="2" />
+      <category value="P and K content in organic amendment" label="P and K content in organic amendment" count="2" />
+      <category value="soil organic contaminants" label="soil organic contaminants" count="2" />
+      <category value="soil solution major elements" label="soil solution major elements" count="2" />
+      <category value="soil solution trace elements" label="soil solution trace elements" count="2" />
+    </dimension>
+    <dimension name="orgName" label="orgNames">
+      <category value="FAO - NRCW" label="FAO - NRCW" count="1" />
+      <category value="FAO - Land and Water Development Division" label="FAO - Land and Water Development Division" count="1" />
+      <category value="INRA" label="INRA" count="1" />
+      <category value="Cirad" label="Cirad" count="1" />
+    </dimension>
+    <dimension name="sourceCatalog" label="sourceCatalog">
+      <category value="83177e44-fcc4-4fcd-890e-b48bc9d097ff" label="My GeoNetwork catalogue" count="2" />
+      <category value="19e4395c-b2eb-4592-b490-22689dc7090d" label="AnaEE-France  Metadata Catalog" count="2" />
+    </dimension>
+    <dimension name="createDateYear" label="createDateYears">
+      <category value="2013" label="2013" count="1" />
+      <category value="2005" label="2005" count="1" />
+      <category value="2000" label="2000" count="1" />
+    </dimension>
+    <dimension name="format" label="formats">
+      <category value="ShapeFile" label="ShapeFile" count="1" />
+      <category value="inapplicable" label="inapplicable" count="2" />
+    </dimension>
+    <dimension name="spatialRepresentationType" label="spatialRepresentationTypes">
+      <category value="vector" label="Vector" count="2" />
+    </dimension>
+    <dimension name="maintenanceAndUpdateFrequency" label="maintenanceAndUpdateFrequencies">
+      <category value="asNeeded" label="As needed" count="4" />
+    </dimension>
+    <dimension name="status" label="status">
+      <category value="completed" label="Completed" count="2" />
+    </dimension>
+    <dimension name="serviceType" label="serviceTypes" />
+    <dimension name="denominator" label="denominators">
+      <category value="5000000" label="5000000" count="2" />
+      <category value="50000" label="50000" count="2" />
+    </dimension>
+    <dimension name="resolution" label="resolutions" />
+  </summary>
+  <metadata>
+    <title>Hydrological Basins in Africa (Sample record, please remove!)</title>
+    <abstract>Major hydrological basins and their sub-basins. This dataset divides the African continent according to its hydrological characteristics.
+The dataset consists of the following information:- numerical code and name of the major basin (MAJ_BAS and MAJ_NAME); - area of the major basin in square km (MAJ_AREA); - numerical code and name of the sub-basin (SUB_BAS and SUB_NAME); - area of the sub-basin in square km (SUB_AREA); - numerical code of the sub-basin towards which the sub-basin flows (TO_SUBBAS) (the codes -888 and -999 have been assigned respectively to internal sub-basins and to sub-basins draining into the sea)</abstract>
+    <lineage>The linework of the map is obtained by delineating drainage basin boundaries from an hydrologically corrected digital elevation model with a resolution of 1 * 1 km.</lineage>
+    <responsibleParty>Point of contact|metadata|FAO - NRCW||jippe.hoogeveen@fao.org|Jippe Hoogeveen|Technical Officer|Viale delle Terme di Caracalla, Rome, 00153, Italy|||1|</responsibleParty>
+    <type>dataset</type>
+    <isHarvested>n</isHarvested>
+    <displayOrder>0</displayOrder>
+    <docLocale>eng</docLocale>
+    <popularity>0</popularity>
+    <keyword>watersheds</keyword>
+    <keyword>river basins</keyword>
+    <keyword>water resources</keyword>
+    <keyword>hydrology</keyword>
+    <keyword>AQUASTAT</keyword>
+    <keyword>AWRD</keyword>
+    <keyword>Africa</keyword>
+    <keyword>Inland waters</keyword>
+    <publishedForGroup>0</publishedForGroup>
+    <publishedForGroup>1</publishedForGroup>
+    <publishedForGroup>2</publishedForGroup>
+    <image>thumbnail|http://localhost:8080/geonetwork/srv/api/records/da165110-88fd-11da-a88f-000d939bc5d8/attachments/thumbnail_s.gif|Hydrological Basins in Africa (small preview)</image>
+    <image>overview|http://localhost:8080/geonetwork/srv/api/records/da165110-88fd-11da-a88f-000d939bc5d8/attachments/thumbnail.gif|Hydrological Basins in Africa</image>
+    <tempExtentBegin>2006-01-01t03:29:00.000z</tempExtentBegin>
+    <mdLanguage>eng</mdLanguage>
+    <crsDetails>{ "code": "WGS 1984", "codeSpace": "", "name": "", "url": "" }</crsDetails>
+    <maintenanceAndUpdateFrequency_text>As needed</maintenanceAndUpdateFrequency_text>
+    <format>ShapeFile</format>
+    <spatialRepresentationType_text>Vector</spatialRepresentationType_text>
+    <denominator>5000000</denominator>
+    <root>gmd:MD_Metadata</root>
+    <isTemplate>n</isTemplate>
+    <valid>-1</valid>
+    <feedbackCount>0</feedbackCount>
+    <tempExtentEnd>2008-01-08t03:29:00.000z</tempExtentEnd>
+    <rating>0</rating>
+    <source>83177e44-fcc4-4fcd-890e-b48bc9d097ff</source>
+    <category>maps</category>
+    <category>datasets</category>
+    <category>interactiveResources</category>
+    <status>completed</status>
+    <updateFrequency>asNeeded</updateFrequency>
+    <geoBox>-17.3|-34.6|51.1|38.2</geoBox>
+    <owner>1</owner>
+    <recordOwner>Mitch Admin</recordOwner>
+    <defaultAbstract>Major hydrological basins and their sub-basins. This dataset divides the African continent according to its hydrological characteristics.
+The dataset consists of the following information:- numerical code and name of the major basin (MAJ_BAS and MAJ_NAME); - area of the major basin in square km (MAJ_AREA); - numerical code and name of the sub-basin (SUB_BAS and SUB_NAME); - area of the sub-basin in square km (SUB_AREA); - numerical code of the sub-basin towards which the sub-basin flows (TO_SUBBAS) (the codes -888 and -999 have been assigned respectively to internal sub-basins and to sub-basins draining into the sea)</defaultAbstract>
+    <link>|Online link to the 'Water Resources and Irrigation in Africa'- website|http://www.fao.org/ag/AGL/aglw/aquastat/watresafrica/index.stm|WWW:LINK-1.0-http--link|text/html|1</link>
+    <link>basins.zip|Hydrological basins in Africa (Shapefile Format)|http://localhost:8080/geonetwork/srv/api/records/da165110-88fd-11da-a88f-000d939bc5d8/attachments/basins.zip|WWW:DOWNLOAD-1.0-http--download|
+        application/zip
+      |1</link>
+    <link>GEONETWORK:basins_296|Hydrological basins in Africa|http://data.fao.org/maps/wms|OGC:WMS|application/vnd.ogc.wms_xml|1</link>
+    <defaultTitle>Hydrological Basins in Africa (Sample record, please remove!)</defaultTitle>
+    <datasetLang>eng</datasetLang>
+    <userinfo>Mitch|Admin|Mitch|Administrator</userinfo>
+    <topicCat>inlandWaters</topicCat>
+    <status_text>Completed</status_text>
+    <creationDate>2000-07-19T14:45:00</creationDate>
+    <standardName>ISO 19115:2003/19139</standardName>
+    <crs>WGS 1984</crs>
+    <logo>/images/logos/83177e44-fcc4-4fcd-890e-b48bc9d097ff.png</logo>
+    <draft>n</draft>
+    <keywordGroup>{ 'otherKeywords': [ {'value': 'watersheds', 'link': ''} , {'value': 'river basins', 'link': ''} , {'value': 'water resources', 'link': ''} , {'value': 'hydrology', 'link': ''} , {'value': 'AQUASTAT', 'link': ''} , {'value': 'AWRD', 'link': ''} , {'value': 'Africa', 'link': ''} ] }</keywordGroup>
+    <_locale>eng</_locale>
+    <geonet:info xmlns:geonet="http://www.fao.org/geonetwork">
+      <id>117</id>
+      <uuid>da165110-88fd-11da-a88f-000d939bc5d8</uuid>
+      <schema>iso19139</schema>
+      <createDate>2007-07-19T14:45:07</createDate>
+      <changeDate>2007-11-06T12:13:00</changeDate>
+      <source>83177e44-fcc4-4fcd-890e-b48bc9d097ff</source>
+      <isPublishedToAll>true</isPublishedToAll>
+      <view>true</view>
+      <notify>false</notify>
+      <download>true</download>
+      <dynamic>true</dynamic>
+      <featured>true</featured>
+      <selected>false</selected>
+    </geonet:info>
+  </metadata>
+  <metadata>
+    <abstract>The SOERE PRO Reunion is one of the experimental sites of SOERE PRO. The site hosts a long-term experiment (2013-2030) for the study of the environmental impact of the recovery of organic waste products (PRO) in annual sugar cane crop (semi-perennial plant) by analyzing the impact spreading of these products of agricultural and urban origin on the quality of the soil, the quality of the plants harvested on the amended soils, the quality of the water circulating in the amended soils and migrating towards the ground or superficial waters, the gaseous emissions.
+The measuring device is designed to analyze the dynamics of organic matter in soils and the functioning of associated biogeochemical cycles, the fate of organic and metallic trace pollutants brought by organic waste products and the biological and microbiological functioning of soils subject to regular spreading. .
+The site is located on the island of Reunion, at the Experimental Station of Mare which has a tropical climate with an average temperature of 25 ° C and average rainfall of 2000 mm / year. The soil of the site is of Nitisol type (intensely altered tropical soil). The experiment covers an area of ​​1 ha with a sugar cane crop with an 8-year replanting cycle. This device comprises 5 blocks of 6 parcels. Each plot measures 9m x 27m. Each of the five blocks presents the following treatments: mineral control, agronomic control, Step sludge, compost of Step sludge and green waste (only every 4 years buried during the replanting of the cane or on the surface), hog manure , poultry litter (only every 4 years buried when replanting the cane or on the surface). A plot is also maintained in bare soil with the same different modalities.
+The site is equipped with lysimetric devices to collect the soil solution, instruments to monitor the water flow in the soil, twelve automated measurement chambers of the gases emitted by the ground, a complete weather station. Soils, PROs brought, plants are sampled every year and kept. The analyzes of major elements and the main traces are systematically carried out. Point of contact: Frédéric Feder (frederic.feder@cirad.fr).</abstract>
+    <lineage>no information</lineage>
+    <responsibleParty>Point of contact|resource|Cirad||charles.detaille@cirad.fr|Charles Détaille||unité de recherche "Recyclage et risque" 40 chemin Grand Canal, CS 12014, Saint-Denis cedex 9, 97743, La Réunion, France|( +262) 262 72 78 79||3|</responsibleParty>
+    <responsibleParty>Point of contact|resource|Cirad||frederic.feder@cirad.fr|Frédéric Feder||unité de recherche "Recyclage et risque" 40 chemin Grand Canal, CS 12014, Saint-Denis cedex 9, 97743, La Réunion, France|( +262) 262 72 78 79||2|</responsibleParty>
+    <responsibleParty>|resource|||||||||1|</responsibleParty>
+    <type>dataset</type>
+    <isHarvested>y</isHarvested>
+    <displayOrder>0</displayOrder>
+    <docLocale>eng</docLocale>
+    <popularity>0</popularity>
+    <keyword>AnaEE-France</keyword>
+    <keyword>Environmental monitoring facilities</keyword>
+    <keyword>P and K content in organic amendment</keyword>
+    <keyword>Soil PH</keyword>
+    <keyword>Structure</keyword>
+    <keyword>aerial biomass</keyword>
+    <keyword>air humidity</keyword>
+    <keyword>air temperature</keyword>
+    <keyword>ammoniac flux</keyword>
+    <keyword>carbon dioxide flux</keyword>
+    <keyword>chemical and geochemical analysis of the organic amendment</keyword>
+    <keyword>dry bulk density of soil</keyword>
+    <keyword>dry matter of the organic amendment</keyword>
+    <keyword>elements stock in litter</keyword>
+    <keyword>enzymatic marker</keyword>
+    <keyword>evapotranspiration</keyword>
+    <keyword>global radiation</keyword>
+    <keyword>litter</keyword>
+    <keyword>major elements content of the organic amendment</keyword>
+    <keyword>microbial activity</keyword>
+    <keyword>microbial biomass</keyword>
+    <keyword>microbial diversity</keyword>
+    <keyword>mineralogy</keyword>
+    <keyword>nitrous oxide flux</keyword>
+    <keyword>organic matter, C, N content in organic amendment</keyword>
+    <keyword>pluviometry</keyword>
+    <keyword>residual moisture content of the organic amendment</keyword>
+    <keyword>soil biomass</keyword>
+    <keyword>soil cation exchange capacity</keyword>
+    <keyword>soil chemical and geochemical analysis</keyword>
+    <keyword>soil fauna</keyword>
+    <keyword>soil gaz analysis</keyword>
+    <keyword>soil granulometry</keyword>
+    <keyword>soil hydraulic conductivity</keyword>
+    <keyword>soil major elements</keyword>
+    <keyword>soil moisture</keyword>
+    <keyword>soil organic contaminants</keyword>
+    <keyword>soil organic matter, C, N</keyword>
+    <keyword>soil oxyhydroxydes</keyword>
+    <keyword>soil phosphorus and potassium</keyword>
+    <keyword>soil solution DOC</keyword>
+    <keyword>soil solution NO2 content</keyword>
+    <keyword>soil solution NO3- content</keyword>
+    <keyword>soil solution PO3- content</keyword>
+    <keyword>soil solution anion</keyword>
+    <keyword>soil solution cation</keyword>
+    <keyword>soil solution chemical analysis</keyword>
+    <keyword>soil solution major elements</keyword>
+    <keyword>soil solution nitrogen content</keyword>
+    <keyword>soil solution pH</keyword>
+    <keyword>soil solution phosphorus content</keyword>
+    <keyword>soil solution sulfate content</keyword>
+    <keyword>soil solution trace elements</keyword>
+    <keyword>soil temperature</keyword>
+    <keyword>soil trace elements</keyword>
+    <keyword>soil water retention characteristics</keyword>
+    <keyword>soil worms</keyword>
+    <keyword>trace elements content in organic amendment</keyword>
+    <keyword>vegetation carbon content</keyword>
+    <keyword>vegetation major element content</keyword>
+    <keyword>vegetation mineralomass</keyword>
+    <keyword>vegetation nitrogen content</keyword>
+    <keyword>wind direction</keyword>
+    <keyword>wind velocity</keyword>
+    <keyword>yield</keyword>
+    <publishedForGroup>1</publishedForGroup>
+    <identifier>http://w3.avignon.inra.fr/geonetwork_anaee/f322b815-bd15-4d72-841a-9b5acca44a50</identifier>
+    <image>thumbnail|http://w3.avignon.inra.fr:80/geonetwork_anaee/srv/eng/resources.get?uuid=f322b815-bd15-4d72-841a-9b5acca44a50&amp;fname=SOEREPRO_Logo_2014.png|large_thumbnail</image>
+    <tempExtentBegin>2012-12-31t23:00:00.000z</tempExtentBegin>
+    <tempExtentBegin>2013-01-01</tempExtentBegin>
+    <mdLanguage>eng</mdLanguage>
+    <mdLanguage>fre</mdLanguage>
+    <crsDetails>{ "code": "WGS 84 (EPSG:4326)", "codeSpace": "", "name": "", "url": "" }</crsDetails>
+    <maintenanceAndUpdateFrequency_text>As needed</maintenanceAndUpdateFrequency_text>
+    <format>inapplicable</format>
+    <denominator>50000</denominator>
+    <root>gmd:MD_Metadata</root>
+    <isTemplate>n</isTemplate>
+    <valid>-1</valid>
+    <feedbackCount>0</feedbackCount>
+    <tempExtentEnd>2020-06-14t21:59:59.000z</tempExtentEnd>
+    <rating>0</rating>
+    <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+    <category>datasets</category>
+    <updateFrequency>asNeeded</updateFrequency>
+    <geoBox>-5.7|41.3|9.5|51</geoBox>
+    <owner>1</owner>
+    <recordOwner>Mitch Admin</recordOwner>
+    <defaultAbstract>The SOERE PRO Reunion is one of the experimental sites of SOERE PRO. The site hosts a long-term experiment (2013-2030) for the study of the environmental impact of the recovery of organic waste products (PRO) in annual sugar cane crop (semi-perennial plant) by analyzing the impact spreading of these products of agricultural and urban origin on the quality of the soil, the quality of the plants harvested on the amended soils, the quality of the water circulating in the amended soils and migrating towards the ground or superficial waters, the gaseous emissions.
+The measuring device is designed to analyze the dynamics of organic matter in soils and the functioning of associated biogeochemical cycles, the fate of organic and metallic trace pollutants brought by organic waste products and the biological and microbiological functioning of soils subject to regular spreading. .
+The site is located on the island of Reunion, at the Experimental Station of Mare which has a tropical climate with an average temperature of 25 ° C and average rainfall of 2000 mm / year. The soil of the site is of Nitisol type (intensely altered tropical soil). The experiment covers an area of ​​1 ha with a sugar cane crop with an 8-year replanting cycle. This device comprises 5 blocks of 6 parcels. Each plot measures 9m x 27m. Each of the five blocks presents the following treatments: mineral control, agronomic control, Step sludge, compost of Step sludge and green waste (only every 4 years buried during the replanting of the cane or on the surface), hog manure , poultry litter (only every 4 years buried when replanting the cane or on the surface). A plot is also maintained in bare soil with the same different modalities.
+The site is equipped with lysimetric devices to collect the soil solution, instruments to monitor the water flow in the soil, twelve automated measurement chambers of the gases emitted by the ground, a complete weather station. Soils, PROs brought, plants are sampled every year and kept. The analyzes of major elements and the main traces are systematically carried out. Point of contact: Frédéric Feder (frederic.feder@cirad.fr).</defaultAbstract>
+    <link>SOERE PRO WebSite||https://www.allenvi.fr/groupes-transversaux/infrastructures-de-recherche/pro|WWW:LINK-1.0-http--link|text/html|1</link>
+    <link>SOERE PRO WebSite||https://www.allenvi.fr/groupes-transversaux/infrastructures-de-recherche/pro|WWW:LINK-1.0-http--link|text/html|1|</link>
+    <link>||agents.cirad.fr/index.php/Frederic+FEDER/SOERE_PRO_Reunion|WWW:LINK-1.0-http--link|text/html|1</link>
+    <link>||agents.cirad.fr/index.php/Frederic+FEDER/SOERE_PRO_Reunion|WWW:LINK-1.0-http--link|text/html|1|</link>
+    <link>||https://ur-recyclage-risque.cirad.fr/principaux-projets/soere-pro-la-reunion|WWW:LINK-1.0-http--link|text/html|1</link>
+    <link>||https://ur-recyclage-risque.cirad.fr/principaux-projets/soere-pro-la-reunion|WWW:LINK-1.0-http--link|text/html|1|</link>
+    <link>||https://www6.inra.fr/valor-pro/SOERE-PRO-les-sites/SOERE-PRO-Reunion|WWW:LINK-1.0-http--link|text/html|1</link>
+    <link>||https://www6.inra.fr/valor-pro/SOERE-PRO-les-sites/SOERE-PRO-Reunion|WWW:LINK-1.0-http--link|text/html|1|</link>
+    <defaultTitle>SOERE PRO Reunion</defaultTitle>
+    <datasetLang>eng</datasetLang>
+    <userinfo>Mitch|Admin|Mitch|Administrator</userinfo>
+    <topicCat>structure</topicCat>
+    <legalConstraints>See AnaEE-France charters.</legalConstraints>
+    <creationDate>2013-01-01</creationDate>
+    <standardName>ISO 19115:2003/19139</standardName>
+    <crs>WGS 84 (EPSG:4326)</crs>
+    <title>SOERE PRO Reunion</title>
+    <draft>n</draft>
+    <keywordGroup>{ 'theme.anaeeThes.rdf' :[ {'value': 'AnaEE-France', 'link': ''} , {'value': 'wind direction', 'link': ''} , {'value': 'air temperature', 'link': ''} , {'value': 'nitrous oxide flux', 'link': ''} , {'value': 'air humidity', 'link': ''} , {'value': 'pluviometry', 'link': ''} , {'value': 'ammoniac flux', 'link': ''} , {'value': 'evapotranspiration', 'link': ''} , {'value': 'soil temperature', 'link': ''} , {'value': 'soil granulometry', 'link': ''} , {'value': 'global radiation', 'link': ''} , {'value': 'wind velocity', 'link': ''} , {'value': 'elements stock in litter', 'link': ''} , {'value': 'soil water retention characteristics', 'link': ''} , {'value': 'soil chemical and geochemical analysis', 'link': ''} , {'value': 'soil organic matter, C, N', 'link': ''} , {'value': 'soil organic contaminants', 'link': ''} , {'value': 'dry bulk density of soil', 'link': ''} , {'value': 'litter', 'link': ''} , {'value': 'soil moisture', 'link': ''} , {'value': 'soil trace elements', 'link': ''} , {'value': 'soil oxyhydroxydes', 'link': ''} , {'value': 'soil solution major elements', 'link': ''} , {'value': 'mineralogy', 'link': ''} , {'value': 'soil cation exchange capacity', 'link': ''} , {'value': 'carbon dioxide flux', 'link': ''} , {'value': 'soil solution DOC', 'link': ''} , {'value': 'soil major elements', 'link': ''} , {'value': 'soil hydraulic conductivity', 'link': ''} , {'value': 'soil solution anion', 'link': ''} , {'value': 'soil phosphorus and potassium', 'link': ''} , {'value': 'soil solution trace elements', 'link': ''} , {'value': 'trace elements content in organic amendment', 'link': ''} , {'value': 'major elements content of the organic amendment', 'link': ''} , {'value': 'soil solution phosphorus content', 'link': ''} , {'value': 'soil solution PO3- content', 'link': ''} , {'value': 'soil solution pH', 'link': ''} , {'value': 'dry matter of the organic amendment', 'link': ''} , {'value': 'soil solution chemical analysis', 'link': ''} , {'value': 'soil solution sulfate content', 'link': ''} , {'value': 'Soil PH', 'link': ''} , {'value': 'soil solution NO3- content', 'link': ''} , {'value': 'soil biomass', 'link': ''} , {'value': 'soil solution NO2 content', 'link': ''} , {'value': 'soil solution nitrogen content', 'link': ''} , {'value': 'residual moisture content of the organic amendment', 'link': ''} , {'value': 'soil solution cation', 'link': ''} , {'value': 'P and K content in organic amendment', 'link': ''} , {'value': 'microbial biomass', 'link': ''} , {'value': 'chemical and geochemical analysis of the organic amendment', 'link': ''} , {'value': 'soil fauna', 'link': ''} , {'value': 'microbial diversity', 'link': ''} , {'value': 'organic matter, C, N content in organic amendment', 'link': ''} , {'value': 'vegetation major element content', 'link': ''} , {'value': 'yield', 'link': ''} , {'value': 'soil worms', 'link': ''} , {'value': 'vegetation mineralomass', 'link': ''} , {'value': 'soil gaz analysis', 'link': ''} , {'value': 'vegetation nitrogen content', 'link': ''} , {'value': 'enzymatic marker', 'link': ''} , {'value': 'vegetation carbon content', 'link': ''} , {'value': 'microbial activity', 'link': ''} , {'value': 'aerial biomass', 'link': ''} ] , 'GEMET - INSPIRE themes, version 1.0 INSPIRE themes' :[ {'value': 'Environmental monitoring facilities', 'link': ''} ] , 'AnaEE-France Locations' :[ {'value': '', 'link': ''} ] }</keywordGroup>
+    <groupOwner>144</groupOwner>
+    <_locale>eng</_locale>
+    <geonet:info xmlns:geonet="http://www.fao.org/geonetwork">
+      <id>215</id>
+      <uuid>27aeb479-5c59-421a-bef7-cba6ab0a647d</uuid>
+      <schema>iso19139</schema>
+      <createDate>2018-07-12T16:00:26</createDate>
+      <changeDate>2018-07-12T16:00:26</changeDate>
+      <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+      <isPublishedToAll>true</isPublishedToAll>
+      <view>true</view>
+      <notify>false</notify>
+      <download>true</download>
+      <dynamic>true</dynamic>
+      <featured>false</featured>
+      <selected>false</selected>
+    </geonet:info>
+  </metadata>
+  <metadata>
+    <abstract>The SOERE PRO is a network of long-term field experiments dedicated to the quantification of all effects of organic residue (OR) application in agriculture. It has been created in 2011 to evaluate benefits and risks associated to organic residue recycling in agriculture. 
+The SOERE PRO provides data (1) to better evaluate the effects of regular OR application on organic matter dynamic and potential C storage in soils, biogeochemical cycles of nutrients (C, N, P), fate of potentially present chemical and biological contaminants, soil biological activities; (2) simulate the long-term consequences of regular application and integrate them in environmental analysis that will allow to (3) test various alternative scenarios of application.
+
+The experimental sites allow measuring the long-term evolution of the agro-system after repeated applications of organic residues derived from urban and agricultural activities (sludge, composts, manures) and undergoing various treatments (none, composting, anaerobic digestion). The SOERE PRO network involved different research institutes and collaborations with concerned professional partners. The SOERE PRO sites are managed to provide field experiments to support research programs (ex. FP7 GENESIS, ADEME Bioindicateurs, ANR Isard, ANR CESA CEMABS, SNOWMAN, PhD works).  
+
+3 on-going sites of the SOERE PRO network are involved in ANAEE-France: QualiAgro located in the Paris basin comparing urban composts and manure (started in 1998), EFELE located in Brittany comparing different manures and different treatment processes (started in 2012), Colmar located in north east of France comparing composted and non-composted residues (started in 2000).
+
+In addition to those 3 sites involved directly in ANAEE-France, the SOERE PRO network includes also 4 other sites covering larger agro-pedo-climatic contexts with: 1 site located in tropical conditions in La Réunion Island comparing urban OR and farm effluents (started in 2014), 2 historical sites OR where OR spreading has stopped but allowing to study system resiliency and including high contamination levels (La Bouzule and Couhins), 1 site located in Burkina Faso devoted to the study of the OR input mode of various composts and conducted under tropical conditions. 
+
+The same analyses and measurements are managed on the 3 sites involved in ANAEE-France. The same instrumentations are installed to monitor the hydrodynamic functioning of soil: TDR probes, tensiometers, temperature sensors, lysimeters. Climatic data are monitored on all sites. Greenhouse gas emissions (N2O, CO2) will be continuously measured by gas measurement chambers. 
+The applied organic residues, soils, crops and waters (rains and leached waters) are sampled and analysed similarly (parameters, analytical methods, laboratories). 
+
+Data management is centralized at the SOERE PRO level with the development of web interfaces (data integration and extraction) and data bases for field experiment data, analytical data of organic wastes applied in France and for traceability information concerning SOERE PRO samples. The information system is developed by the INRA EcoInformatique team devoted to develop and manage the information systems of the INRA long-term observatories (INRA Orléans). 
+
+Samples of OR, soil and crops are long-term stored under harmonized conditions to allow future analyses and/or future investigations by scientists.</abstract>
+    <lineage>The Centre for Research on the impacts of the application in agriculture of organic waste products (PRO), initiated in the early 2000s, was certified in 2010 as observation and experimentation system in the long term for environmental Research (SOERE) by the National environment research Agency (Allenvi).</lineage>
+    <responsibleParty>Point of contact|metadata|INRA||amichaud@grignon.inra.fr|Aurélia MICHAUD||Avenue Lucien de Brétignières, Thiverval Grignon, 78550, France|+33 1 30 81 53 12||1|</responsibleParty>
+    <responsibleParty>Point of contact|resource|INRA||amichaud@grignon.inra.fr|Aurélia MICHAUD||Avenue Lucien de Brétignières, Thiverval Grignon, 78550, France|+33 1 30 81 53 12||2|</responsibleParty>
+    <responsibleParty>Point of contact|resource|INRA||sabine.houot@grignon.inra.fr|Sabine HOUOT||Avenue Lucien de Brétignières, Thiverval Grignon, 78550, France|+33 1 30 81 54 01||1|</responsibleParty>
+    <type>dataset</type>
+    <isHarvested>y</isHarvested>
+    <displayOrder>0</displayOrder>
+    <docLocale>eng</docLocale>
+    <popularity>71</popularity>
+    <keyword>AnaEE-France</keyword>
+    <keyword>Environmental monitoring facilities</keyword>
+    <keyword>France</keyword>
+    <keyword>P and K content in organic amendment</keyword>
+    <keyword>Structure</keyword>
+    <keyword>agricultural practicies</keyword>
+    <keyword>air humidity</keyword>
+    <keyword>air temperature</keyword>
+    <keyword>carbon flux in soil vegetation atmosphere system</keyword>
+    <keyword>environmental monitoring</keyword>
+    <keyword>global radiation</keyword>
+    <keyword>granulometry of the organic amendment</keyword>
+    <keyword>major elements content in organic amendment</keyword>
+    <keyword>mass flux in soil vegetation atmosphere system</keyword>
+    <keyword>nitrogen flux in soil vegetation atmosphere system</keyword>
+    <keyword>nutrient biogeochemical cycle</keyword>
+    <keyword>organic residue recycling</keyword>
+    <keyword>phosphorus flux in soil vegetation atmosphere system</keyword>
+    <keyword>pluviometry</keyword>
+    <keyword>soil P and K</keyword>
+    <keyword>soil PH</keyword>
+    <keyword>soil fauna</keyword>
+    <keyword>soil granulometry</keyword>
+    <keyword>soil major elements</keyword>
+    <keyword>soil moisture</keyword>
+    <keyword>soil organic contaminants</keyword>
+    <keyword>soil solution N content</keyword>
+    <keyword>soil solution NO2- content</keyword>
+    <keyword>soil solution NO3-  content</keyword>
+    <keyword>soil solution P content</keyword>
+    <keyword>soil solution Ph</keyword>
+    <keyword>soil solution conductivity</keyword>
+    <keyword>soil solution major elements</keyword>
+    <keyword>soil solution organic contaminants</keyword>
+    <keyword>soil solution trace elements</keyword>
+    <keyword>soil temperature</keyword>
+    <keyword>soil trace elements</keyword>
+    <keyword>trace elements content in  organic amendment</keyword>
+    <keyword>vegetation carbon content</keyword>
+    <keyword>vegetation major element  content</keyword>
+    <keyword>vegetation nitrogen content</keyword>
+    <keyword>wind speed</keyword>
+    <keyword>yield</keyword>
+    <publishedForGroup>1</publishedForGroup>
+    <identifier>http://w3.avignon.inra.fr/geonetwork_anaee/f322b815-bd15-4d72-841a-9b5acca44a50</identifier>
+    <image>thumbnail|http://w3.avignon.inra.fr:80/geonetwork_anaee/srv/eng/resources.get?uuid=f322b815-bd15-4d72-841a-9b5acca44a50&amp;fname=SOEREPRO_Logo_2014.png|large_thumbnail</image>
+    <tempExtentBegin>2004-12-31t23:00:00.000z</tempExtentBegin>
+    <tempExtentBegin>2005-01-01</tempExtentBegin>
+    <mdLanguage>eng</mdLanguage>
+    <mdLanguage>fre</mdLanguage>
+    <crsDetails>{ "code": "WGS 84 (EPSG:4326)", "codeSpace": "", "name": "", "url": "" }</crsDetails>
+    <maintenanceAndUpdateFrequency_text>As needed</maintenanceAndUpdateFrequency_text>
+    <format>inapplicable</format>
+    <denominator>50000</denominator>
+    <root>gmd:MD_Metadata</root>
+    <isTemplate>n</isTemplate>
+    <valid>-1</valid>
+    <feedbackCount>0</feedbackCount>
+    <tempExtentEnd>2020-06-14t21:59:59.000z</tempExtentEnd>
+    <rating>0</rating>
+    <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+    <category>datasets</category>
+    <updateFrequency>asNeeded</updateFrequency>
+    <geoBox>-5.7|41.3|9.5|51</geoBox>
+    <owner>1</owner>
+    <recordOwner>Mitch Admin</recordOwner>
+    <defaultAbstract>The SOERE PRO is a network of long-term field experiments dedicated to the quantification of all effects of organic residue (OR) application in agriculture. It has been created in 2011 to evaluate benefits and risks associated to organic residue recycling in agriculture. 
+The SOERE PRO provides data (1) to better evaluate the effects of regular OR application on organic matter dynamic and potential C storage in soils, biogeochemical cycles of nutrients (C, N, P), fate of potentially present chemical and biological contaminants, soil biological activities; (2) simulate the long-term consequences of regular application and integrate them in environmental analysis that will allow to (3) test various alternative scenarios of application.
+
+The experimental sites allow measuring the long-term evolution of the agro-system after repeated applications of organic residues derived from urban and agricultural activities (sludge, composts, manures) and undergoing various treatments (none, composting, anaerobic digestion). The SOERE PRO network involved different research institutes and collaborations with concerned professional partners. The SOERE PRO sites are managed to provide field experiments to support research programs (ex. FP7 GENESIS, ADEME Bioindicateurs, ANR Isard, ANR CESA CEMABS, SNOWMAN, PhD works).  
+
+3 on-going sites of the SOERE PRO network are involved in ANAEE-France: QualiAgro located in the Paris basin comparing urban composts and manure (started in 1998), EFELE located in Brittany comparing different manures and different treatment processes (started in 2012), Colmar located in north east of France comparing composted and non-composted residues (started in 2000).
+
+In addition to those 3 sites involved directly in ANAEE-France, the SOERE PRO network includes also 4 other sites covering larger agro-pedo-climatic contexts with: 1 site located in tropical conditions in La Réunion Island comparing urban OR and farm effluents (started in 2014), 2 historical sites OR where OR spreading has stopped but allowing to study system resiliency and including high contamination levels (La Bouzule and Couhins), 1 site located in Burkina Faso devoted to the study of the OR input mode of various composts and conducted under tropical conditions. 
+
+The same analyses and measurements are managed on the 3 sites involved in ANAEE-France. The same instrumentations are installed to monitor the hydrodynamic functioning of soil: TDR probes, tensiometers, temperature sensors, lysimeters. Climatic data are monitored on all sites. Greenhouse gas emissions (N2O, CO2) will be continuously measured by gas measurement chambers. 
+The applied organic residues, soils, crops and waters (rains and leached waters) are sampled and analysed similarly (parameters, analytical methods, laboratories). 
+
+Data management is centralized at the SOERE PRO level with the development of web interfaces (data integration and extraction) and data bases for field experiment data, analytical data of organic wastes applied in France and for traceability information concerning SOERE PRO samples. The information system is developed by the INRA EcoInformatique team devoted to develop and manage the information systems of the INRA long-term observatories (INRA Orléans). 
+
+Samples of OR, soil and crops are long-term stored under harmonized conditions to allow future analyses and/or future investigations by scientists.</defaultAbstract>
+    <link>SOERE PRO WebSite||https://www.allenvi.fr/groupes-transversaux/infrastructures-de-recherche/pro|WWW:LINK-1.0-http--link|text/html|1</link>
+    <link>SOERE PRO WebSite||https://www.allenvi.fr/groupes-transversaux/infrastructures-de-recherche/pro|WWW:LINK-1.0-http--link|text/html|1|</link>
+    <defaultTitle>SOERE PRO Long term field experiment network for research on the recycling of organic residues in agriculture</defaultTitle>
+    <datasetLang>eng</datasetLang>
+    <userinfo>Mitch|Admin|Mitch|Administrator</userinfo>
+    <topicCat>structure</topicCat>
+    <legalConstraints>See AnaEE-France charters.</legalConstraints>
+    <creationDate>2005-01-01</creationDate>
+    <standardName>ISO 19115:2003/19139</standardName>
+    <crs>WGS 84 (EPSG:4326)</crs>
+    <title>SOERE PRO Long term field experiment network for research on the recycling of organic residues in agriculture</title>
+    <draft>n</draft>
+    <geoDesc>France</geoDesc>
+    <keywordGroup>{ 'theme.anaeeThes.rdf' :[ {'value': 'environmental monitoring', 'link': ''} , {'value': 'nutrient biogeochemical cycle', 'link': ''} , {'value': 'organic residue recycling', 'link': ''} , {'value': 'AnaEE-France', 'link': ''} ] , 'GEMET - INSPIRE themes, version 1.0 INSPIRE themes' :[ {'value': 'Environmental monitoring facilities', 'link': ''} ] , 'AnaEE-France Locations' :[ {'value': 'France', 'link': ''} ] , 'theme.variableAnaEE.rdf' :[ {'value': 'air temperature', 'link': ''} , {'value': 'pluviometry', 'link': ''} , {'value': 'trace elements content in organic amendment', 'link': ''} , {'value': 'soil temperature', 'link': ''} , {'value': 'soil moisture', 'link': ''} , {'value': 'soil granulometry', 'link': ''} , {'value': 'soil trace elements', 'link': ''} , {'value': 'granulometry of the organic amendment', 'link': ''} , {'value': 'soil PH', 'link': ''} , {'value': 'agricultural practicies', 'link': ''} , {'value': 'global radiation', 'link': ''} , {'value': 'soil solution conductivity', 'link': ''} , {'value': 'wind speed', 'link': ''} , {'value': 'air humidity', 'link': ''} , {'value': 'mass flux in soil vegetation atmosphere system', 'link': ''} , {'value': 'carbon flux in soil vegetation atmosphere system', 'link': ''} , {'value': 'soil major elements', 'link': ''} , {'value': 'nitrogen flux in soil vegetation atmosphere system', 'link': ''} , {'value': 'soil solution N content', 'link': ''} , {'value': 'phosphorus flux in soil vegetation atmosphere system', 'link': ''} , {'value': 'soil solution organic contaminants', 'link': ''} , {'value': 'soil solution P content', 'link': ''} , {'value': 'soil P and K', 'link': ''} , {'value': 'soil solution NO3- content', 'link': ''} , {'value': 'soil organic contaminants', 'link': ''} , {'value': 'soil solution trace elements', 'link': ''} , {'value': 'yield', 'link': ''} , {'value': 'vegetation nitrogen content', 'link': ''} , {'value': 'vegetation major element content', 'link': ''} , {'value': 'soil solution NO2- content', 'link': ''} , {'value': 'major elements content in organic amendment', 'link': ''} , {'value': 'P and K content in organic amendment', 'link': ''} , {'value': 'soil solution major elements', 'link': ''} , {'value': 'soil fauna', 'link': ''} , {'value': 'soil solution Ph', 'link': ''} , {'value': 'vegetation carbon content', 'link': ''} ] }</keywordGroup>
+    <groupOwner>144</groupOwner>
+    <_locale>eng</_locale>
+    <geonet:info xmlns:geonet="http://www.fao.org/geonetwork">
+      <id>360</id>
+      <uuid>f322b815-bd15-4d72-841a-9b5acca44a50</uuid>
+      <schema>iso19139</schema>
+      <createDate>2014-07-30T10:24:39</createDate>
+      <changeDate>2018-06-22T11:52:38</changeDate>
+      <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+      <isPublishedToAll>true</isPublishedToAll>
+      <view>true</view>
+      <notify>false</notify>
+      <download>true</download>
+      <dynamic>true</dynamic>
+      <featured>false</featured>
+      <selected>false</selected>
+    </geonet:info>
+  </metadata>
+  <metadata>
+    <title>Physiographic Map of North and Central Eurasia (Sample record, please remove!)</title>
+    <abstract>Physiographic maps for the CIS and Baltic States (CIS_BS), Mongolia, China and Taiwan Province of China. Between the three regions (China, Mongolia, and CIS_BS countries) DCW boundaries were introduced. There are no DCW boundaries between Russian Federation and the rest of the new countries of the CIS_BS. The original physiographic map of China includes the Chinese border between India and China, which extends beyond the Indian border line, and the South China Sea islands (no physiographic information is present for islands in the South China Sea). The use of these country boundaries does not imply the expression of any opinion whatsoever on the part of FAO concerning the legal or constitutional states of any country, territory, or sea area, or concerning delimitation of frontiers. The Maps visualize the items LANDF, HYPSO, SLOPE that correspond to Landform, Hypsometry and Slope.</abstract>
+    <responsibleParty>pointOfContact|resource|FAO - Land and Water Development Division||Freddy.Nachtergaele@fao.org|Nachtergaele Freddy|Technical officer|Viale delle Terme di Caracalla, Rome, RM, 00153, Italy|||1|</responsibleParty>
+    <responsibleParty>pointOfContact|metadata|FAO - Land and Water Development Division|||Marina Zanetti|GIS specialist||||1|</responsibleParty>
+    <type>dataset</type>
+    <isHarvested>n</isHarvested>
+    <displayOrder>0</displayOrder>
+    <popularity>0</popularity>
+    <keyword>physiography, soil</keyword>
+    <keyword>Eurasia</keyword>
+    <keyword>geoscientificInformation</keyword>
+    <publishedForGroup>0</publishedForGroup>
+    <publishedForGroup>1</publishedForGroup>
+    <publishedForGroup>2</publishedForGroup>
+    <image>thumbnail|http://localhost:8080/geonetwork/srv/api/records/78f93047-74f8-4419-ac3d-fc62e4b0477b/attachments/phy_s.gif|Physiographic Map (small preview)</image>
+    <image>overview|http://localhost:8080/geonetwork/srv/api/records/78f93047-74f8-4419-ac3d-fc62e4b0477b/attachments/phy.gif|Physiographic Map</image>
+    <tempExtentBegin>2000-01-01t03:29:00.000z</tempExtentBegin>
+    <crsDetails>{ "code": "Lambert Azimuthal Projection", "codeSpace": "", "name": "", "url": "" }</crsDetails>
+    <maintenanceAndUpdateFrequency_text>asNeeded</maintenanceAndUpdateFrequency_text>
+    <spatialRepresentationType_text>vector</spatialRepresentationType_text>
+    <denominator>5000000</denominator>
+    <root>gmd:MD_Metadata</root>
+    <isTemplate>n</isTemplate>
+    <valid>-1</valid>
+    <feedbackCount>0</feedbackCount>
+    <tempExtentEnd>2008-01-08t03:29:00.000z</tempExtentEnd>
+    <rating>0</rating>
+    <source>83177e44-fcc4-4fcd-890e-b48bc9d097ff</source>
+    <category>maps</category>
+    <category>interactiveResources</category>
+    <status>completed</status>
+    <updateFrequency>asNeeded</updateFrequency>
+    <geoBox>37|-3|156|83</geoBox>
+    <owner>1</owner>
+    <recordOwner>Mitch Admin</recordOwner>
+    <defaultAbstract>Physiographic maps for the CIS and Baltic States (CIS_BS), Mongolia, China and Taiwan Province of China. Between the three regions (China, Mongolia, and CIS_BS countries) DCW boundaries were introduced. There are no DCW boundaries between Russian Federation and the rest of the new countries of the CIS_BS. The original physiographic map of China includes the Chinese border between India and China, which extends beyond the Indian border line, and the South China Sea islands (no physiographic information is present for islands in the South China Sea). The use of these country boundaries does not imply the expression of any opinion whatsoever on the part of FAO concerning the legal or constitutional states of any country, territory, or sea area, or concerning delimitation of frontiers. The Maps visualize the items LANDF, HYPSO, SLOPE that correspond to Landform, Hypsometry and Slope.</defaultAbstract>
+    <link>phy.zip|Physiography of North and Central Eurasia Landform (Gif Format)|http://localhost:8080/geonetwork/srv/api/records/78f93047-74f8-4419-ac3d-fc62e4b0477b/attachments/phy.zip|WWW:DOWNLOAD-1.0-http--download|
+        application/zip
+      |1</link>
+    <link>GEONETWORK:phy_landf_7386|Physiography of North and Central Eurasia Landform|http://data.fao.org/maps/wms|OGC:WMS|application/vnd.ogc.wms_xml|1</link>
+    <link>GEONETWORK:phy_slope_7386|Physiography of North and Central Eurasia Slope|http://data.fao.org/maps/wms|OGC:WMS|application/vnd.ogc.wms_xml|1</link>
+    <link>GEONETWORK:phy_hypso_7386|Physiography of North and Central Eurasia Hypsography|http://data.fao.org/maps/wms|OGC:WMS|application/vnd.ogc.wms_xml|1</link>
+    <defaultTitle>Physiographic Map of North and Central Eurasia (Sample record, please remove!)</defaultTitle>
+    <userinfo>Mitch|Admin|Mitch|Administrator</userinfo>
+    <topicCat>geoscientificInformation</topicCat>
+    <publicationDate>1999-10-01</publicationDate>
+    <status_text>completed</status_text>
+    <standardName>ISO 19115:2003/19139</standardName>
+    <crs>Lambert Azimuthal Projection</crs>
+    <logo>/images/logos/83177e44-fcc4-4fcd-890e-b48bc9d097ff.png</logo>
+    <draft>n</draft>
+    <keywordGroup>{ 'otherKeywords': [ {'value': 'physiography, soil', 'link': ''} , {'value': 'Eurasia', 'link': ''} ] }</keywordGroup>
+    <geonet:info xmlns:geonet="http://www.fao.org/geonetwork">
+      <id>122</id>
+      <uuid>78f93047-74f8-4419-ac3d-fc62e4b0477b</uuid>
+      <schema>iso19139</schema>
+      <createDate>2007-07-25T12:05:45</createDate>
+      <changeDate>2007-11-06T12:10:47</changeDate>
+      <source>83177e44-fcc4-4fcd-890e-b48bc9d097ff</source>
+      <isPublishedToAll>true</isPublishedToAll>
+      <view>true</view>
+      <notify>false</notify>
+      <download>true</download>
+      <dynamic>true</dynamic>
+      <featured>true</featured>
+      <selected>false</selected>
+    </geonet:info>
+  </metadata>
+</response>
+

@@ -1,0 +1,1785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response from="1" to="14" selected="0" maxPageSize="100">
+  <summary count="14" type="local">
+    <dimension name="type" label="types">
+      <category value="dataset" label="Dataset" count="14" />
+    </dimension>
+    <dimension name="mdActions" label="mdActions">
+      <category value="mdActions-download" label="mdActions-download" count="2" />
+      <category value="mdActions-view" label="mdActions-view" count="2" />
+    </dimension>
+    <dimension name="topicCat" label="topicCats">
+      <category value="structure" label="Structure" count="11" />
+      <category value="inlandWaters" label="Inland waters" count="1" />
+      <category value="boundaries" label="Boundaries" count="1" />
+      <category value="geoscientificInformation" label="Geoscientific information" count="1" />
+    </dimension>
+    <dimension name="inspireThemeURI" label="inspireThemesURI" />
+    <dimension name="keyword" label="keywords">
+      <category value="AnaEE-France" label="AnaEE-France" count="11" />
+      <category value="Environmental monitoring facilities" label="Environmental monitoring facilities" count="11" />
+      <category value="Structure" label="Structure" count="11" />
+      <category value="air humidity" label="air humidity" count="9" />
+      <category value="air temperature" label="air temperature" count="9" />
+      <category value="pluviometry" label="pluviometry" count="9" />
+      <category value="soil moisture" label="soil moisture" count="8" />
+      <category value="soil solution chemical analysis" label="soil solution chemical analysis" count="8" />
+      <category value="soil temperature" label="soil temperature" count="8" />
+      <category value="long term monitoring" label="long term monitoring" count="7" />
+      <category value="CO2 flux" label="CO2 flux" count="7" />
+      <category value="global radiation" label="global radiation" count="7" />
+      <category value="wind speed" label="wind speed" count="7" />
+      <category value="soil major elements" label="soil major elements" count="6" />
+      <category value="soil solution anion" label="soil solution anion" count="6" />
+    </dimension>
+    <dimension name="orgName" label="orgNames">
+      <category value="INRA" label="INRA" count="9" />
+      <category value="CNRS" label="CNRS" count="2" />
+      <category value="FAO - NRCW" label="FAO - NRCW" count="1" />
+      <category value="Department of Sustainability and Environment (DSE)" label="Department of Sustainability and Environment (DSE)" count="1" />
+      <category value="FAO - Land and Water Development Division" label="FAO - Land and Water Development Division" count="1" />
+    </dimension>
+    <dimension name="sourceCatalog" label="sourceCatalog">
+      <category value="19e4395c-b2eb-4592-b490-22689dc7090d" label="AnaEE-France  Metadata Catalog" count="11" />
+      <category value="83177e44-fcc4-4fcd-890e-b48bc9d097ff" label="My GeoNetwork catalogue" count="3" />
+    </dimension>
+    <dimension name="createDateYear" label="createDateYears">
+      <category value="2020" label="2020" count="2" />
+      <category value="2011" label="2011" count="1" />
+      <category value="2010" label="2010" count="1" />
+      <category value="2008" label="2008" count="2" />
+      <category value="2007" label="2007" count="1" />
+      <category value="2005" label="2005" count="2" />
+      <category value="2001" label="2001" count="1" />
+      <category value="2000" label="2000" count="2" />
+      <category value="1997" label="1997" count="1" />
+    </dimension>
+    <dimension name="format" label="formats">
+      <category value="Most popular formats including ESRI shape, MapInfo Tab and Oracle Spatial" label="Most popular formats including ESRI shape, MapInfo Tab and Oracle Spatial" count="1" />
+      <category value="ShapeFile" label="ShapeFile" count="1" />
+      <category value="inapplicable" label="inapplicable" count="10" />
+    </dimension>
+    <dimension name="spatialRepresentationType" label="spatialRepresentationTypes">
+      <category value="vector" label="Vector" count="3" />
+    </dimension>
+    <dimension name="maintenanceAndUpdateFrequency" label="maintenanceAndUpdateFrequencies">
+      <category value="asNeeded" label="As needed" count="13" />
+      <category value="fortnightly" label="Fortnightly" count="1" />
+    </dimension>
+    <dimension name="status" label="status">
+      <category value="completed" label="Completed" count="2" />
+      <category value="onGoing" label="On going" count="1" />
+    </dimension>
+    <dimension name="serviceType" label="serviceTypes" />
+    <dimension name="denominator" label="denominators">
+      <category value="5000000" label="5000000" count="2" />
+      <category value="50000" label="50000" count="11" />
+    </dimension>
+    <dimension name="resolution" label="resolutions">
+      <category value="25 meters" label="25 meters" count="1" />
+    </dimension>
+  </summary>
+  <metadata>
+    <abstract>The Estrées-Mons platform is dedicated to field crops. It evaluates the effect of agricultural practices and their interactions on carbon and nitrogen cycles in the soil-plant-water-atmosphere system. Nitrate leaching, evolution of soil organic matter and greenhouse gas emissions (CO2, N2O) are monitored according to the level of nitrogen intensification, export of crop residues, soil tillage, legume frequency and the nature of the rotation. The key issue is to understand how the high variation in carbon and nitrate inputs affects their cycles in more or less intensified systems.</abstract>
+    <lineage>The Estrées-Mons platform is part of the SOERE ACBB.
+The SOERE ACBB is a service of AnaEE-France Infrastructure.</lineage>
+    <responsibleParty>Point of contact|metadata|INRA||frederique.louault@clermont.inra.fr|Frédérique LOUAULT||INRA UREP Site de Crouel 5 Chemin de Beaulieu, Clermont-Ferrand, 63039 cedex 02, France|+33 4 73 62 44 30||1|</responsibleParty>
+    <responsibleParty>Point of contact|resource|INRA||bruno.mary@laon.inra.fr|Bruno MARY||INRA 2 chaussée Brunehaut - Estrées-Mons, Peronne Cedex, 80203, France|+33 3 23 24 07 71||1|</responsibleParty>
+    <type>dataset</type>
+    <isHarvested>y</isHarvested>
+    <displayOrder>0</displayOrder>
+    <docLocale>eng</docLocale>
+    <popularity>77</popularity>
+    <keyword>AnaEE-France</keyword>
+    <keyword>CO2 flux</keyword>
+    <keyword>COD content in rainwater</keyword>
+    <keyword>Environmental monitoring facilities</keyword>
+    <keyword>Estrees-Mons</keyword>
+    <keyword>N2O flux</keyword>
+    <keyword>NH4+ content in rainwater</keyword>
+    <keyword>PAR radiation</keyword>
+    <keyword>SO4- content in rainwater</keyword>
+    <keyword>Structure</keyword>
+    <keyword>aerial biomass</keyword>
+    <keyword>agricultural practicies</keyword>
+    <keyword>agro-ecosystem</keyword>
+    <keyword>air humidity</keyword>
+    <keyword>air temperature</keyword>
+    <keyword>alfalfa</keyword>
+    <keyword>animals</keyword>
+    <keyword>anthropogenic disturbances</keyword>
+    <keyword>arable land</keyword>
+    <keyword>barley</keyword>
+    <keyword>biogeochemical cycle</keyword>
+    <keyword>botanical composition</keyword>
+    <keyword>carbonates</keyword>
+    <keyword>catch crop species</keyword>
+    <keyword>cation exchange capacity</keyword>
+    <keyword>climate change</keyword>
+    <keyword>crop</keyword>
+    <keyword>dry bulk density of soil</keyword>
+    <keyword>evapotranspiration</keyword>
+    <keyword>fertilisation</keyword>
+    <keyword>global radiation</keyword>
+    <keyword>greenhouse gas</keyword>
+    <keyword>land use</keyword>
+    <keyword>long term experiment</keyword>
+    <keyword>long term monitoring</keyword>
+    <keyword>maize</keyword>
+    <keyword>microbial biomass</keyword>
+    <keyword>microbial diversity</keyword>
+    <keyword>pea</keyword>
+    <keyword>plant</keyword>
+    <keyword>plantresidue management</keyword>
+    <keyword>pluviometry</keyword>
+    <keyword>rapeseed</keyword>
+    <keyword>root biomass</keyword>
+    <keyword>rotation</keyword>
+    <keyword>sensible heat flux</keyword>
+    <keyword>soil P and K</keyword>
+    <keyword>soil PH</keyword>
+    <keyword>soil chemichal and geochemical analysis</keyword>
+    <keyword>soil compaction</keyword>
+    <keyword>soil granulometry</keyword>
+    <keyword>soil heat flux</keyword>
+    <keyword>soil major elements</keyword>
+    <keyword>soil moisture</keyword>
+    <keyword>soil respiration</keyword>
+    <keyword>soil solution DOC</keyword>
+    <keyword>soil solution Eh</keyword>
+    <keyword>soil solution N content</keyword>
+    <keyword>soil solution NO2- content</keyword>
+    <keyword>soil solution NO3- content</keyword>
+    <keyword>soil solution P content</keyword>
+    <keyword>soil solution PO3- content</keyword>
+    <keyword>soil solution Ph</keyword>
+    <keyword>soil solution SO4- content</keyword>
+    <keyword>soil solution anion</keyword>
+    <keyword>soil solution cations</keyword>
+    <keyword>soil solution chemical analysis</keyword>
+    <keyword>soil solution major elements</keyword>
+    <keyword>soil temperature</keyword>
+    <keyword>soil water retention characteristics</keyword>
+    <keyword>solid atmospheric deposition</keyword>
+    <keyword>switchgrass</keyword>
+    <keyword>tillage</keyword>
+    <keyword>vegetation carbon content</keyword>
+    <keyword>vegetation major element content</keyword>
+    <keyword>vegetation nitrogen content</keyword>
+    <keyword>weed management</keyword>
+    <keyword>wheat</keyword>
+    <keyword>wind direction</keyword>
+    <keyword>wind speed</keyword>
+    <publishedForGroup>1</publishedForGroup>
+    <identifier>http://w3.avignon.inra.fr/geonetwork_anaee/f0dafd0b-3462-45b1-9062-538c2296d030</identifier>
+    <image>thumbnail|http://w3.avignon.inra.fr:80/geonetwork_anaee/srv/eng/resources.get?uuid=32367bcf-e2d5-4cf3-92bb-b1734fa670a2&amp;fname=SOERE_ACBB.png|large_thumbnail</image>
+    <tempExtentBegin>2010-02-28t23:00:00.000z</tempExtentBegin>
+    <tempExtentBegin>2010-03-01</tempExtentBegin>
+    <mdLanguage>eng</mdLanguage>
+    <mdLanguage>fre</mdLanguage>
+    <crsDetails>{ "code": "WGS 84 (EPSG:4326)", "codeSpace": "", "name": "", "url": "" }</crsDetails>
+    <maintenanceAndUpdateFrequency_text>As needed</maintenanceAndUpdateFrequency_text>
+    <format>inapplicable</format>
+    <denominator>50000</denominator>
+    <root>gmd:MD_Metadata</root>
+    <isTemplate>n</isTemplate>
+    <valid>-1</valid>
+    <feedbackCount>0</feedbackCount>
+    <tempExtentEnd>2020-06-14t21:59:59.000z</tempExtentEnd>
+    <rating>0</rating>
+    <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+    <category>datasets</category>
+    <updateFrequency>asNeeded</updateFrequency>
+    <owner>1</owner>
+    <recordOwner>Mitch Admin</recordOwner>
+    <revisionDate>2020-01-03</revisionDate>
+    <defaultAbstract>The Estrées-Mons platform is dedicated to field crops. It evaluates the effect of agricultural practices and their interactions on carbon and nitrogen cycles in the soil-plant-water-atmosphere system. Nitrate leaching, evolution of soil organic matter and greenhouse gas emissions (CO2, N2O) are monitored according to the level of nitrogen intensification, export of crop residues, soil tillage, legume frequency and the nature of the rotation. The key issue is to understand how the high variation in carbon and nitrate inputs affects their cycles in more or less intensified systems.</defaultAbstract>
+    <link>SOERE ACBB website||http://www.soere-acbb.com|WWW:LINK-1.0-http--link|text/html|1</link>
+    <link>SOERE ACBB website||http://www.soere-acbb.com|WWW:LINK-1.0-http--link|text/html|1|</link>
+    <link>||https://www6.hautsdefrance.inra.fr/agroimpact/Nos-dispositifs-outils/Dispositifs-experimentaux-et-infrastructures/Echelle-du-systeme-de-culture/SOERE-ACBB||text/plain|1</link>
+    <link>||https://www6.hautsdefrance.inra.fr/agroimpact/Nos-dispositifs-outils/Dispositifs-experimentaux-et-infrastructures/Echelle-du-systeme-de-culture/SOERE-ACBB||text/plain|1|</link>
+    <defaultTitle>SOERE ACBB Estrées-Mons Platform</defaultTitle>
+    <datasetLang>eng</datasetLang>
+    <userinfo>Mitch|Admin|Mitch|Administrator</userinfo>
+    <topicCat>structure</topicCat>
+    <legalConstraints>See AnaEE-France charters.</legalConstraints>
+    <standardName>ISO 19115:2003/19139</standardName>
+    <crs>WGS 84 (EPSG:4326)</crs>
+    <title>SOERE ACBB Estrées-Mons Platform</title>
+    <parentId>32367bcf-e2d5-4cf3-92bb-b1734fa670a2</parentId>
+    <draft>n</draft>
+    <geoDesc>Estrees-Mons</geoDesc>
+    <geoDesc>Mons-en-Chaussee</geoDesc>
+    <keywordGroup>{ 'theme.anaeeThes.rdf' :[ {'value': 'climate change', 'link': ''} , {'value': 'long term monitoring', 'link': ''} , {'value': 'long term experiment', 'link': ''} , {'value': 'AnaEE-France', 'link': ''} , {'value': 'plant', 'link': ''} , {'value': 'greenhouse gas', 'link': ''} , {'value': 'arable land', 'link': ''} , {'value': 'land use', 'link': ''} , {'value': 'biogeochemical cycle', 'link': ''} , {'value': 'anthropogenic disturbances', 'link': ''} , {'value': 'crop', 'link': ''} , {'value': 'animals', 'link': ''} , {'value': 'agro-ecosystem', 'link': ''} ] , 'GEMET - INSPIRE themes, version 1.0 INSPIRE themes' :[ {'value': 'Environmental monitoring facilities', 'link': ''} ] , 'AnaEE-France Locations' :[ {'value': 'Estrees-Mons', 'link': ''} ] , 'theme.variableAnaEE.rdf' :[ {'value': 'soil solution Ph', 'link': ''} , {'value': 'agricultural practicies', 'link': ''} , {'value': 'soil water retention characteristics', 'link': ''} , {'value': 'air temperature', 'link': ''} , {'value': 'air humidity', 'link': ''} , {'value': 'wind direction', 'link': ''} , {'value': 'wind speed', 'link': ''} , {'value': 'evapotranspiration', 'link': ''} , {'value': 'soil temperature', 'link': ''} , {'value': 'PAR radiation', 'link': ''} , {'value': 'dry bulk density of soil', 'link': ''} , {'value': 'soil P and K', 'link': ''} , {'value': 'global radiation', 'link': ''} , {'value': 'soil solution anion', 'link': ''} , {'value': 'soil solution P content', 'link': ''} , {'value': 'soil major elements', 'link': ''} , {'value': 'pluviometry', 'link': ''} , {'value': 'soil solution N content', 'link': ''} , {'value': 'soil solution PO3- content', 'link': ''} , {'value': 'soil moisture', 'link': ''} , {'value': 'soil PH', 'link': ''} , {'value': 'soil solution DOC', 'link': ''} , {'value': 'soil solution NO2- content', 'link': ''} , {'value': 'CO2 flux', 'link': ''} , {'value': 'soil solution cations', 'link': ''} , {'value': 'soil solution chemical analysis', 'link': ''} , {'value': 'soil solution SO4- content', 'link': ''} , {'value': 'soil solution NO3- content', 'link': ''} , {'value': 'cation exchange capacity', 'link': ''} , {'value': 'vegetation nitrogen content', 'link': ''} , {'value': 'soil respiration', 'link': ''} , {'value': 'vegetation carbon content', 'link': ''} , {'value': 'soil solution Eh', 'link': ''} , {'value': 'soil heat flux', 'link': ''} , {'value': 'N2O flux', 'link': ''} , {'value': 'aerial biomass', 'link': ''} , {'value': 'soil granulometry', 'link': ''} , {'value': 'sensible heat flux', 'link': ''} , {'value': 'soil solution major elements', 'link': ''} , {'value': 'vegetation major element content', 'link': ''} , {'value': 'root biomass', 'link': ''} , {'value': 'microbial biomass', 'link': ''} , {'value': 'solid atmospheric deposition', 'link': ''} , {'value': 'microbial diversity', 'link': ''} , {'value': 'carbonates', 'link': ''} , {'value': 'COD content in rainwater', 'link': ''} , {'value': 'SO4- content in rainwater', 'link': ''} , {'value': 'botanical composition', 'link': ''} , {'value': 'soil chemichal and geochemical analysis', 'link': ''} , {'value': 'NH4+ content in rainwater', 'link': ''} ] , 'theme.drivers.rdf' :[ {'value': 'tillage', 'link': ''} , {'value': 'rotation', 'link': ''} , {'value': 'catch crop species', 'link': ''} , {'value': 'weed management', 'link': ''} , {'value': 'plantresidue management', 'link': ''} , {'value': 'fertilisation', 'link': ''} , {'value': 'soil compaction', 'link': ''} ] , 'theme.EcosystemAnaEE.rdf' :[ {'value': 'wheat', 'link': ''} , {'value': 'maize', 'link': ''} , {'value': 'barley', 'link': ''} , {'value': 'pea', 'link': ''} , {'value': 'rapeseed', 'link': ''} , {'value': 'switchgrass', 'link': ''} , {'value': 'alfalfa', 'link': ''} ] }</keywordGroup>
+    <groupOwner>144</groupOwner>
+    <_locale>eng</_locale>
+    <geonet:info xmlns:geonet="http://www.fao.org/geonetwork">
+      <id>357</id>
+      <uuid>f0dafd0b-3462-45b1-9062-538c2296d030</uuid>
+      <schema>iso19139</schema>
+      <createDate>2014-06-18T11:48:31</createDate>
+      <changeDate>2020-02-12T17:59:26</changeDate>
+      <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+      <isPublishedToAll>true</isPublishedToAll>
+      <view>true</view>
+      <notify>false</notify>
+      <download>true</download>
+      <dynamic>true</dynamic>
+      <featured>false</featured>
+      <selected>false</selected>
+    </geonet:info>
+  </metadata>
+  <metadata>
+    <abstract>The site of Qualiagro is part of the French national network SOERE PRO (System of Observation and Experimentation for Environmental Research on Organic Residue Recycling). The objectives of QualiAgro are to characterize the agronomic value of urban waste composts and their environmental impacts, in a long-term field trials and related laboratory characterization of the residues. 
+The experimental site (48.90°N and 1.97°E) is located in Feucherolles France (175 m.a.s.l.) with a modified oceanic climate. The soil is a typical Luvisol on loess of the Paris Basin. It has been initiated in 1998 (INRA-Veolia partnership). It is structured as a complete randomized block design (4 replicates, 450m²/plots) on a total surface of 6 ha and include 5 organic treatments: 3 urban composts -   a co-compost of Green Waste and Sludge (GWS), a Biowaste compost (BIOW) and a municipal solid waste compost (MSW) - , 1 reference organic amendment not composted - a farmyard manure (FYM)- and the control -  without organic input. Amendments are applied every 2 years on wheat stubble with an objective of 4 t C ha-1. Additionally, the different treatments received 2 levels of additional mineral nitrogen: low mineral N or optimum mineral N.  The field is managed in conventional wheat-maize rotation.
+Site and plots are equipped for continuous monitoring of meteorological data, soil temperature and humidity. One plot of each treatment is equipped with wick lysimeters at 2 depths (0.45 m and 1 m). At the end of 2014, automatics chambers for N2O and CO2 emission survey will be settled, in order to assess greenhouse gas emissions related to composts and manure use. A Large set of variables mainly including physico-chemical characteristics, are monitored on different compartments of the agro-system (composts, soils, plants, water leaching). For example composts quality, crop yields and grain and crop residues analytical characteristics , main soil analytical characteristics per layer , the  chemical composition of soil solution (collected with  lysimeters), biological communities (microfauna and macrofauned sampling, microbial biomass ) and activities (enzymatic activities, mineralization of organic matter). 
+Data will be stored in a common database specifically developed for the SOERE PRO network and connected with the other SOERE. 
+Soil and plant samples are kept in collection and available for further measurements.</abstract>
+    <lineage>QualiAgro research program conducted jointly by the National Institute of Agronomic Research (INRA) in Grignon and Veolia Environnement Research and Innovation since 1997. 
+
+The objective of this program is to characterize the agronomic value of urban composts and their environmental impacts, from long duration field testings (13 years of experimentation to date) and laboratory work.
+
+QualiAgro is a service of AnaEE-France Infrastructure.</lineage>
+    <responsibleParty>Point of contact|metadata|INRA||vmercier@grignon.inra.fr|Vincent MERCIER||Avenue Lucien de Brétignières, Thiverval Grignon, 78550, France|+33 1 30 83 30 00||1|</responsibleParty>
+    <responsibleParty>Point of contact|resource|INRA||amichaud@grignon.inra.fr|Aurélia MICHAUD||Avenue Lucien de Brétignières, Thiverval Grignon, 78550, France|+33 1 30 81 53 12||2|</responsibleParty>
+    <responsibleParty>Point of contact|resource|INRA||sabine.houot@grignon.inra.fr|Sabine HOUOT||Avenue Lucien de Brétignières, Thiverval Grignon, 78550, France|+33 1 30 81 54 01||1|</responsibleParty>
+    <responsibleParty>Point of contact|resource|INRA||vmercier@grignon.inra.fr|Vincent MERCIER||Avenue Lucien de Brétignières, Thiverval Grignon, 78550, France|+33 1 30 83 30 00||3|</responsibleParty>
+    <type>dataset</type>
+    <isHarvested>y</isHarvested>
+    <displayOrder>0</displayOrder>
+    <docLocale>eng</docLocale>
+    <popularity>130</popularity>
+    <keyword>AnaEE-France</keyword>
+    <keyword>Environmental monitoring facilities</keyword>
+    <keyword>Feucherolles</keyword>
+    <keyword>Paris</keyword>
+    <keyword>Structure</keyword>
+    <keyword>experimental device</keyword>
+    <keyword>organic contaminant</keyword>
+    <keyword>organic matter</keyword>
+    <keyword>urban compost</keyword>
+    <keyword>waste recycling</keyword>
+    <publishedForGroup>1</publishedForGroup>
+    <identifier>http://w3.avignon.inra.fr/geonetwork_anaee/c7179e1a-1316-49f2-a5f9-94ca06bf3259</identifier>
+    <image>thumbnail|http://w3.avignon.inra.fr:80/geonetwork_anaee/srv/eng/resources.get?uuid=c7179e1a-1316-49f2-a5f9-94ca06bf3259&amp;fname=Logo_QualiAgro_2tons.PNG|large_thumbnail</image>
+    <tempExtentBegin>1996-12-31t23:00:00.000z</tempExtentBegin>
+    <tempExtentBegin>1997-01-01</tempExtentBegin>
+    <mdLanguage>eng</mdLanguage>
+    <mdLanguage>fre</mdLanguage>
+    <crsDetails>{ "code": "WGS 84 (EPSG:4326)", "codeSpace": "", "name": "", "url": "" }</crsDetails>
+    <maintenanceAndUpdateFrequency_text>As needed</maintenanceAndUpdateFrequency_text>
+    <denominator>50000</denominator>
+    <root>gmd:MD_Metadata</root>
+    <isTemplate>n</isTemplate>
+    <valid>-1</valid>
+    <feedbackCount>0</feedbackCount>
+    <tempExtentEnd>2020-06-14t21:59:59.000z</tempExtentEnd>
+    <rating>0</rating>
+    <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+    <category>datasets</category>
+    <updateFrequency>asNeeded</updateFrequency>
+    <geoBox>1.87|48.77|2.07|48.97</geoBox>
+    <owner>1</owner>
+    <recordOwner>Mitch Admin</recordOwner>
+    <defaultAbstract>The site of Qualiagro is part of the French national network SOERE PRO (System of Observation and Experimentation for Environmental Research on Organic Residue Recycling). The objectives of QualiAgro are to characterize the agronomic value of urban waste composts and their environmental impacts, in a long-term field trials and related laboratory characterization of the residues. 
+The experimental site (48.90°N and 1.97°E) is located in Feucherolles France (175 m.a.s.l.) with a modified oceanic climate. The soil is a typical Luvisol on loess of the Paris Basin. It has been initiated in 1998 (INRA-Veolia partnership). It is structured as a complete randomized block design (4 replicates, 450m²/plots) on a total surface of 6 ha and include 5 organic treatments: 3 urban composts -   a co-compost of Green Waste and Sludge (GWS), a Biowaste compost (BIOW) and a municipal solid waste compost (MSW) - , 1 reference organic amendment not composted - a farmyard manure (FYM)- and the control -  without organic input. Amendments are applied every 2 years on wheat stubble with an objective of 4 t C ha-1. Additionally, the different treatments received 2 levels of additional mineral nitrogen: low mineral N or optimum mineral N.  The field is managed in conventional wheat-maize rotation.
+Site and plots are equipped for continuous monitoring of meteorological data, soil temperature and humidity. One plot of each treatment is equipped with wick lysimeters at 2 depths (0.45 m and 1 m). At the end of 2014, automatics chambers for N2O and CO2 emission survey will be settled, in order to assess greenhouse gas emissions related to composts and manure use. A Large set of variables mainly including physico-chemical characteristics, are monitored on different compartments of the agro-system (composts, soils, plants, water leaching). For example composts quality, crop yields and grain and crop residues analytical characteristics , main soil analytical characteristics per layer , the  chemical composition of soil solution (collected with  lysimeters), biological communities (microfauna and macrofauned sampling, microbial biomass ) and activities (enzymatic activities, mineralization of organic matter). 
+Data will be stored in a common database specifically developed for the SOERE PRO network and connected with the other SOERE. 
+Soil and plant samples are kept in collection and available for further measurements.</defaultAbstract>
+    <link>QualiAgro Website|Link to the resource|http://www6.inra.fr/qualiagro|WWW:LINK-1.0-http--link|text/html|1</link>
+    <link>QualiAgro Website|Link to the resource|http://www6.inra.fr/qualiagro|WWW:LINK-1.0-http--link|text/html|1|</link>
+    <defaultTitle>SOERE PRO Site of QualiAgro</defaultTitle>
+    <datasetLang>eng</datasetLang>
+    <userinfo>Mitch|Admin|Mitch|Administrator</userinfo>
+    <topicCat>structure</topicCat>
+    <legalConstraints>See AnaEE-France charters.</legalConstraints>
+    <creationDate>1997-01-01</creationDate>
+    <standardName>ISO 19115:2003/19139</standardName>
+    <crs>WGS 84 (EPSG:4326)</crs>
+    <title>SOERE PRO Site of QualiAgro</title>
+    <draft>n</draft>
+    <geoDesc>Feucherolles</geoDesc>
+    <keywordGroup>{ 'theme.anaeeThes.rdf' :[ {'value': 'organic matter', 'link': ''} , {'value': 'AnaEE-France', 'link': ''} , {'value': 'waste recycling', 'link': ''} , {'value': 'experimental device', 'link': ''} , {'value': 'organic contaminant', 'link': ''} , {'value': 'urban compost', 'link': ''} ] , 'GEMET - INSPIRE themes, version 1.0 INSPIRE themes' :[ {'value': 'Environmental monitoring facilities', 'link': ''} ] , 'AnaEE-France Locations' :[ {'value': 'Feucherolles', 'link': ''} , {'value': 'Paris', 'link': ''} ] }</keywordGroup>
+    <groupOwner>144</groupOwner>
+    <_locale>eng</_locale>
+    <geonet:info xmlns:geonet="http://www.fao.org/geonetwork">
+      <id>301</id>
+      <uuid>c7179e1a-1316-49f2-a5f9-94ca06bf3259</uuid>
+      <schema>iso19139</schema>
+      <createDate>2014-06-12T09:44:11</createDate>
+      <changeDate>2018-01-04T15:14:54</changeDate>
+      <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+      <isPublishedToAll>true</isPublishedToAll>
+      <view>true</view>
+      <notify>false</notify>
+      <download>true</download>
+      <dynamic>true</dynamic>
+      <featured>false</featured>
+      <selected>false</selected>
+    </geonet:info>
+  </metadata>
+  <metadata>
+    <title>Hydrological Basins in Africa (Sample record, please remove!)</title>
+    <abstract>Major hydrological basins and their sub-basins. This dataset divides the African continent according to its hydrological characteristics.
+The dataset consists of the following information:- numerical code and name of the major basin (MAJ_BAS and MAJ_NAME); - area of the major basin in square km (MAJ_AREA); - numerical code and name of the sub-basin (SUB_BAS and SUB_NAME); - area of the sub-basin in square km (SUB_AREA); - numerical code of the sub-basin towards which the sub-basin flows (TO_SUBBAS) (the codes -888 and -999 have been assigned respectively to internal sub-basins and to sub-basins draining into the sea)</abstract>
+    <lineage>The linework of the map is obtained by delineating drainage basin boundaries from an hydrologically corrected digital elevation model with a resolution of 1 * 1 km.</lineage>
+    <responsibleParty>Point of contact|metadata|FAO - NRCW||jippe.hoogeveen@fao.org|Jippe Hoogeveen|Technical Officer|Viale delle Terme di Caracalla, Rome, 00153, Italy|||1|</responsibleParty>
+    <type>dataset</type>
+    <isHarvested>n</isHarvested>
+    <displayOrder>0</displayOrder>
+    <docLocale>eng</docLocale>
+    <popularity>0</popularity>
+    <keyword>watersheds</keyword>
+    <keyword>river basins</keyword>
+    <keyword>water resources</keyword>
+    <keyword>hydrology</keyword>
+    <keyword>AQUASTAT</keyword>
+    <keyword>AWRD</keyword>
+    <keyword>Africa</keyword>
+    <keyword>Inland waters</keyword>
+    <publishedForGroup>0</publishedForGroup>
+    <publishedForGroup>1</publishedForGroup>
+    <publishedForGroup>2</publishedForGroup>
+    <image>thumbnail|http://localhost:8080/geonetwork/srv/api/records/da165110-88fd-11da-a88f-000d939bc5d8/attachments/thumbnail_s.gif|Hydrological Basins in Africa (small preview)</image>
+    <image>overview|http://localhost:8080/geonetwork/srv/api/records/da165110-88fd-11da-a88f-000d939bc5d8/attachments/thumbnail.gif|Hydrological Basins in Africa</image>
+    <tempExtentBegin>2006-01-01t03:29:00.000z</tempExtentBegin>
+    <mdLanguage>eng</mdLanguage>
+    <crsDetails>{ "code": "WGS 1984", "codeSpace": "", "name": "", "url": "" }</crsDetails>
+    <maintenanceAndUpdateFrequency_text>As needed</maintenanceAndUpdateFrequency_text>
+    <format>ShapeFile</format>
+    <spatialRepresentationType_text>Vector</spatialRepresentationType_text>
+    <denominator>5000000</denominator>
+    <root>gmd:MD_Metadata</root>
+    <isTemplate>n</isTemplate>
+    <valid>-1</valid>
+    <feedbackCount>0</feedbackCount>
+    <tempExtentEnd>2008-01-08t03:29:00.000z</tempExtentEnd>
+    <rating>0</rating>
+    <source>83177e44-fcc4-4fcd-890e-b48bc9d097ff</source>
+    <category>maps</category>
+    <category>datasets</category>
+    <category>interactiveResources</category>
+    <status>completed</status>
+    <updateFrequency>asNeeded</updateFrequency>
+    <geoBox>-17.3|-34.6|51.1|38.2</geoBox>
+    <owner>1</owner>
+    <recordOwner>Mitch Admin</recordOwner>
+    <defaultAbstract>Major hydrological basins and their sub-basins. This dataset divides the African continent according to its hydrological characteristics.
+The dataset consists of the following information:- numerical code and name of the major basin (MAJ_BAS and MAJ_NAME); - area of the major basin in square km (MAJ_AREA); - numerical code and name of the sub-basin (SUB_BAS and SUB_NAME); - area of the sub-basin in square km (SUB_AREA); - numerical code of the sub-basin towards which the sub-basin flows (TO_SUBBAS) (the codes -888 and -999 have been assigned respectively to internal sub-basins and to sub-basins draining into the sea)</defaultAbstract>
+    <link>|Online link to the 'Water Resources and Irrigation in Africa'- website|http://www.fao.org/ag/AGL/aglw/aquastat/watresafrica/index.stm|WWW:LINK-1.0-http--link|text/html|1</link>
+    <link>basins.zip|Hydrological basins in Africa (Shapefile Format)|http://localhost:8080/geonetwork/srv/api/records/da165110-88fd-11da-a88f-000d939bc5d8/attachments/basins.zip|WWW:DOWNLOAD-1.0-http--download|
+        application/zip
+      |1</link>
+    <link>GEONETWORK:basins_296|Hydrological basins in Africa|http://data.fao.org/maps/wms|OGC:WMS|application/vnd.ogc.wms_xml|1</link>
+    <defaultTitle>Hydrological Basins in Africa (Sample record, please remove!)</defaultTitle>
+    <datasetLang>eng</datasetLang>
+    <userinfo>Mitch|Admin|Mitch|Administrator</userinfo>
+    <topicCat>inlandWaters</topicCat>
+    <status_text>Completed</status_text>
+    <creationDate>2000-07-19T14:45:00</creationDate>
+    <standardName>ISO 19115:2003/19139</standardName>
+    <crs>WGS 1984</crs>
+    <logo>/images/logos/83177e44-fcc4-4fcd-890e-b48bc9d097ff.png</logo>
+    <draft>n</draft>
+    <keywordGroup>{ 'otherKeywords': [ {'value': 'watersheds', 'link': ''} , {'value': 'river basins', 'link': ''} , {'value': 'water resources', 'link': ''} , {'value': 'hydrology', 'link': ''} , {'value': 'AQUASTAT', 'link': ''} , {'value': 'AWRD', 'link': ''} , {'value': 'Africa', 'link': ''} ] }</keywordGroup>
+    <_locale>eng</_locale>
+    <geonet:info xmlns:geonet="http://www.fao.org/geonetwork">
+      <id>117</id>
+      <uuid>da165110-88fd-11da-a88f-000d939bc5d8</uuid>
+      <schema>iso19139</schema>
+      <createDate>2007-07-19T14:45:07</createDate>
+      <changeDate>2007-11-06T12:13:00</changeDate>
+      <source>83177e44-fcc4-4fcd-890e-b48bc9d097ff</source>
+      <isPublishedToAll>true</isPublishedToAll>
+      <view>true</view>
+      <notify>false</notify>
+      <download>true</download>
+      <dynamic>true</dynamic>
+      <featured>true</featured>
+      <selected>false</selected>
+    </geonet:info>
+  </metadata>
+  <metadata>
+    <abstract>The former forest stand was a coppice with standards dominated by beech (Fagus sylvatica L.) and oak (Quercus sessiliflora Smith), and was clear-cut in 1976. After windrowing, the site was planted with monospecific plots.
+2 bloks and 9 plots (0.10ha) per block:beech (Fagus silvatica L.), oak, (Quercus sessiliflora Smith), Norway spruce (Picea abies Karst), Douglas fir (Pseudotsuga menziesii Franco), Corsican pine (Pinus nigra Arn. ssp. Laricio Poiret var. corsicana Hyl.) and Nordmann fir (Abies Nordmanniana Spach). Control and limed plots for coniferous. Permanent equipments were installed in each plot in 2001. Since that time monitoring occured for: 
+Climate:  
+Rainfall, Temperature, potential evapotranspiration: 1 station + 2 pluviometers 
+Soil temperature and soil moisture: 4 profiles (15cm, 30cm, 60cm) for Beech, Oak, Douglas, Spruce plots of block 1 (continuous measurements) 
+Vegetation: 
+Tree diameters at breath height(annual measurements) 
+Nutrition status, foliar analyses (annual measurements) 
+Litterfall, 5 litter traps per plot; monthly collection (2000-2005). Determination: dry matter and major element contents
+Biomass-mineralmass: determination of major element pools in above-ground tree organs for each plot (2001)
+Soil: 
+Description: sampling 1 pit described/plot ; 16 soil profiles sampled  per plot  (2001)
+Soil determination: particle size distribution, bulk density, pH, CEC, P, C, N contents, total and trace elements, oxydes, soil mineralogy... 
+Forest floor determination: dry matter and element contents (major and trace)
+Throughfall, stemflow and soil solutions:
+Throughfall and stemflow: 2 replicates per plot of block 1.
+Soil solutions: Porous cup lysimeters, 5 profiles (15cm, 30cm, 60cm) per plot of block 1 (monthly collection); zero tension plate lysimeters, 2 replicates at 5cm depth per plot of block 1 (monthly collection).
+Determination: element contents (major and trace)</abstract>
+    <lineage>The experimental site of Breuil-Chenue was created in 2000 in the state forest of Breuil. It is located in the Nièvre departement (58).</lineage>
+    <responsibleParty>Point of contact|metadata|INRA||legout@nancy.inra.fr|Arnaud LEGOUT||INRA Nancy (BEF), Champenoux, 54280 Cedex, France|+33 3 83 39 73 36||1|</responsibleParty>
+    <responsibleParty>Point of contact|resource|INRA||legout@nancy.inra.fr|Arnaud LEGOUT||INRA Nancy (BEF), Champenoux, 54280 Cedex, France|+33 3 83 39 73 36||1|</responsibleParty>
+    <type>dataset</type>
+    <legalConstraints>--Optional--</legalConstraints>
+    <isHarvested>y</isHarvested>
+    <displayOrder>0</displayOrder>
+    <docLocale>eng</docLocale>
+    <popularity>33</popularity>
+    <keyword>AnaEE service mobile lab</keyword>
+    <keyword>AnaEE-France</keyword>
+    <keyword>Breuil Chenue</keyword>
+    <keyword>Corsican laricio pine forest</keyword>
+    <keyword>Environmental monitoring facilities</keyword>
+    <keyword>F-ORE-T</keyword>
+    <keyword>Structure</keyword>
+    <keyword>air humidity</keyword>
+    <keyword>air temperature</keyword>
+    <keyword>air temperature below canopy</keyword>
+    <keyword>beech forest</keyword>
+    <keyword>biogeochemical cycle</keyword>
+    <keyword>biomass</keyword>
+    <keyword>cambisol</keyword>
+    <keyword>dendrometry</keyword>
+    <keyword>douglas forest</keyword>
+    <keyword>fertilisation</keyword>
+    <keyword>forest ecology</keyword>
+    <keyword>forest ecosystem</keyword>
+    <keyword>forest management</keyword>
+    <keyword>global radiation</keyword>
+    <keyword>litter</keyword>
+    <keyword>long term monitoring</keyword>
+    <keyword>natural environment</keyword>
+    <keyword>nordmann fir forest</keyword>
+    <keyword>nutrient content</keyword>
+    <keyword>pluviometry</keyword>
+    <keyword>sessile oak forest</keyword>
+    <keyword>soil moisture</keyword>
+    <keyword>soil solution</keyword>
+    <keyword>soil solution DOC</keyword>
+    <keyword>soil solution Eh</keyword>
+    <keyword>soil solution N content</keyword>
+    <keyword>soil solution NO2- content</keyword>
+    <keyword>soil solution NO3-  content</keyword>
+    <keyword>soil solution P content</keyword>
+    <keyword>soil solution PO3- content</keyword>
+    <keyword>soil solution Ph</keyword>
+    <keyword>soil solution SO4- content</keyword>
+    <keyword>soil solution anion</keyword>
+    <keyword>soil solution cations</keyword>
+    <keyword>soil solution chemical analysis</keyword>
+    <keyword>soil solution major elements</keyword>
+    <keyword>soil solution trace elements</keyword>
+    <keyword>soil temperature</keyword>
+    <keyword>soil water content</keyword>
+    <keyword>species effect</keyword>
+    <keyword>species inventory</keyword>
+    <keyword>spruce forest</keyword>
+    <keyword>stemflow</keyword>
+    <keyword>throughfall</keyword>
+    <keyword>tree species</keyword>
+    <keyword>weather station</keyword>
+    <keyword>wind speed</keyword>
+    <publishedForGroup>1</publishedForGroup>
+    <identifier>http://w3.avignon.inra.fr/geonetwork_anaee/50264564-795a-45e0-bc28-7ef8568b62fa</identifier>
+    <image>thumbnail|http://147.100.20.29/gn_plateau_ressources/geonetwork_anaee_overviews/soere-f-ore-t_breuil.JPG|Breuil</image>
+    <tempExtentBegin>2020-06-14t21:59:59.000z</tempExtentBegin>
+    <mdLanguage>eng</mdLanguage>
+    <mdLanguage>fre</mdLanguage>
+    <crsDetails>{ "code": "WGS 84 (EPSG:4326)", "codeSpace": "", "name": "", "url": "" }</crsDetails>
+    <maintenanceAndUpdateFrequency_text>As needed</maintenanceAndUpdateFrequency_text>
+    <format>inapplicable</format>
+    <denominator>50000</denominator>
+    <root>gmd:MD_Metadata</root>
+    <isTemplate>n</isTemplate>
+    <valid>-1</valid>
+    <feedbackCount>0</feedbackCount>
+    <tempExtentEnd>2020-06-14t21:59:59.000z</tempExtentEnd>
+    <rating>0</rating>
+    <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+    <category>datasets</category>
+    <updateFrequency>asNeeded</updateFrequency>
+    <geoBox>4.6|47|4.7|47.5</geoBox>
+    <owner>1</owner>
+    <recordOwner>Mitch Admin</recordOwner>
+    <defaultAbstract>The former forest stand was a coppice with standards dominated by beech (Fagus sylvatica L.) and oak (Quercus sessiliflora Smith), and was clear-cut in 1976. After windrowing, the site was planted with monospecific plots.
+2 bloks and 9 plots (0.10ha) per block:beech (Fagus silvatica L.), oak, (Quercus sessiliflora Smith), Norway spruce (Picea abies Karst), Douglas fir (Pseudotsuga menziesii Franco), Corsican pine (Pinus nigra Arn. ssp. Laricio Poiret var. corsicana Hyl.) and Nordmann fir (Abies Nordmanniana Spach). Control and limed plots for coniferous. Permanent equipments were installed in each plot in 2001. Since that time monitoring occured for: 
+Climate:  
+Rainfall, Temperature, potential evapotranspiration: 1 station + 2 pluviometers 
+Soil temperature and soil moisture: 4 profiles (15cm, 30cm, 60cm) for Beech, Oak, Douglas, Spruce plots of block 1 (continuous measurements) 
+Vegetation: 
+Tree diameters at breath height(annual measurements) 
+Nutrition status, foliar analyses (annual measurements) 
+Litterfall, 5 litter traps per plot; monthly collection (2000-2005). Determination: dry matter and major element contents
+Biomass-mineralmass: determination of major element pools in above-ground tree organs for each plot (2001)
+Soil: 
+Description: sampling 1 pit described/plot ; 16 soil profiles sampled  per plot  (2001)
+Soil determination: particle size distribution, bulk density, pH, CEC, P, C, N contents, total and trace elements, oxydes, soil mineralogy... 
+Forest floor determination: dry matter and element contents (major and trace)
+Throughfall, stemflow and soil solutions:
+Throughfall and stemflow: 2 replicates per plot of block 1.
+Soil solutions: Porous cup lysimeters, 5 profiles (15cm, 30cm, 60cm) per plot of block 1 (monthly collection); zero tension plate lysimeters, 2 replicates at 5cm depth per plot of block 1 (monthly collection).
+Determination: element contents (major and trace)</defaultAbstract>
+    <link>Web Site||www6.nancy.inra.fr/bef|WWW:LINK-1.0-http--link|text/html|1</link>
+    <link>Web Site||www6.nancy.inra.fr/bef|WWW:LINK-1.0-http--link|text/html|1|</link>
+    <defaultTitle>SOERE F-ORE-T : Breuil-Chenue Site</defaultTitle>
+    <datasetLang>eng</datasetLang>
+    <userinfo>Mitch|Admin|Mitch|Administrator</userinfo>
+    <topicCat>structure</topicCat>
+    <legalConstraints>See AnaEE-France charters.</legalConstraints>
+    <creationDate>2000-01-01</creationDate>
+    <standardName>ISO 19115:2003/19139</standardName>
+    <crs>WGS 84 (EPSG:4326)</crs>
+    <title>SOERE F-ORE-T : Breuil-Chenue Site</title>
+    <draft>n</draft>
+    <geoDesc>Breuil Chenue</geoDesc>
+    <keywordGroup>{ 'theme.anaeeThes.rdf' :[ {'value': 'soil water content', 'link': ''} , {'value': 'natural environment', 'link': ''} , {'value': 'long term monitoring', 'link': ''} , {'value': 'forest ecology', 'link': ''} , {'value': 'biogeochemical cycle', 'link': ''} , {'value': 'air temperature', 'link': ''} , {'value': 'air humidity', 'link': ''} , {'value': 'AnaEE-France', 'link': ''} , {'value': 'soil temperature', 'link': ''} , {'value': 'F-ORE-T', 'link': ''} , {'value': 'forest management', 'link': ''} , {'value': 'forest ecosystem', 'link': ''} , {'value': 'cambisol', 'link': ''} , {'value': 'AnaEE service mobile lab', 'link': ''} , {'value': 'biomass', 'link': ''} , {'value': 'throughfall', 'link': ''} , {'value': 'species effect', 'link': ''} , {'value': 'nutrient content', 'link': ''} , {'value': 'weather station', 'link': ''} , {'value': 'stemflow', 'link': ''} , {'value': 'soil solution', 'link': ''} ] , 'GEMET - INSPIRE themes, version 1.0 INSPIRE themes' :[ {'value': 'Environmental monitoring facilities', 'link': ''} ] , 'AnaEE-France Locations' :[ {'value': 'Breuil Chenue', 'link': ''} ] , 'theme.variableAnaEE.rdf' :[ {'value': 'air temperature', 'link': ''} , {'value': 'pluviometry', 'link': ''} , {'value': 'global radiation', 'link': ''} , {'value': 'wind speed', 'link': ''} , {'value': 'soil moisture', 'link': ''} , {'value': 'air humidity', 'link': ''} , {'value': 'soil temperature', 'link': ''} , {'value': 'soil solution N content', 'link': ''} , {'value': 'soil solution chemical analysis', 'link': ''} , {'value': 'soil solution DOC', 'link': ''} , {'value': 'soil solution NO3- content', 'link': ''} , {'value': 'soil solution P content', 'link': ''} , {'value': 'soil solution anion', 'link': ''} , {'value': 'soil solution Ph', 'link': ''} , {'value': 'soil solution PO3- content', 'link': ''} , {'value': 'soil solution NO2- content', 'link': ''} , {'value': 'dendrometry', 'link': ''} , {'value': 'soil solution Eh', 'link': ''} , {'value': 'soil solution SO4- content', 'link': ''} , {'value': 'soil solution cations', 'link': ''} , {'value': 'species inventory', 'link': ''} , {'value': 'litter', 'link': ''} , {'value': 'air temperature below canopy', 'link': ''} , {'value': 'soil solution major elements', 'link': ''} , {'value': 'soil solution trace elements', 'link': ''} ] , 'theme.drivers.rdf' :[ {'value': 'fertilisation', 'link': ''} , {'value': 'tree species', 'link': ''} ] , 'theme.EcosystemAnaEE.rdf' :[ {'value': 'beech forest', 'link': ''} , {'value': 'sessile oak forest', 'link': ''} , {'value': 'spruce forest', 'link': ''} , {'value': 'douglas forest', 'link': ''} , {'value': 'nordmann fir forest', 'link': ''} , {'value': 'Corsican laricio pine forest', 'link': ''} ] }</keywordGroup>
+    <groupOwner>144</groupOwner>
+    <_locale>eng</_locale>
+    <geonet:info xmlns:geonet="http://www.fao.org/geonetwork">
+      <id>240</id>
+      <uuid>50264564-795a-45e0-bc28-7ef8568b62fa</uuid>
+      <schema>iso19139</schema>
+      <createDate>2015-07-16T16:35:45</createDate>
+      <changeDate>2017-07-31T16:55:59</changeDate>
+      <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+      <isPublishedToAll>true</isPublishedToAll>
+      <view>true</view>
+      <notify>false</notify>
+      <download>true</download>
+      <dynamic>true</dynamic>
+      <featured>false</featured>
+      <selected>false</selected>
+    </geonet:info>
+  </metadata>
+  <metadata>
+    <title>Localities in Victoria (VMADMIN.LOCALITY_POLYGON) - Comprehensive Elements</title>
+    <abstract>This dataset is the definitive set of locality boundaries for the state of Victoria            as defined by Local Government and registered by the Registrar of Geographic Names.            The boundaries are aligned to Vicmap Property. This dataset is part of the Vicmap Admin dataset series.</abstract>
+    <lineage>Local Government defines suburb, town and rural district boundaries after seeking appropriate consultation with all interested parties.              Proposed boundaries/names are submitted to the Registrar of Geographic Names for approval and formal gazettal.              As boundary and name information changes are processed through the formal definition and gazettal process at the Registrar of Geographic Names, the amendments will be flagged              and the dataset will be updated by the maintainer with all new boundaries aligned to Vicmap Property.</lineage>
+    <responsibleParty>Point of contact|resource|Department of Sustainability and Environment (DSE)||vicmap@dse.vic.gov.au||Marketting manager|PO Box 500, East Melbourne, Victoria, 3002, Australia|+61 3 8636 2683||1|http://www.land.vic.gov.au/vicmapdsp</responsibleParty>
+    <responsibleParty>Custodian|metadata|Department of Sustainability and Environment (DSE)||katie.falzon@dse.vic.gov.au|Falzon Katie Ms|Project Officer|PO Box 500, East Melbourne, Victoria, 3002, Australia|+61 3 8636 2319||1|http://www.land.vic.gov.au/vicmap</responsibleParty>
+    <type>dataset</type>
+    <resolution>25 meters</resolution>
+    <legalConstraints>The data is available under licence from Spatial Information Infrastructure               in a variety of formats and media.                Licence fees and distribution charges apply</legalConstraints>
+    <isHarvested>n</isHarvested>
+    <displayOrder>0</displayOrder>
+    <geoDescCode>VIC</geoDescCode>
+    <docLocale>eng</docLocale>
+    <popularity>0</popularity>
+    <keyword>BOUNDARIES-Administrative</keyword>
+    <keyword>LAND-Ownership</keyword>
+    <keyword>Boundaries</keyword>
+    <publishedForGroup>0</publishedForGroup>
+    <publishedForGroup>1</publishedForGroup>
+    <publishedForGroup>2</publishedForGroup>
+    <tempExtentBegin>2005-05-14t22:00:00.000z</tempExtentBegin>
+    <mdLanguage>eng</mdLanguage>
+    <crsDetails>{ "code": "4283", "codeSpace": "", "name": "", "url": "" }</crsDetails>
+    <maintenanceAndUpdateFrequency_text>Fortnightly</maintenanceAndUpdateFrequency_text>
+    <format>Most popular formats including ESRI shape, MapInfo Tab and Oracle Spatial</format>
+    <spatialRepresentationType_text>Vector</spatialRepresentationType_text>
+    <root>gmd:MD_Metadata</root>
+    <isTemplate>n</isTemplate>
+    <valid>-1</valid>
+    <feedbackCount>0</feedbackCount>
+    <tempExtentEnd>2020-05-25t21:59:59.000z</tempExtentEnd>
+    <rating>0</rating>
+    <source>83177e44-fcc4-4fcd-890e-b48bc9d097ff</source>
+    <category>datasets</category>
+    <status>onGoing</status>
+    <updateFrequency>fortnightly</updateFrequency>
+    <geoBox>141|-39|150|-34</geoBox>
+    <owner>1</owner>
+    <recordOwner>Mitch Admin</recordOwner>
+    <defaultAbstract>This dataset is the definitive set of locality boundaries for the state of Victoria            as defined by Local Government and registered by the Registrar of Geographic Names.            The boundaries are aligned to Vicmap Property. This dataset is part of the Vicmap Admin dataset series.</defaultAbstract>
+    <link>|Web page listing Data Service Providers (DSP)s|http://www.land.vic.gov.au/vicmapdsp||text/plain|1</link>
+    <defaultTitle>Localities in Victoria (VMADMIN.LOCALITY_POLYGON) - Comprehensive Elements</defaultTitle>
+    <datasetLang>eng</datasetLang>
+    <userinfo>Mitch|Admin|Mitch|Administrator</userinfo>
+    <topicCat>boundaries</topicCat>
+    <publicationDate>2006-09-11</publicationDate>
+    <status_text>On going</status_text>
+    <standardName>ANZLIC Metadata Profile</standardName>
+    <crs>4283</crs>
+    <logo>/images/logos/83177e44-fcc4-4fcd-890e-b48bc9d097ff.png</logo>
+    <draft>n</draft>
+    <geoDesc>Victoria</geoDesc>
+    <geoDesc>Data represents localities mapped since mid 2005</geoDesc>
+    <keywordGroup>{ 'ANZLIC search words' :[ {'value': 'BOUNDARIES-Administrative', 'link': ''} , {'value': 'LAND-Ownership', 'link': ''} ] }</keywordGroup>
+    <_locale>eng</_locale>
+    <geonet:info xmlns:geonet="http://www.fao.org/geonetwork">
+      <id>121</id>
+      <uuid>5b7fd745-9388-4e02-9840-47840b8141d4</uuid>
+      <schema>iso19139</schema>
+      <createDate>2007-07-19T14:45:07</createDate>
+      <changeDate>2007-11-06T12:13:00</changeDate>
+      <source>83177e44-fcc4-4fcd-890e-b48bc9d097ff</source>
+      <isPublishedToAll>true</isPublishedToAll>
+      <view>true</view>
+      <notify>false</notify>
+      <download>true</download>
+      <dynamic>true</dynamic>
+      <featured>true</featured>
+      <selected>false</selected>
+    </geonet:info>
+  </metadata>
+  <metadata>
+    <abstract>Each site has three common treatments: a control (C), a compacted treatment (T), a compacted and decompacted treatment (D), and more specific ones, locally decompacted soil (P) at Azerailles 54, and, limed (A) and limed and compacted (CA) at Clermont en Argonne 55. Each treatment plot of 0.25ha is replicated three times (3 blocks).
+Azerailles site was installed in spring 2007 and Clermont in spring 2008. Since that time monitoring occured for:
+-mesoclimate: rainfall, air temperature, relative humidity, bulk deposition (continuous recording)
+- soil climate: soil moisture (TDR Trase system (5 replicates at 15 and 60 cm depth) in one replicate of C and T (recorded each four hours)
+- water table: 2 piezometers in each replicate of treatments (Divers hourly recorded); monthly sampling using specific devices for Redox problems
+- weakly fixed soil water: cup lysimeters inserted at 15 and 60 cm depth (4 replicates in one block for C and T treatments) + teatments A and CA at Clermont en Argonne. Automate for constant vacuum at 700hP. Monthly collection for chemical analysis
+- soil gas: specific captors installed at 5, 10, 20, 35, 50 and 70 cm depth in each C and T treatments of the 3 blocks in the 2 sites. Monthly collection for chemical analysis (N, CO2, CH4, N2O, O2)
+-soil solid phase: soil morphology, soils physics, chemistry and biology (pro parte) were initialy described. Soil physical parameters (strengh, bulk density, hydraulic conductivity, swelling/shrinkage, porosity...), chemistry (C, N, exchangeable cations, P) and biology (earthworms) are perediodicaly investigated (each year for physics; 2/3 years for chemistry and biology).
+vegetation: both understorey and oak plantation were annually observed
+soil biology: earthworms are periodically observed</abstract>
+    <lineage>The experimental site of Azerailles was created in spring 2007 and Clermont site in spring 2008.</lineage>
+    <responsibleParty>Point of contact|metadata|INRA||jacques.ranger@nancy.inra.fr|Jacques RANGER||INRA Nancy (BEF), Chamenoux, 54280 Cedex, France|+33 3 83 39 40 68||1|</responsibleParty>
+    <responsibleParty>Point of contact|resource|INRA||jacques.ranger@nancy.inra.fr|Jacques RANGER||INRA Nancy (BEF), Chamenoux, 54280 Cedex, France|+33 3 83 39 40 68||1|</responsibleParty>
+    <type>dataset</type>
+    <legalConstraints>--Optional--</legalConstraints>
+    <isHarvested>y</isHarvested>
+    <displayOrder>0</displayOrder>
+    <docLocale>eng</docLocale>
+    <popularity>28</popularity>
+    <keyword>AnaEE service mobile lab</keyword>
+    <keyword>AnaEE-France</keyword>
+    <keyword>Azerailles</keyword>
+    <keyword>CH4 content in soil atmosphere</keyword>
+    <keyword>CH4 flux</keyword>
+    <keyword>CO2 content in soil atmosphere</keyword>
+    <keyword>CO2 flux</keyword>
+    <keyword>Clermont</keyword>
+    <keyword>Environmental monitoring facilities</keyword>
+    <keyword>F-ORE-T</keyword>
+    <keyword>H2 content in soil atmosphere</keyword>
+    <keyword>N2 content in soil atmosphere</keyword>
+    <keyword>O2 content in soil atmosphere</keyword>
+    <keyword>Structure</keyword>
+    <keyword>aerial biomass</keyword>
+    <keyword>air humidity</keyword>
+    <keyword>air temperature</keyword>
+    <keyword>bulk deposition</keyword>
+    <keyword>cup lysimeter</keyword>
+    <keyword>dry bulk density of soil</keyword>
+    <keyword>forest ecology</keyword>
+    <keyword>forest ecosystem</keyword>
+    <keyword>forest management</keyword>
+    <keyword>hydrological change</keyword>
+    <keyword>long term monitoring</keyword>
+    <keyword>luvisol</keyword>
+    <keyword>mineralogy</keyword>
+    <keyword>natural environment</keyword>
+    <keyword>perched water table level</keyword>
+    <keyword>physical soil resistance</keyword>
+    <keyword>piezometer</keyword>
+    <keyword>pluviometry</keyword>
+    <keyword>precipitation change</keyword>
+    <keyword>sessile oak and beech forest</keyword>
+    <keyword>shrinkage and swelling</keyword>
+    <keyword>soil compaction</keyword>
+    <keyword>soil gas</keyword>
+    <keyword>soil gaz analysis</keyword>
+    <keyword>soil granulometry</keyword>
+    <keyword>soil moisture</keyword>
+    <keyword>soil oxyhydroxydes</keyword>
+    <keyword>soil respiration</keyword>
+    <keyword>soil solution anion</keyword>
+    <keyword>soil solution cations</keyword>
+    <keyword>soil solution chemical analysis</keyword>
+    <keyword>soil temperature</keyword>
+    <keyword>soil water content</keyword>
+    <keyword>soil worms</keyword>
+    <keyword>tree species</keyword>
+    <keyword>vegetation growth</keyword>
+    <keyword>vegetation mineralomass</keyword>
+    <publishedForGroup>1</publishedForGroup>
+    <identifier>http://w3.avignon.inra.fr/geonetwork_anaee/c32a4228-b3b7-4eda-b06c-97d0e59c0dfb</identifier>
+    <image>thumbnail|http://w3.avignon.inra.fr:80/geonetwork_anaee/srv/eng/resources.get?uuid=c32a4228-b3b7-4eda-b06c-97d0e59c0dfb&amp;fname=Azerailles.php_s.png|thumbnail</image>
+    <tempExtentBegin>2020-06-14t21:59:59.000z</tempExtentBegin>
+    <mdLanguage>eng</mdLanguage>
+    <mdLanguage>fre</mdLanguage>
+    <crsDetails>{ "code": "WGS 84 (EPSG:4326)", "codeSpace": "", "name": "", "url": "" }</crsDetails>
+    <maintenanceAndUpdateFrequency_text>As needed</maintenanceAndUpdateFrequency_text>
+    <format>inapplicable</format>
+    <denominator>50000</denominator>
+    <root>gmd:MD_Metadata</root>
+    <isTemplate>n</isTemplate>
+    <valid>-1</valid>
+    <feedbackCount>0</feedbackCount>
+    <tempExtentEnd>2020-06-14t21:59:59.000z</tempExtentEnd>
+    <rating>0</rating>
+    <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+    <category>datasets</category>
+    <updateFrequency>asNeeded</updateFrequency>
+    <geoBox>4.9|49|5.1|49.2</geoBox>
+    <geoBox>5.69|47.48|7.69|49.48</geoBox>
+    <owner>1</owner>
+    <recordOwner>Mitch Admin</recordOwner>
+    <defaultAbstract>Each site has three common treatments: a control (C), a compacted treatment (T), a compacted and decompacted treatment (D), and more specific ones, locally decompacted soil (P) at Azerailles 54, and, limed (A) and limed and compacted (CA) at Clermont en Argonne 55. Each treatment plot of 0.25ha is replicated three times (3 blocks).
+Azerailles site was installed in spring 2007 and Clermont in spring 2008. Since that time monitoring occured for:
+-mesoclimate: rainfall, air temperature, relative humidity, bulk deposition (continuous recording)
+- soil climate: soil moisture (TDR Trase system (5 replicates at 15 and 60 cm depth) in one replicate of C and T (recorded each four hours)
+- water table: 2 piezometers in each replicate of treatments (Divers hourly recorded); monthly sampling using specific devices for Redox problems
+- weakly fixed soil water: cup lysimeters inserted at 15 and 60 cm depth (4 replicates in one block for C and T treatments) + teatments A and CA at Clermont en Argonne. Automate for constant vacuum at 700hP. Monthly collection for chemical analysis
+- soil gas: specific captors installed at 5, 10, 20, 35, 50 and 70 cm depth in each C and T treatments of the 3 blocks in the 2 sites. Monthly collection for chemical analysis (N, CO2, CH4, N2O, O2)
+-soil solid phase: soil morphology, soils physics, chemistry and biology (pro parte) were initialy described. Soil physical parameters (strengh, bulk density, hydraulic conductivity, swelling/shrinkage, porosity...), chemistry (C, N, exchangeable cations, P) and biology (earthworms) are perediodicaly investigated (each year for physics; 2/3 years for chemistry and biology).
+vegetation: both understorey and oak plantation were annually observed
+soil biology: earthworms are periodically observed</defaultAbstract>
+    <link>Web site|Access to the web site|http://www6.nancy.inra.fr/bef|WWW:LINK-1.0-http--link|text/html|1</link>
+    <link>Web site|Access to the web site|http://www6.nancy.inra.fr/bef|WWW:LINK-1.0-http--link|text/html|1|</link>
+    <defaultTitle>SOERE F-ORE-T : Azerailles/Clermont Site</defaultTitle>
+    <datasetLang>eng</datasetLang>
+    <userinfo>Mitch|Admin|Mitch|Administrator</userinfo>
+    <topicCat>structure</topicCat>
+    <legalConstraints>See AnaEE-France charters.</legalConstraints>
+    <creationDate>2007-01-04</creationDate>
+    <standardName>ISO 19115:2003/19139</standardName>
+    <crs>WGS 84 (EPSG:4326)</crs>
+    <title>SOERE F-ORE-T : Azerailles/Clermont Site</title>
+    <draft>n</draft>
+    <geoDesc>Azerailles</geoDesc>
+    <geoDesc>Clermont</geoDesc>
+    <keywordGroup>{ 'theme.anaeeThes.rdf' :[ {'value': 'long term monitoring', 'link': ''} , {'value': 'AnaEE-France', 'link': ''} , {'value': 'soil water content', 'link': ''} , {'value': 'soil temperature', 'link': ''} , {'value': 'air humidity', 'link': ''} , {'value': 'natural environment', 'link': ''} , {'value': 'forest ecosystem', 'link': ''} , {'value': 'forest ecology', 'link': ''} , {'value': 'soil respiration', 'link': ''} , {'value': 'luvisol', 'link': ''} , {'value': 'air temperature', 'link': ''} , {'value': 'precipitation change', 'link': ''} , {'value': 'forest management', 'link': ''} , {'value': 'cup lysimeter', 'link': ''} , {'value': 'AnaEE service mobile lab', 'link': ''} , {'value': 'bulk deposition', 'link': ''} , {'value': 'F-ORE-T', 'link': ''} , {'value': 'hydrological change', 'link': ''} , {'value': 'soil gas', 'link': ''} , {'value': 'piezometer', 'link': ''} ] , 'GEMET - INSPIRE themes, version 1.0 INSPIRE themes' :[ {'value': 'Environmental monitoring facilities', 'link': ''} ] , 'AnaEE-France Locations' :[ {'value': 'Azerailles', 'link': ''} , {'value': 'Clermont', 'link': ''} ] , 'theme.variableAnaEE.rdf' :[ {'value': 'air humidity', 'link': ''} , {'value': 'pluviometry', 'link': ''} , {'value': 'air temperature', 'link': ''} , {'value': 'vegetation growth', 'link': ''} , {'value': 'soil solution anion', 'link': ''} , {'value': 'soil solution cations', 'link': ''} , {'value': 'CO2 flux', 'link': ''} , {'value': 'soil solution chemical analysis', 'link': ''} , {'value': 'soil moisture', 'link': ''} , {'value': 'O2 content in soil atmosphere', 'link': ''} , {'value': 'physical soil resistance', 'link': ''} , {'value': 'aerial biomass', 'link': ''} , {'value': 'soil granulometry', 'link': ''} , {'value': 'shrinkage and swelling', 'link': ''} , {'value': 'soil temperature', 'link': ''} , {'value': 'dry bulk density of soil', 'link': ''} , {'value': 'soil gaz analysis', 'link': ''} , {'value': 'CO2 content in soil atmosphere', 'link': ''} , {'value': 'soil oxyhydroxydes', 'link': ''} , {'value': 'H2 content in soil atmosphere', 'link': ''} , {'value': 'CH4 flux', 'link': ''} , {'value': 'N2 content in soil atmosphere', 'link': ''} , {'value': 'mineralogy', 'link': ''} , {'value': 'CH4 content in soil atmosphere', 'link': ''} , {'value': 'perched water table level', 'link': ''} , {'value': 'vegetation mineralomass', 'link': ''} , {'value': 'soil worms', 'link': ''} ] , 'theme.drivers.rdf' :[ {'value': 'soil compaction', 'link': ''} , {'value': 'tree species', 'link': ''} ] , 'theme.EcosystemAnaEE.rdf' :[ {'value': 'sessile oak and beech forest', 'link': ''} ] }</keywordGroup>
+    <groupOwner>144</groupOwner>
+    <_locale>eng</_locale>
+    <geonet:info xmlns:geonet="http://www.fao.org/geonetwork">
+      <id>299</id>
+      <uuid>c32a4228-b3b7-4eda-b06c-97d0e59c0dfb</uuid>
+      <schema>iso19139</schema>
+      <createDate>2015-07-24T09:14:16</createDate>
+      <changeDate>2017-10-04T10:37:42</changeDate>
+      <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+      <isPublishedToAll>true</isPublishedToAll>
+      <view>true</view>
+      <notify>false</notify>
+      <download>true</download>
+      <dynamic>true</dynamic>
+      <featured>false</featured>
+      <selected>false</selected>
+    </geonet:info>
+  </metadata>
+  <metadata>
+    <abstract>Permanent Grassland Site of Theix-Laqueuille is a part of the SOERE ACBB that is a System of Observation and Experimentation for Environmental Research on Agroecosystems, Biochemical Cycles and Biodiversity.
+Permanent Grassland Site of Theix-Laqueuille consists in a long-term experiment set up under semi-natural upland permanent grassland in the Massif Central, France (850 to 1040 m.a.s.l, semi-continental climate), which aims to analyse the relationship between management practices, community dynamics and ecosystem properties and services.
+The main goals are to monitor the long term impacts of grassland management on biodiversity and biochemical cycles and to provide an instrumented experimental plateform in order to analyse ecosystem functioning and processes.
+The experimental treatments are applied since 2005 in a well replicated design in Theix with four repetitions per treatment on 400 to 2200 m² plots and since 2002 on two large plots (3 ha) in Laqueuille, in order to analyse the effects of the two mains management factors which are driving the ecosystem, i.e., the level of disturbance and the level of nutrient availability. Continuous grazing at high and low cattle stocking rate are applied in Laqueuille. In Theix, two contrasting levels of herbage use are compared without N fertiliser by manipulating stocking density (sheep and cattle grazing) with a control in abandon. Further comparison between grazing and cutting are obtained by including mown plots at three contrasting levels of inorganic fertiliser supply.
+Site and plots are equipped for continuous monitoring of meteorological data, soil temperature and humidity. Regular measurements concern a large set of variables: aboveground plant production, quality and nutrient content, soil solution chemical composition (ceramic cups), main soil state variables per layer, state of diversity for plant, earthworms and microbe communities. Both large paddocks are equipped with an eddy covariance flux towers according to ICOS standard for H2O, CO2 and CH4 fluxes measurements, and with automatics chambers for N2O emission, that allow to assess greenhouse gas balance and C sequestration according to grazing management.
+Data are stored in common database developed for SOERE ACBB.
+Soil and plant samples are kept in collection and available for further determinations.
+With yet 10 years of data, the site devoted to studying the long term development of the soil-vegetation systems of grassland under contrasting management regimes gives the oppportunity to stongly integrate discilinary research on vegetation dynamics, soil biology, soil physics and chemistry and sward-herbivore interactions.</abstract>
+    <lineage>The Theix-Laqueuille platform is part of the SOERE ACBB.
+The SOERE ACBB is a service of AnaEE-France Infrastructure.</lineage>
+    <responsibleParty>Point of contact|metadata|INRA||frederique.louault@clermont.inra.fr|Frédérique LOUAULT||INRA UREP Site de Crouel 5 Chemin de Beaulieu, Clermont-Ferrand, 63039 cedex 02, France|+33 4 73 62 44 30||1|</responsibleParty>
+    <responsibleParty>Point of contact|resource|INRA||katja.klumpp@clermont.inra.fr|Katja KLUMPP||INRA UREP Site de Crouel 5 Chemin de Beaulieu, Clermont-Ferrand, 63039 cedex 2, France|+33 4 73 62 45 65||2|</responsibleParty>
+    <responsibleParty>Point of contact|resource|INRA||pascal.carrere@clermont.inra.fr|Pascal CARRÈRE||INRA Site de Crouel 5 Chemin de Beaulieu, Clermont-Ferrand, 63039 cedex 02, France|+33 4 73 62 44 35||1|</responsibleParty>
+    <type>dataset</type>
+    <isHarvested>y</isHarvested>
+    <displayOrder>0</displayOrder>
+    <docLocale>eng</docLocale>
+    <popularity>81</popularity>
+    <keyword>AnaEE-France</keyword>
+    <keyword>CH4 flux</keyword>
+    <keyword>CO2 flux</keyword>
+    <keyword>COD content in rainwater</keyword>
+    <keyword>Environmental monitoring facilities</keyword>
+    <keyword>Laqueuille</keyword>
+    <keyword>N2O flux</keyword>
+    <keyword>NH4+ content in rainwater</keyword>
+    <keyword>PAR below vegetation cover</keyword>
+    <keyword>PAR radiation</keyword>
+    <keyword>SO4- content in rainwater</keyword>
+    <keyword>Spectral reflectance (NDVI …)</keyword>
+    <keyword>Structure</keyword>
+    <keyword>Theix</keyword>
+    <keyword>aerial biomass</keyword>
+    <keyword>agro-ecosystem</keyword>
+    <keyword>air humidity</keyword>
+    <keyword>air temperature</keyword>
+    <keyword>animals</keyword>
+    <keyword>anthropogenic disturbances</keyword>
+    <keyword>arable land</keyword>
+    <keyword>atmospheric radiation</keyword>
+    <keyword>biogeochemical cycle</keyword>
+    <keyword>botanical composition</keyword>
+    <keyword>cation exchange capacity</keyword>
+    <keyword>climate change</keyword>
+    <keyword>diffuse  global radiation</keyword>
+    <keyword>dry bulk density of soil</keyword>
+    <keyword>evapotranspiration</keyword>
+    <keyword>fertilisation</keyword>
+    <keyword>global radiation</keyword>
+    <keyword>grassland</keyword>
+    <keyword>grazing</keyword>
+    <keyword>greenhouse gas</keyword>
+    <keyword>land use</keyword>
+    <keyword>long term experiment</keyword>
+    <keyword>long term monitoring</keyword>
+    <keyword>net radiation</keyword>
+    <keyword>nitrogen flux in soil vegetation atmosphere system</keyword>
+    <keyword>outgoing radiation</keyword>
+    <keyword>permanent grassland</keyword>
+    <keyword>plant</keyword>
+    <keyword>pluviometry</keyword>
+    <keyword>production aerial part</keyword>
+    <keyword>reflected radiation</keyword>
+    <keyword>root biomass</keyword>
+    <keyword>sensible heat flux</keyword>
+    <keyword>soil P and K</keyword>
+    <keyword>soil PH</keyword>
+    <keyword>soil chemichal and geochemical analysis</keyword>
+    <keyword>soil granulometry</keyword>
+    <keyword>soil heat flux</keyword>
+    <keyword>soil major elements</keyword>
+    <keyword>soil moisture</keyword>
+    <keyword>soil respiration</keyword>
+    <keyword>soil solution DOC</keyword>
+    <keyword>soil solution N content</keyword>
+    <keyword>soil solution NO3-  content</keyword>
+    <keyword>soil solution chemical analysis</keyword>
+    <keyword>soil temperature</keyword>
+    <keyword>soil worms</keyword>
+    <keyword>species inventory</keyword>
+    <keyword>throughfall</keyword>
+    <keyword>transmitted radiation</keyword>
+    <keyword>vegetation carbon content</keyword>
+    <keyword>vegetation major element  content</keyword>
+    <keyword>vegetation nitrogen content</keyword>
+    <keyword>wheat</keyword>
+    <keyword>wind direction</keyword>
+    <keyword>wind speed</keyword>
+    <publishedForGroup>1</publishedForGroup>
+    <identifier>http://w3.avignon.inra.fr/geonetwork_anaee/srv/eng/catalog.search#/metadata/3fe00c17-cae3-4ad9-9ab2-06412d30185c</identifier>
+    <image>thumbnail|http://w3.avignon.inra.fr:80/geonetwork_anaee/srv/eng/resources.get?uuid=32367bcf-e2d5-4cf3-92bb-b1734fa670a2&amp;fname=SOERE_ACBB.png|large_thumbnail</image>
+    <tempExtentBegin>2003-12-31t23:00:00.000z</tempExtentBegin>
+    <tempExtentBegin>2004-01-01</tempExtentBegin>
+    <mdLanguage>eng</mdLanguage>
+    <mdLanguage>fre</mdLanguage>
+    <crsDetails>{ "code": "WGS 84 (EPSG:4326)", "codeSpace": "", "name": "", "url": "" }</crsDetails>
+    <maintenanceAndUpdateFrequency_text>As needed</maintenanceAndUpdateFrequency_text>
+    <format>inapplicable</format>
+    <denominator>50000</denominator>
+    <root>gmd:MD_Metadata</root>
+    <isTemplate>n</isTemplate>
+    <valid>-1</valid>
+    <feedbackCount>0</feedbackCount>
+    <tempExtentEnd>2020-06-14t21:59:59.000z</tempExtentEnd>
+    <rating>0</rating>
+    <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+    <category>datasets</category>
+    <updateFrequency>asNeeded</updateFrequency>
+    <geoBox>2.728|45.64|2.745|45.652</geoBox>
+    <geoBox>3.015|45.718|3.03|45.725</geoBox>
+    <owner>1</owner>
+    <recordOwner>Mitch Admin</recordOwner>
+    <defaultAbstract>Permanent Grassland Site of Theix-Laqueuille is a part of the SOERE ACBB that is a System of Observation and Experimentation for Environmental Research on Agroecosystems, Biochemical Cycles and Biodiversity.
+Permanent Grassland Site of Theix-Laqueuille consists in a long-term experiment set up under semi-natural upland permanent grassland in the Massif Central, France (850 to 1040 m.a.s.l, semi-continental climate), which aims to analyse the relationship between management practices, community dynamics and ecosystem properties and services.
+The main goals are to monitor the long term impacts of grassland management on biodiversity and biochemical cycles and to provide an instrumented experimental plateform in order to analyse ecosystem functioning and processes.
+The experimental treatments are applied since 2005 in a well replicated design in Theix with four repetitions per treatment on 400 to 2200 m² plots and since 2002 on two large plots (3 ha) in Laqueuille, in order to analyse the effects of the two mains management factors which are driving the ecosystem, i.e., the level of disturbance and the level of nutrient availability. Continuous grazing at high and low cattle stocking rate are applied in Laqueuille. In Theix, two contrasting levels of herbage use are compared without N fertiliser by manipulating stocking density (sheep and cattle grazing) with a control in abandon. Further comparison between grazing and cutting are obtained by including mown plots at three contrasting levels of inorganic fertiliser supply.
+Site and plots are equipped for continuous monitoring of meteorological data, soil temperature and humidity. Regular measurements concern a large set of variables: aboveground plant production, quality and nutrient content, soil solution chemical composition (ceramic cups), main soil state variables per layer, state of diversity for plant, earthworms and microbe communities. Both large paddocks are equipped with an eddy covariance flux towers according to ICOS standard for H2O, CO2 and CH4 fluxes measurements, and with automatics chambers for N2O emission, that allow to assess greenhouse gas balance and C sequestration according to grazing management.
+Data are stored in common database developed for SOERE ACBB.
+Soil and plant samples are kept in collection and available for further determinations.
+With yet 10 years of data, the site devoted to studying the long term development of the soil-vegetation systems of grassland under contrasting management regimes gives the oppportunity to stongly integrate discilinary research on vegetation dynamics, soil biology, soil physics and chemistry and sward-herbivore interactions.</defaultAbstract>
+    <link>SOERE ACBB website||http://www.soere-acbb.com|WWW:LINK-1.0-http--link|text/html|1</link>
+    <link>SOERE ACBB website||http://www.soere-acbb.com|WWW:LINK-1.0-http--link|text/html|1|</link>
+    <defaultTitle>SOERE ACBB Theix-Laqueuille Platform (Permanent Grassland)</defaultTitle>
+    <datasetLang>eng</datasetLang>
+    <userinfo>Mitch|Admin|Mitch|Administrator</userinfo>
+    <topicCat>structure</topicCat>
+    <legalConstraints>See AnaEE-France charters.</legalConstraints>
+    <creationDate>2005-01-01</creationDate>
+    <standardName>ISO 19115:2003/19139</standardName>
+    <crs>WGS 84 (EPSG:4326)</crs>
+    <title>SOERE ACBB Theix-Laqueuille Platform (Permanent Grassland)</title>
+    <parentId>32367bcf-e2d5-4cf3-92bb-b1734fa670a2</parentId>
+    <draft>n</draft>
+    <geoDesc>Laqueuille</geoDesc>
+    <geoDesc>Theix</geoDesc>
+    <keywordGroup>{ 'theme.anaeeThes.rdf' :[ {'value': 'land use', 'link': ''} , {'value': 'grazing', 'link': ''} , {'value': 'greenhouse gas', 'link': ''} , {'value': 'AnaEE-France', 'link': ''} , {'value': 'long term monitoring', 'link': ''} , {'value': 'long term experiment', 'link': ''} , {'value': 'anthropogenic disturbances', 'link': ''} , {'value': 'agro-ecosystem', 'link': ''} , {'value': 'climate change', 'link': ''} , {'value': 'animals', 'link': ''} , {'value': 'plant', 'link': ''} , {'value': 'arable land', 'link': ''} , {'value': 'grassland', 'link': ''} , {'value': 'biogeochemical cycle', 'link': ''} , {'value': 'permanent grassland', 'link': ''} , {'value': 'wheat', 'link': ''} ] , 'GEMET - INSPIRE themes, version 1.0 INSPIRE themes' :[ {'value': 'Environmental monitoring facilities', 'link': ''} ] , 'AnaEE-France Locations' :[ {'value': 'Theix', 'link': ''} , {'value': 'Laqueuille', 'link': ''} ] , 'theme.variableAnaEE.rdf' :[ {'value': 'air temperature', 'link': ''} , {'value': 'air humidity', 'link': ''} , {'value': 'global radiation', 'link': ''} , {'value': 'wind direction', 'link': ''} , {'value': 'pluviometry', 'link': ''} , {'value': 'NH4+ content in rainwater', 'link': ''} , {'value': 'COD content in rainwater', 'link': ''} , {'value': 'wind speed', 'link': ''} , {'value': 'SO4- content in rainwater', 'link': ''} , {'value': 'PAR radiation', 'link': ''} , {'value': 'CO2 flux', 'link': ''} , {'value': 'atmospheric radiation', 'link': ''} , {'value': 'N2O flux', 'link': ''} , {'value': 'diffuse global radiation', 'link': ''} , {'value': 'evapotranspiration', 'link': ''} , {'value': 'soil heat flux', 'link': ''} , {'value': 'soil worms', 'link': ''} , {'value': 'soil temperature', 'link': ''} , {'value': 'soil granulometry', 'link': ''} , {'value': 'soil moisture', 'link': ''} , {'value': 'soil respiration', 'link': ''} , {'value': 'soil PH', 'link': ''} , {'value': 'cation exchange capacity', 'link': ''} , {'value': 'soil chemichal and geochemical analysis', 'link': ''} , {'value': 'soil solution chemical analysis', 'link': ''} , {'value': 'dry bulk density of soil', 'link': ''} , {'value': 'botanical composition', 'link': ''} , {'value': 'soil major elements', 'link': ''} , {'value': 'soil P and K', 'link': ''} , {'value': 'aerial biomass', 'link': ''} , {'value': 'soil solution N content', 'link': ''} , {'value': 'vegetation major element content', 'link': ''} , {'value': 'soil solution DOC', 'link': ''} , {'value': 'soil solution NO3- content', 'link': ''} , {'value': 'vegetation carbon content', 'link': ''} , {'value': 'root biomass', 'link': ''} , {'value': 'PAR below vegetation cover', 'link': ''} , {'value': 'sensible heat flux', 'link': ''} , {'value': 'species inventory', 'link': ''} , {'value': 'net radiation', 'link': ''} , {'value': 'nitrogen flux in soil vegetation atmosphere system', 'link': ''} , {'value': 'vegetation nitrogen content', 'link': ''} , {'value': 'outgoing radiation', 'link': ''} , {'value': 'CH4 flux', 'link': ''} , {'value': 'reflected radiation', 'link': ''} , {'value': 'throughfall', 'link': ''} , {'value': 'production aerial part', 'link': ''} , {'value': 'Spectral reflectance (NDVI …)', 'link': ''} , {'value': 'transmitted radiation', 'link': ''} ] , 'theme.drivers.rdf' :[ {'value': 'grazing', 'link': ''} , {'value': 'fertilisation', 'link': ''} ] , 'theme.EcosystemAnaEE.rdf' :[ {'value': 'grassland', 'link': ''} ] }</keywordGroup>
+    <groupOwner>144</groupOwner>
+    <_locale>eng</_locale>
+    <geonet:info xmlns:geonet="http://www.fao.org/geonetwork">
+      <id>227</id>
+      <uuid>3fe00c17-cae3-4ad9-9ab2-06412d30185c</uuid>
+      <schema>iso19139</schema>
+      <createDate>2014-06-18T11:47:30</createDate>
+      <changeDate>2017-10-04T10:30:40</changeDate>
+      <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+      <isPublishedToAll>true</isPublishedToAll>
+      <view>true</view>
+      <notify>false</notify>
+      <download>true</download>
+      <dynamic>true</dynamic>
+      <featured>false</featured>
+      <selected>false</selected>
+    </geonet:info>
+  </metadata>
+  <metadata>
+    <abstract>The site of Montiers, localized at the boundaries between Meuse and Haute-Marne departments, North-East of France, has a large surface area (143 ha). It comprises two soil successions (toposequence) and the climate, stand conditions (age, species, forest management) are equivalent on all the surface of the site.
+The facility comprises three biogeochemical stations of 10 000 m2 each and one flux tower above forest canopy (45 m-high) settled along a soil succession representative of soils of the region. The three stations include four substations of which three are strongly equipped and one is free for future experimentations. Each equipped substation comprises lysimeters at different soil depths (litter, -10 cm, -30 cm, -60 cm and -90 cm; 3 replicates in general), tensio-lysimeters (-10 cm, -30 cm, -60 cm, -90 cm and -120 cm; 3 replicates in general) and temperature and moisture probes at different soil depths (-10 cm, -30 cm, -60 cm and -90 cm; 4 replicates), litterbags (6 replicates), stemflows (6 replicates), gutters (4 replicates). These stations allow to follow-up on the long term the flows of water, and major (Ca, Mg, K, Na, P, Fe, Mn, Si, Al, S, C, N) and trace (Cl, Se, B, I, Cs) elements between the different compartments (soil, tree, atmosphere) of a beech forest. Each station is settled on a different soil type, i.e., alocrisol, calci-brunisol, rendosol thus allowing to assess the impact of the soil type on biogeochemical cycles and on tree growth. 
+The flux tower is equipped with a Eddy Covariance system (CO2, H2O, and sensible heat) and a complete set of sensors recording the aerial and edaphic meterological conditions, the phenology and the canopy status. The data from flux tower are available on demand.
+The forest mainly consists in a beech timber of about 50 years: dominant species and forestry in the region. The effect of the soil on the biogeochemical and biological functioning of this beech forest is dealt with a very integrated approach (ecophysiology, microbiology, soil science and biogeochemistry). In addition, the flux tower permits to measure, at various levels of the canopy and above, meteorological parameters (temperature, radiation, and precipitation), the gaseous exchanges and the particular deposits.</abstract>
+    <lineage>The experimental site of Montiers was created in 2008 in a beech forest. It is located in Montiers-sur Saulx in Meuse (55).</lineage>
+    <responsibleParty>Point of contact|metadata|INRA||turpault@nancy.inra.fr|Marie-Pierre TURPAULT||INRA Rue de l'Arborétum, Champenoux, 54280 Cedex, France|+33 3 83 39 40 75||1|</responsibleParty>
+    <responsibleParty>Point of contact|resource|INRA||turpault@nancy.inra.fr|Marie-Pierre TURPAULT||INRA Rue de l'Arborétum, Champenoux, 54280 Cedex, France|+33 3 83 39 40 75||1|</responsibleParty>
+    <type>dataset</type>
+    <isHarvested>y</isHarvested>
+    <displayOrder>0</displayOrder>
+    <docLocale>eng</docLocale>
+    <popularity>44</popularity>
+    <keyword>AnaEE-France</keyword>
+    <keyword>CO2 flux</keyword>
+    <keyword>Environmental monitoring facilities</keyword>
+    <keyword>F-ORE-T</keyword>
+    <keyword>Montiers</keyword>
+    <keyword>PAR below vegetation cover</keyword>
+    <keyword>PAR radiation</keyword>
+    <keyword>Structure</keyword>
+    <keyword>aerial biomass</keyword>
+    <keyword>air humidity</keyword>
+    <keyword>air temperature</keyword>
+    <keyword>aquatic nutrient level</keyword>
+    <keyword>atmospheric pressure</keyword>
+    <keyword>beech forest</keyword>
+    <keyword>biogeochemical station</keyword>
+    <keyword>botanical composition</keyword>
+    <keyword>cambisol</keyword>
+    <keyword>canopy surface temperature</keyword>
+    <keyword>carbon flux</keyword>
+    <keyword>carbon flux in soil vegetation atmosphere system</keyword>
+    <keyword>diffuse  global radiation</keyword>
+    <keyword>elements stock in litter</keyword>
+    <keyword>energy balance</keyword>
+    <keyword>energy flux in soil vegetation atmosphere system</keyword>
+    <keyword>evapotranspiration</keyword>
+    <keyword>flux tower</keyword>
+    <keyword>forest ecology</keyword>
+    <keyword>forest ecosystem</keyword>
+    <keyword>forest management</keyword>
+    <keyword>global radiation</keyword>
+    <keyword>hydrological change</keyword>
+    <keyword>incident photosynthetically active radiation</keyword>
+    <keyword>incident shortwave radiation</keyword>
+    <keyword>inter-annual variability</keyword>
+    <keyword>leptosol</keyword>
+    <keyword>litterfall flow</keyword>
+    <keyword>long term monitoring</keyword>
+    <keyword>macrofloral biodiversity</keyword>
+    <keyword>major element</keyword>
+    <keyword>major elements content in organic amendment</keyword>
+    <keyword>mass flux in soil vegetation atmosphere system</keyword>
+    <keyword>microfloral biodiversity</keyword>
+    <keyword>natural environment</keyword>
+    <keyword>natural soil evolution</keyword>
+    <keyword>net ecosystem H2O flux</keyword>
+    <keyword>net radiation</keyword>
+    <keyword>nitrogen flux in soil vegetation atmosphere system</keyword>
+    <keyword>nutrient flux</keyword>
+    <keyword>nutrient stock</keyword>
+    <keyword>phenology</keyword>
+    <keyword>phosphorus flux in soil vegetation atmosphere system</keyword>
+    <keyword>pluviometry</keyword>
+    <keyword>population density</keyword>
+    <keyword>radiation interception</keyword>
+    <keyword>root biomass</keyword>
+    <keyword>sap flow</keyword>
+    <keyword>soil eutrophisation</keyword>
+    <keyword>soil fauna</keyword>
+    <keyword>soil heat flux</keyword>
+    <keyword>soil major elements</keyword>
+    <keyword>soil moisture</keyword>
+    <keyword>soil pollution</keyword>
+    <keyword>soil respiration</keyword>
+    <keyword>soil solution DOC</keyword>
+    <keyword>soil solution Eh</keyword>
+    <keyword>soil solution N content</keyword>
+    <keyword>soil solution NO2- content</keyword>
+    <keyword>soil solution NO3-  content</keyword>
+    <keyword>soil solution P content</keyword>
+    <keyword>soil solution PO3- content</keyword>
+    <keyword>soil solution Ph</keyword>
+    <keyword>soil solution SO4- content</keyword>
+    <keyword>soil solution anion</keyword>
+    <keyword>soil solution cations</keyword>
+    <keyword>soil solution chemical analysis</keyword>
+    <keyword>soil temperature</keyword>
+    <keyword>soil trace elements</keyword>
+    <keyword>soil water content</keyword>
+    <keyword>solid atmospheric deposition</keyword>
+    <keyword>species inventory</keyword>
+    <keyword>species richness</keyword>
+    <keyword>temperate forest</keyword>
+    <keyword>trace element</keyword>
+    <keyword>trace elements content in  organic amendment</keyword>
+    <keyword>vegetation growth</keyword>
+    <keyword>vegetation height</keyword>
+    <keyword>vegetation major element  content</keyword>
+    <keyword>vegetation nutrients stock</keyword>
+    <keyword>vegetation thinning</keyword>
+    <keyword>water balance</keyword>
+    <keyword>water flow</keyword>
+    <keyword>water pH</keyword>
+    <keyword>water stock</keyword>
+    <keyword>wind speed</keyword>
+    <publishedForGroup>1</publishedForGroup>
+    <identifier>http://w3.avignon.inra.fr/geonetwork_anaee/177afe24-aa95-4f3e-a0f5-34e46ee42c55</identifier>
+    <image>thumbnail|http://w3.avignon.inra.fr:80/geonetwork_anaee/srv/eng/resources.get?uuid=177afe24-aa95-4f3e-a0f5-34e46ee42c55&amp;fname=Montiers_s.png|thumbnail</image>
+    <tempExtentBegin>2015-12-31t23:00:00.000z</tempExtentBegin>
+    <tempExtentBegin>2016-01-01</tempExtentBegin>
+    <mdLanguage>eng</mdLanguage>
+    <mdLanguage>fre</mdLanguage>
+    <crsDetails>{ "code": "WGS 84 (EPSG:4326)", "codeSpace": "", "name": "", "url": "" }</crsDetails>
+    <maintenanceAndUpdateFrequency_text>As needed</maintenanceAndUpdateFrequency_text>
+    <format>inapplicable</format>
+    <denominator>50000</denominator>
+    <root>gmd:MD_Metadata</root>
+    <isTemplate>n</isTemplate>
+    <valid>-1</valid>
+    <feedbackCount>0</feedbackCount>
+    <tempExtentEnd>2020-06-14t21:59:59.000z</tempExtentEnd>
+    <rating>0</rating>
+    <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+    <category>datasets</category>
+    <updateFrequency>asNeeded</updateFrequency>
+    <geoBox>4.168|47.3155|6.168|49.3155</geoBox>
+    <owner>1</owner>
+    <recordOwner>Mitch Admin</recordOwner>
+    <defaultAbstract>The site of Montiers, localized at the boundaries between Meuse and Haute-Marne departments, North-East of France, has a large surface area (143 ha). It comprises two soil successions (toposequence) and the climate, stand conditions (age, species, forest management) are equivalent on all the surface of the site.
+The facility comprises three biogeochemical stations of 10 000 m2 each and one flux tower above forest canopy (45 m-high) settled along a soil succession representative of soils of the region. The three stations include four substations of which three are strongly equipped and one is free for future experimentations. Each equipped substation comprises lysimeters at different soil depths (litter, -10 cm, -30 cm, -60 cm and -90 cm; 3 replicates in general), tensio-lysimeters (-10 cm, -30 cm, -60 cm, -90 cm and -120 cm; 3 replicates in general) and temperature and moisture probes at different soil depths (-10 cm, -30 cm, -60 cm and -90 cm; 4 replicates), litterbags (6 replicates), stemflows (6 replicates), gutters (4 replicates). These stations allow to follow-up on the long term the flows of water, and major (Ca, Mg, K, Na, P, Fe, Mn, Si, Al, S, C, N) and trace (Cl, Se, B, I, Cs) elements between the different compartments (soil, tree, atmosphere) of a beech forest. Each station is settled on a different soil type, i.e., alocrisol, calci-brunisol, rendosol thus allowing to assess the impact of the soil type on biogeochemical cycles and on tree growth. 
+The flux tower is equipped with a Eddy Covariance system (CO2, H2O, and sensible heat) and a complete set of sensors recording the aerial and edaphic meterological conditions, the phenology and the canopy status. The data from flux tower are available on demand.
+The forest mainly consists in a beech timber of about 50 years: dominant species and forestry in the region. The effect of the soil on the biogeochemical and biological functioning of this beech forest is dealt with a very integrated approach (ecophysiology, microbiology, soil science and biogeochemistry). In addition, the flux tower permits to measure, at various levels of the canopy and above, meteorological parameters (temperature, radiation, and precipitation), the gaseous exchanges and the particular deposits.</defaultAbstract>
+    <link>Site of Montiers||https://siteofmontiers.wordpress.com|WWW:LINK-1.0-http--link|text/html|1</link>
+    <link>Site of Montiers||https://siteofmontiers.wordpress.com|WWW:LINK-1.0-http--link|text/html|1|</link>
+    <defaultTitle>SOERE F-ORE-T : Montiers site</defaultTitle>
+    <datasetLang>eng</datasetLang>
+    <userinfo>Mitch|Admin|Mitch|Administrator</userinfo>
+    <topicCat>structure</topicCat>
+    <legalConstraints>See AnaEE-France charters.</legalConstraints>
+    <creationDate>2008-01-01</creationDate>
+    <standardName>ISO 19115:2003/19139</standardName>
+    <crs>WGS 84 (EPSG:4326)</crs>
+    <title>SOERE F-ORE-T : Montiers site</title>
+    <draft>n</draft>
+    <geoDesc>Montiers</geoDesc>
+    <keywordGroup>{ 'theme.anaeeThes.rdf' :[ {'value': 'air humidity', 'link': ''} , {'value': 'phenology', 'link': ''} , {'value': 'forest management', 'link': ''} , {'value': 'soil water content', 'link': ''} , {'value': 'AnaEE-France', 'link': ''} , {'value': 'natural environment', 'link': ''} , {'value': 'flux tower', 'link': ''} , {'value': 'atmospheric pressure', 'link': ''} , {'value': 'forest ecosystem', 'link': ''} , {'value': 'forest ecology', 'link': ''} , {'value': 'species richness', 'link': ''} , {'value': 'water balance', 'link': ''} , {'value': 'cambisol', 'link': ''} , {'value': 'canopy surface temperature', 'link': ''} , {'value': 'soil temperature', 'link': ''} , {'value': 'incident photosynthetically active radiation', 'link': ''} , {'value': 'soil heat flux', 'link': ''} , {'value': 'long term monitoring', 'link': ''} , {'value': 'F-ORE-T', 'link': ''} , {'value': 'radiation interception', 'link': ''} , {'value': 'air temperature', 'link': ''} , {'value': 'incident shortwave radiation', 'link': ''} , {'value': 'net ecosystem H2O flux', 'link': ''} , {'value': 'soil respiration', 'link': ''} , {'value': 'water flow', 'link': ''} , {'value': 'water flow', 'link': ''} , {'value': 'temperate forest', 'link': ''} , {'value': 'inter-annual variability', 'link': ''} , {'value': 'beech forest', 'link': ''} , {'value': 'energy balance', 'link': ''} , {'value': 'population density', 'link': ''} , {'value': 'nutrient flux', 'link': ''} , {'value': 'water stock', 'link': ''} , {'value': 'soil pollution', 'link': ''} , {'value': 'microfloral biodiversity', 'link': ''} , {'value': 'macrofloral biodiversity', 'link': ''} , {'value': 'leptosol', 'link': ''} , {'value': 'major element', 'link': ''} , {'value': 'aquatic nutrient level', 'link': ''} , {'value': 'nutrient stock', 'link': ''} , {'value': 'natural soil evolution', 'link': ''} , {'value': 'biogeochemical station', 'link': ''} , {'value': 'hydrological change', 'link': ''} , {'value': 'water pH', 'link': ''} , {'value': 'carbon flux', 'link': ''} , {'value': 'trace element', 'link': ''} , {'value': 'soil eutrophisation', 'link': ''} ] , 'GEMET - INSPIRE themes, version 1.0 INSPIRE themes' :[ {'value': 'Environmental monitoring facilities', 'link': ''} ] , 'AnaEE-France Locations' :[ {'value': 'Montiers', 'link': ''} ] , 'theme.variableAnaEE.rdf' :[ {'value': 'air humidity', 'link': ''} , {'value': 'pluviometry', 'link': ''} , {'value': 'air temperature', 'link': ''} , {'value': 'global radiation', 'link': ''} , {'value': 'PAR radiation', 'link': ''} , {'value': 'evapotranspiration', 'link': ''} , {'value': 'soil heat flux', 'link': ''} , {'value': 'wind speed', 'link': ''} , {'value': 'soil respiration', 'link': ''} , {'value': 'soil moisture', 'link': ''} , {'value': 'soil temperature', 'link': ''} , {'value': 'CO2 flux', 'link': ''} , {'value': 'net radiation', 'link': ''} , {'value': 'carbon flux in soil vegetation atmosphere system', 'link': ''} , {'value': 'soil solution chemical analysis', 'link': ''} , {'value': 'energy flux in soil vegetation atmosphere system', 'link': ''} , {'value': 'soil solution N content', 'link': ''} , {'value': 'soil solution P content', 'link': ''} , {'value': 'mass flux in soil vegetation atmosphere system', 'link': ''} , {'value': 'soil solution NO3- content', 'link': ''} , {'value': 'soil solution NO2- content', 'link': ''} , {'value': 'soil solution DOC', 'link': ''} , {'value': 'soil solution PO3- content', 'link': ''} , {'value': 'soil solution cations', 'link': ''} , {'value': 'soil solution Eh', 'link': ''} , {'value': 'soil solution anion', 'link': ''} , {'value': 'soil solution SO4- content', 'link': ''} , {'value': 'aerial biomass', 'link': ''} , {'value': 'soil solution Ph', 'link': ''} , {'value': 'root biomass', 'link': ''} , {'value': 'vegetation growth', 'link': ''} , {'value': 'vegetation height', 'link': ''} , {'value': 'species inventory', 'link': ''} , {'value': 'sap flow', 'link': ''} , {'value': 'phosphorus flux in soil vegetation atmosphere system', 'link': ''} , {'value': 'solid atmospheric deposition', 'link': ''} , {'value': 'litterfall flow', 'link': ''} , {'value': 'botanical composition', 'link': ''} , {'value': 'vegetation major element content', 'link': ''} , {'value': 'major elements content in organic amendment', 'link': ''} , {'value': 'nitrogen flux in soil vegetation atmosphere system', 'link': ''} , {'value': 'soil major elements', 'link': ''} , {'value': 'diffuse global radiation', 'link': ''} , {'value': 'soil fauna', 'link': ''} , {'value': 'elements stock in litter', 'link': ''} , {'value': 'soil trace elements', 'link': ''} , {'value': 'vegetation nutrients stock', 'link': ''} , {'value': 'PAR below vegetation cover', 'link': ''} , {'value': 'trace elements content in organic amendment', 'link': ''} ] , 'theme.drivers.rdf' :[ {'value': 'vegetation thinning', 'link': ''} ] , 'theme.EcosystemAnaEE.rdf' :[ {'value': 'beech forest', 'link': ''} ] }</keywordGroup>
+    <groupOwner>144</groupOwner>
+    <_locale>eng</_locale>
+    <geonet:info xmlns:geonet="http://www.fao.org/geonetwork">
+      <id>202</id>
+      <uuid>177afe24-aa95-4f3e-a0f5-34e46ee42c55</uuid>
+      <schema>iso19139</schema>
+      <createDate>2015-07-17T10:43:28</createDate>
+      <changeDate>2017-07-31T17:01:51</changeDate>
+      <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+      <isPublishedToAll>true</isPublishedToAll>
+      <view>true</view>
+      <notify>false</notify>
+      <download>true</download>
+      <dynamic>true</dynamic>
+      <featured>false</featured>
+      <selected>false</selected>
+    </geonet:info>
+  </metadata>
+  <metadata>
+    <abstract>The Lusignan platform is dedicated to temporary grassland. It has been designed to increase our understanding of the effects of management of mixed arable crops / grasslands systems on the environmental outputs. The main scientific issue concerns the effects of grassland duration and management on SOM dynamics (quantity and composition), GHG emissions (CO2, N2O), nutrient lixiviation and functional biodiversity.</abstract>
+    <lineage>The Lusignan platform is part of the SOERE ACBB.
+The SOERE ACBB is a service of AnaEE-France Infrastructure.</lineage>
+    <responsibleParty>Point of contact|metadata|INRA||frederique.louault@clermont.inra.fr|Frédérique LOUAULT||INRA UREP Site de Crouel 5 Chemin de Beaulieu, Clermont-Ferrand, 63039 cedex 02, France|+33 4 73 62 44 30||1|</responsibleParty>
+    <responsibleParty>Point of contact|resource|INRA||abad.chabbi@lusignan.inra.fr|Abad CHABBI||INRA, Lusignan, 86600, France|+33 5 49 55 61 78||1|</responsibleParty>
+    <responsibleParty>Point of contact|resource|INRA||francois.gastal@lusignan.inra.fr|François GASTAL||INRA - LUSIGNAN route de Saintes, Lusignan, 86600, France|+33 5 49 55 60 93||2|</responsibleParty>
+    <type>dataset</type>
+    <isHarvested>y</isHarvested>
+    <displayOrder>0</displayOrder>
+    <docLocale>eng</docLocale>
+    <popularity>56</popularity>
+    <keyword>AnaEE-France</keyword>
+    <keyword>CO2 flux</keyword>
+    <keyword>COD content in rainwater</keyword>
+    <keyword>Environmental monitoring facilities</keyword>
+    <keyword>Lusignan</keyword>
+    <keyword>N2O flux</keyword>
+    <keyword>NH4+ content in rainwater</keyword>
+    <keyword>PAR radiation</keyword>
+    <keyword>SO4- content in rainwater</keyword>
+    <keyword>Structure</keyword>
+    <keyword>aerial biomass</keyword>
+    <keyword>agro-ecosystem</keyword>
+    <keyword>air humidity</keyword>
+    <keyword>air temperature</keyword>
+    <keyword>animals</keyword>
+    <keyword>anthropogenic disturbances</keyword>
+    <keyword>arable land</keyword>
+    <keyword>atmospheric radiation</keyword>
+    <keyword>biogeochemical cycle</keyword>
+    <keyword>botanical composition</keyword>
+    <keyword>carbonates</keyword>
+    <keyword>cation exchange capacity</keyword>
+    <keyword>climate change</keyword>
+    <keyword>crop</keyword>
+    <keyword>diffuse  global radiation</keyword>
+    <keyword>dry bulk density of soil</keyword>
+    <keyword>evapotranspiration</keyword>
+    <keyword>fertilisation</keyword>
+    <keyword>global radiation</keyword>
+    <keyword>grassland</keyword>
+    <keyword>grazing</keyword>
+    <keyword>greenhouse gas</keyword>
+    <keyword>land use</keyword>
+    <keyword>long term experiment</keyword>
+    <keyword>long term monitoring</keyword>
+    <keyword>maize</keyword>
+    <keyword>microbial biomass</keyword>
+    <keyword>microbial diversity</keyword>
+    <keyword>plant</keyword>
+    <keyword>pluviometry</keyword>
+    <keyword>root biomass</keyword>
+    <keyword>rotation</keyword>
+    <keyword>sensible heat flux</keyword>
+    <keyword>soil P and K</keyword>
+    <keyword>soil PH</keyword>
+    <keyword>soil chemichal and geochemical analysis</keyword>
+    <keyword>soil granulometry</keyword>
+    <keyword>soil heat flux</keyword>
+    <keyword>soil major elements</keyword>
+    <keyword>soil moisture</keyword>
+    <keyword>soil respiration</keyword>
+    <keyword>soil solution DOC</keyword>
+    <keyword>soil solution N content</keyword>
+    <keyword>soil solution NO2- content</keyword>
+    <keyword>soil solution NO3-  content</keyword>
+    <keyword>soil solution P content</keyword>
+    <keyword>soil solution PO3- content</keyword>
+    <keyword>soil solution Ph</keyword>
+    <keyword>soil solution SO4- content</keyword>
+    <keyword>soil solution anion</keyword>
+    <keyword>soil solution cations</keyword>
+    <keyword>soil solution chemical analysis</keyword>
+    <keyword>soil temperature</keyword>
+    <keyword>soil water retention characteristics</keyword>
+    <keyword>soil worms</keyword>
+    <keyword>sugarbeet</keyword>
+    <keyword>temperature</keyword>
+    <keyword>vegetation carbon content</keyword>
+    <keyword>vegetation major element  content</keyword>
+    <keyword>vegetation nitrogen content</keyword>
+    <keyword>wheat</keyword>
+    <keyword>wind direction</keyword>
+    <keyword>wind speed</keyword>
+    <keyword>yield</keyword>
+    <publishedForGroup>1</publishedForGroup>
+    <identifier>http://w3.avignon.inra.fr/geonetwork_anaee/248a7f0c-cdbf-4002-b813-1384d3bba4b0</identifier>
+    <image>thumbnail|http://w3.avignon.inra.fr:80/geonetwork_anaee/srv/eng/resources.get?uuid=32367bcf-e2d5-4cf3-92bb-b1734fa670a2&amp;fname=SOERE_ACBB.png|large_thumbnail</image>
+    <tempExtentBegin>2004-12-31t23:00:00.000z</tempExtentBegin>
+    <tempExtentBegin>2005-01-01</tempExtentBegin>
+    <mdLanguage>eng</mdLanguage>
+    <mdLanguage>fre</mdLanguage>
+    <crsDetails>{ "code": "WGS 84 (EPSG:4326)", "codeSpace": "", "name": "", "url": "" }</crsDetails>
+    <maintenanceAndUpdateFrequency_text>As needed</maintenanceAndUpdateFrequency_text>
+    <format>inapplicable</format>
+    <denominator>50000</denominator>
+    <root>gmd:MD_Metadata</root>
+    <isTemplate>n</isTemplate>
+    <valid>-1</valid>
+    <feedbackCount>0</feedbackCount>
+    <tempExtentEnd>2020-06-14t21:59:59.000z</tempExtentEnd>
+    <rating>0</rating>
+    <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+    <category>datasets</category>
+    <updateFrequency>asNeeded</updateFrequency>
+    <geoBox>0.08|46.4|0.125|46.44</geoBox>
+    <owner>1</owner>
+    <recordOwner>Mitch Admin</recordOwner>
+    <defaultAbstract>The Lusignan platform is dedicated to temporary grassland. It has been designed to increase our understanding of the effects of management of mixed arable crops / grasslands systems on the environmental outputs. The main scientific issue concerns the effects of grassland duration and management on SOM dynamics (quantity and composition), GHG emissions (CO2, N2O), nutrient lixiviation and functional biodiversity.</defaultAbstract>
+    <link>SOERE ACBB website|Link to the resource|http://www.soere-acbb.com|WWW:LINK-1.0-http--link|text/html|1</link>
+    <link>SOERE ACBB website|Link to the resource|http://www.soere-acbb.com|WWW:LINK-1.0-http--link|text/html|1|</link>
+    <defaultTitle>SOERE ACBB Lusignan Platform (Temporary Grassland)</defaultTitle>
+    <datasetLang>eng</datasetLang>
+    <userinfo>Mitch|Admin|Mitch|Administrator</userinfo>
+    <topicCat>structure</topicCat>
+    <legalConstraints>See AnaEE-France charters.</legalConstraints>
+    <creationDate>2005-01-01</creationDate>
+    <standardName>ISO 19115:2003/19139</standardName>
+    <crs>WGS 84 (EPSG:4326)</crs>
+    <title>SOERE ACBB Lusignan Platform (Temporary Grassland)</title>
+    <parentId>32367bcf-e2d5-4cf3-92bb-b1734fa670a2</parentId>
+    <draft>n</draft>
+    <geoDesc>Lusignan</geoDesc>
+    <keywordGroup>{ 'theme.anaeeThes.rdf' :[ {'value': 'AnaEE-France', 'link': ''} , {'value': 'arable land', 'link': ''} , {'value': 'biogeochemical cycle', 'link': ''} , {'value': 'plant', 'link': ''} , {'value': 'climate change', 'link': ''} , {'value': 'animals', 'link': ''} , {'value': 'long term monitoring', 'link': ''} , {'value': 'crop', 'link': ''} , {'value': 'greenhouse gas', 'link': ''} , {'value': 'agro-ecosystem', 'link': ''} , {'value': 'land use', 'link': ''} , {'value': 'long term experiment', 'link': ''} , {'value': 'anthropogenic disturbances', 'link': ''} , {'value': 'grassland', 'link': ''} , {'value': 'grazing', 'link': ''} ] , 'GEMET - INSPIRE themes, version 1.0 INSPIRE themes' :[ {'value': 'Environmental monitoring facilities', 'link': ''} ] , 'AnaEE-France Locations' :[ {'value': 'Lusignan', 'link': ''} ] , 'theme.variableAnaEE.rdf' :[ {'value': 'soil solution Ph', 'link': ''} , {'value': 'N2O flux', 'link': ''} , {'value': 'air humidity', 'link': ''} , {'value': 'air temperature', 'link': ''} , {'value': 'root biomass', 'link': ''} , {'value': 'soil heat flux', 'link': ''} , {'value': 'sensible heat flux', 'link': ''} , {'value': 'global radiation', 'link': ''} , {'value': 'NH4+ content in rainwater', 'link': ''} , {'value': 'soil granulometry', 'link': ''} , {'value': 'SO4- content in rainwater', 'link': ''} , {'value': 'wind direction', 'link': ''} , {'value': 'botanical composition', 'link': ''} , {'value': 'COD content in rainwater', 'link': ''} , {'value': 'pluviometry', 'link': ''} , {'value': 'evapotranspiration', 'link': ''} , {'value': 'PAR radiation', 'link': ''} , {'value': 'wind speed', 'link': ''} , {'value': 'vegetation nitrogen content', 'link': ''} , {'value': 'vegetation major element content', 'link': ''} , {'value': 'vegetation carbon content', 'link': ''} , {'value': 'soil temperature', 'link': ''} , {'value': 'soil chemichal and geochemical analysis', 'link': ''} , {'value': 'soil PH', 'link': ''} , {'value': 'soil solution chemical analysis', 'link': ''} , {'value': 'dry bulk density of soil', 'link': ''} , {'value': 'soil solution SO4- content', 'link': ''} , {'value': 'carbonates', 'link': ''} , {'value': 'soil major elements', 'link': ''} , {'value': 'soil respiration', 'link': ''} , {'value': 'soil moisture', 'link': ''} , {'value': 'soil solution anion', 'link': ''} , {'value': 'soil solution N content', 'link': ''} , {'value': 'soil water retention characteristics', 'link': ''} , {'value': 'soil solution NO3- content', 'link': ''} , {'value': 'CO2 flux', 'link': ''} , {'value': 'microbial biomass', 'link': ''} , {'value': 'soil solution PO3- content', 'link': ''} , {'value': 'soil solution DOC', 'link': ''} , {'value': 'soil P and K', 'link': ''} , {'value': 'soil solution NO2- content', 'link': ''} , {'value': 'soil solution P content', 'link': ''} , {'value': 'soil solution cations', 'link': ''} , {'value': 'microbial diversity', 'link': ''} , {'value': 'aerial biomass', 'link': ''} , {'value': 'yield', 'link': ''} , {'value': 'cation exchange capacity', 'link': ''} , {'value': 'soil worms', 'link': ''} , {'value': 'diffuse global radiation', 'link': ''} , {'value': 'atmospheric radiation', 'link': ''} ] , 'theme.drivers.rdf' :[ {'value': 'temperature', 'link': ''} , {'value': 'fertilisation', 'link': ''} , {'value': 'grazing', 'link': ''} , {'value': 'rotation', 'link': ''} ] , 'theme.EcosystemAnaEE.rdf' :[ {'value': 'wheat', 'link': ''} , {'value': 'maize', 'link': ''} , {'value': 'sugarbeet', 'link': ''} , {'value': 'grassland', 'link': ''} ] }</keywordGroup>
+    <groupOwner>144</groupOwner>
+    <_locale>eng</_locale>
+    <geonet:info xmlns:geonet="http://www.fao.org/geonetwork">
+      <id>212</id>
+      <uuid>248a7f0c-cdbf-4002-b813-1384d3bba4b0</uuid>
+      <schema>iso19139</schema>
+      <createDate>2014-06-18T11:46:05</createDate>
+      <changeDate>2017-10-04T10:39:45</changeDate>
+      <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+      <isPublishedToAll>true</isPublishedToAll>
+      <view>true</view>
+      <notify>false</notify>
+      <download>true</download>
+      <dynamic>true</dynamic>
+      <featured>false</featured>
+      <selected>false</selected>
+    </geonet:info>
+  </metadata>
+  <metadata>
+    <abstract>Together with the Ecotron de Montpellier, 
+the Ecotron IleDeFrance is part of the distributed “Infrastructure de Recherche” (IR) managed and supported by CNRS and Ecole normale supérieure since 2010.
+Ecotrons enable highly controlled manipulation and measurement of terrestrial and aquatic organisms, communities and ecosystems with unprecedented power and quality. On a technological side, an Ecotron is defined as a device allowing the precise conditioning of the environment and the detailed monitoring of states and activities of organisms and ecosystems. Ecotrons allow studying a range of small to medium sized biological systems from relatively complex ecosystems (e.g., intact samples of grasslands) to model plant and animal species up to reconstructed ecosystems (e.g., artificial life support models). Ecotrons can thus be used to confine ecosystems from in natura sites and therefore conduct detailed, controlled experiments on natural ecosystems.
+
+The Ecotron IleDeFrance is based on technologies implemented in the Ecolab equipment and developed primarily in collaboration with the French private company Cesbron. The Ecolab is a modular structure coupling together three environmental chambers and one laboratory room. Each environmental chamber can be independently controlled accurately for realistic climate and atmospheric conditions (temperature, humidity, CO2 and O2 content, lighting) with unprecedented power and accuracy. A stainless steel lysimeter with temperature-control on three independent levels makes it possible to incubate both terrestrial and aquatic systems and simulate thermal gradients. Artificial light can be provided with several technologies to adapt to the needs and constraints of each project. The Ecotron IleDeFrance combines several Ecolabs into a network making it possible to run powerful, replicated experiments.</abstract>
+    <lineage>The Ecolab prototype arrived at the CEREEP in April 2008. Since then, 3 complete Ecolabs are functional. At the end the platform will have 6 complete Ecolabs.
+
+Ecotron IleDeFrance is a service of AnaEE-France Infrastructure.</lineage>
+    <responsibleParty>Point of contact|metadata|CNRS||simon.chollet@ens.fr|Simon CHOLLET||78, rue du Château, Saint-Pierre-Lès-Nemours, 77140, France|+33 1 64 28 89 00||1|</responsibleParty>
+    <responsibleParty>Point of contact|resource|CNRS||cereep@biologie.ens.fr|Jean-François LE GALLIARD||78, rue du Château, Saint-Pierre-Lès-Nemours, 77140, France|+33 1 64 28 35 33||1|</responsibleParty>
+    <responsibleParty>Point of contact|resource|CNRS||simon.chollet@ens.fr|Simon CHOLLET||78, rue du Château, Saint-Pierre-Lès-Nemours, 77140, France|+33 1 64 28 89 00||2|</responsibleParty>
+    <type>dataset</type>
+    <legalConstraints>In case of participation of technical staff of the station during the experiments they must be co-authors of publications. 
+The CEREEP-Ecotron IleDeFrance should be cited in the acknowledgments and / or the materials and methods.</legalConstraints>
+    <isHarvested>y</isHarvested>
+    <displayOrder>0</displayOrder>
+    <docLocale>eng</docLocale>
+    <popularity>94</popularity>
+    <keyword>AnaEE-France</keyword>
+    <keyword>Environmental monitoring facilities</keyword>
+    <keyword>Foljuif</keyword>
+    <keyword>Structure</keyword>
+    <keyword>air</keyword>
+    <keyword>air humidity</keyword>
+    <keyword>air temperature</keyword>
+    <keyword>aquatic mesocosm</keyword>
+    <keyword>atmosphere</keyword>
+    <keyword>climate</keyword>
+    <keyword>climate change</keyword>
+    <keyword>climate change adaptation</keyword>
+    <keyword>climate control</keyword>
+    <keyword>climate extreme</keyword>
+    <keyword>climatic cycle</keyword>
+    <keyword>climatic experiment</keyword>
+    <keyword>ecology</keyword>
+    <keyword>ecosystem ecology</keyword>
+    <keyword>ecotron</keyword>
+    <keyword>energy flux in soil vegetation atmosphere system</keyword>
+    <keyword>environmental sciences</keyword>
+    <keyword>mass flux in soil vegetation atmosphere system</keyword>
+    <keyword>microbial ecology</keyword>
+    <keyword>microcosm</keyword>
+    <keyword>plant ecology</keyword>
+    <keyword>pluviometry</keyword>
+    <keyword>population ecology</keyword>
+    <keyword>soil microbial ecology</keyword>
+    <keyword>soil microcosm</keyword>
+    <keyword>terrestrial ecosystems</keyword>
+    <publishedForGroup>1</publishedForGroup>
+    <identifier>http://w3.avignon.inra.fr/geonetwork_anaee/d16472fe-ca94-4e35-8dac-934eeced2ea4</identifier>
+    <image>thumbnail|http://w3.avignon.inra.fr:80/geonetwork_anaee/srv/eng/resources.get?uuid=d16472fe-ca94-4e35-8dac-934eeced2ea4&amp;fname=logoCEREEP-EcotronIDF_pt_s.png|thumbnail</image>
+    <tempExtentBegin>2008-02-29t23:00:00.000z</tempExtentBegin>
+    <tempExtentBegin>2008-03-01</tempExtentBegin>
+    <mdLanguage>eng</mdLanguage>
+    <mdLanguage>fre</mdLanguage>
+    <crsDetails>{ "code": "WGS 84 (EPSG:4326)", "codeSpace": "", "name": "", "url": "" }</crsDetails>
+    <maintenanceAndUpdateFrequency_text>As needed</maintenanceAndUpdateFrequency_text>
+    <format>inapplicable</format>
+    <denominator>50000</denominator>
+    <root>gmd:MD_Metadata</root>
+    <isTemplate>n</isTemplate>
+    <valid>-1</valid>
+    <feedbackCount>0</feedbackCount>
+    <tempExtentEnd>2019-12-30t23:00:00.000z</tempExtentEnd>
+    <tempExtentEnd>2019-12-31</tempExtentEnd>
+    <rating>5</rating>
+    <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+    <category>datasets</category>
+    <updateFrequency>asNeeded</updateFrequency>
+    <geoBox>2.6597868728638345|48.27952232711317|2.6815878677368223|48.29060242072376</geoBox>
+    <owner>1</owner>
+    <recordOwner>Mitch Admin</recordOwner>
+    <defaultAbstract>Together with the Ecotron de Montpellier, 
+the Ecotron IleDeFrance is part of the distributed “Infrastructure de Recherche” (IR) managed and supported by CNRS and Ecole normale supérieure since 2010.
+Ecotrons enable highly controlled manipulation and measurement of terrestrial and aquatic organisms, communities and ecosystems with unprecedented power and quality. On a technological side, an Ecotron is defined as a device allowing the precise conditioning of the environment and the detailed monitoring of states and activities of organisms and ecosystems. Ecotrons allow studying a range of small to medium sized biological systems from relatively complex ecosystems (e.g., intact samples of grasslands) to model plant and animal species up to reconstructed ecosystems (e.g., artificial life support models). Ecotrons can thus be used to confine ecosystems from in natura sites and therefore conduct detailed, controlled experiments on natural ecosystems.
+
+The Ecotron IleDeFrance is based on technologies implemented in the Ecolab equipment and developed primarily in collaboration with the French private company Cesbron. The Ecolab is a modular structure coupling together three environmental chambers and one laboratory room. Each environmental chamber can be independently controlled accurately for realistic climate and atmospheric conditions (temperature, humidity, CO2 and O2 content, lighting) with unprecedented power and accuracy. A stainless steel lysimeter with temperature-control on three independent levels makes it possible to incubate both terrestrial and aquatic systems and simulate thermal gradients. Artificial light can be provided with several technologies to adapt to the needs and constraints of each project. The Ecotron IleDeFrance combines several Ecolabs into a network making it possible to run powerful, replicated experiments.</defaultAbstract>
+    <link>CEREEP - Ecotron IDF website||http://www.foljuif.ens.fr|WWW:LINK-1.0-http--link|text/html|1</link>
+    <link>CEREEP - Ecotron IDF website||http://www.foljuif.ens.fr|WWW:LINK-1.0-http--link|text/html|1|</link>
+    <defaultTitle>Ecotron IleDeFrance</defaultTitle>
+    <datasetLang>eng</datasetLang>
+    <userinfo>Mitch|Admin|Mitch|Administrator</userinfo>
+    <topicCat>structure</topicCat>
+    <legalConstraints>See AnaEE-France charters.</legalConstraints>
+    <creationDate>2008-03-10</creationDate>
+    <standardName>ISO 19115:2003/19139</standardName>
+    <crs>WGS 84 (EPSG:4326)</crs>
+    <title>Ecotron IleDeFrance</title>
+    <draft>n</draft>
+    <geoDesc>Foljuif</geoDesc>
+    <keywordGroup>{ 'theme.anaeeThes.rdf' :[ {'value': 'aquatic mesocosm', 'link': ''} , {'value': 'climatic experiment', 'link': ''} , {'value': 'climate change', 'link': ''} , {'value': 'climate control', 'link': ''} , {'value': 'environmental sciences', 'link': ''} , {'value': 'microbial ecology', 'link': ''} , {'value': 'terrestrial ecosystems', 'link': ''} , {'value': 'ecology', 'link': ''} , {'value': 'ecology', 'link': ''} , {'value': 'climate change adaptation', 'link': ''} , {'value': 'population ecology', 'link': ''} , {'value': 'soil microbial ecology', 'link': ''} , {'value': 'air', 'link': ''} , {'value': 'climatic cycle', 'link': ''} , {'value': 'ecosystem ecology', 'link': ''} , {'value': 'atmosphere', 'link': ''} , {'value': 'plant ecology', 'link': ''} , {'value': 'microcosm', 'link': ''} , {'value': 'ecotron', 'link': ''} , {'value': 'climate extreme', 'link': ''} , {'value': 'climate', 'link': ''} , {'value': 'soil microcosm', 'link': ''} , {'value': 'AnaEE-France', 'link': ''} ] , 'GEMET - INSPIRE themes, version 1.0 INSPIRE themes' :[ {'value': 'Environmental monitoring facilities', 'link': ''} ] , 'AnaEE-France Locations' :[ {'value': 'Foljuif', 'link': ''} ] , 'theme.variableAnaEE.rdf' :[ {'value': 'air temperature', 'link': ''} , {'value': 'air humidity', 'link': ''} , {'value': 'pluviometry', 'link': ''} , {'value': 'energy flux in soil vegetation atmosphere system', 'link': ''} , {'value': 'mass flux in soil vegetation atmosphere system', 'link': ''} ] }</keywordGroup>
+    <groupOwner>144</groupOwner>
+    <_locale>eng</_locale>
+    <geonet:info xmlns:geonet="http://www.fao.org/geonetwork">
+      <id>313</id>
+      <uuid>d16472fe-ca94-4e35-8dac-934eeced2ea4</uuid>
+      <schema>iso19139</schema>
+      <createDate>2014-03-17T11:32:10</createDate>
+      <changeDate>2018-10-22T18:55:41</changeDate>
+      <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+      <isPublishedToAll>true</isPublishedToAll>
+      <view>true</view>
+      <notify>false</notify>
+      <download>true</download>
+      <dynamic>true</dynamic>
+      <featured>false</featured>
+      <selected>false</selected>
+    </geonet:info>
+  </metadata>
+  <metadata>
+    <abstract>UMS BBEES provides the CNRS and the National Museum of Natural History’s research units and researchers with technical and scientific supports to structure, perpetuate or pool their databases. Its interventions result in advices or direct actions during several days to several months in order to relaunch or restructure databases.
+It benefits the environment in place at the Museum (Service du Patrimoine Naturel, Inventaire national du Patrimoine naturel, collections patrimoniales, Pôle recherche de la DSI, etc). This structure is not designed to administer databases, which remain the responsibility of the teams that produce them, or to provide them with accommodation, which may be the DSI of the Museum or other suitable structure. However, it can provide guidance on these points.
+To facilitate the integration of databases in national and international frameworks, the UMS BBEES offers recommendations, including:
+- The constitution of corpus and data processing;
+- The choice of tools;
+- Structuring data;
+- Metadata.
+These recommendations are in line with the operative standards and norms, such as the European Directive INSPIRE (2007/2 / CE of 14 March 2007) for geographical informations, or the choice of a common taxonomic repository for existing biodiversity databases (INPN, GBIF, collections databases).
+The issue of identification and accessibility of databases is also at the heart of the concerns of the UMS BBEES, particularly the inactive databases (for example databases developed in the framework of national programs and stored on personal computers) and bases on standby (accessible databases, but are not supplied or operated). Investigations are and will be regularly conducted with the directors of research units in order to identify all the databases produced by the units (inactive standby, developing and active), but also to anticipate and accompany the bases of development applications as part of national and international research programs.
+UMS BBEES gave a particular attention to the implementation of regulations concerning intellectual property in the particular field of databases. Thus, it does not facilitate the dissemination of databases that do not comply with legislation.
+ </abstract>
+    <lineage>UMS 3468 BBEES « Database on Biodiversity, Ecology, Environments and Societies”
+
+UMS 3468 BBEES was created in September 2011, by the CNRS Institute of Ecology and Environment (INEE), in collaboration with the National Museum of Natural History (MNHN Paris). It is hosted on the site of the Jardin des Plantes (MNHN Paris, 5e arr.)
+
+The mission of the UMS BBEES is to provide technical and scientific support (advice, but also practical assistance) for research units and researchers from CNRS-INEE and MNHN, wishing to structure, sustain or mutualize their databases on natural and cultural biodiversity.
+
+UMS BBEES is partner of several major programs: ANAEE France, but also French Long Term Ecological Research network (Zones ateliers; www.za-inee.org/ http://) and Human-Environment Observatories network (http://www.ohm-inee.cnrs.fr/).</lineage>
+    <responsibleParty>Point of contact|metadata|CNRS||amaire@mnhn.fr|Aurélien MAIRE||CP 55 Pavillon d'Anatomie Comparée, 55 rue Buffon, Paris, 75005, France|+33 1 40 79 80 44||1|</responsibleParty>
+    <responsibleParty>Point of contact|resource|CNRS||callou@mnhn.fr|Cécile CALLOU||CP 55 Pavillon d'Anatomie Comparée, 55 rue Buffon, Paris, 75005, France|+33 1 40 79 32 94||1|</responsibleParty>
+    <type>dataset</type>
+    <isHarvested>y</isHarvested>
+    <displayOrder>0</displayOrder>
+    <docLocale>eng</docLocale>
+    <popularity>79</popularity>
+    <keyword>AnaEE-France</keyword>
+    <keyword>Environmental monitoring facilities</keyword>
+    <keyword>France</keyword>
+    <keyword>Paris</keyword>
+    <keyword>Structure</keyword>
+    <keyword>data management</keyword>
+    <keyword>ecological data</keyword>
+    <keyword>environmental information system</keyword>
+    <keyword>metadata management</keyword>
+    <keyword>programming language</keyword>
+    <keyword>relational database</keyword>
+    <keyword>web interface development</keyword>
+    <publishedForGroup>1</publishedForGroup>
+    <identifier>http://w3.avignon.inra.fr/geonetwork_anaee/c106e898-b8a4-4679-8e2b-eb8fc04e8337</identifier>
+    <image>thumbnail|http://w3.avignon.inra.fr/geonetwork_anaee/srv/eng//resources.get?uuid=c106e898-b8a4-4679-8e2b-eb8fc04e8337&amp;fname=Logo BBEES violet PNG_s.png|thumbnail</image>
+    <tempExtentBegin>2011-08-31t22:00:00.000z</tempExtentBegin>
+    <tempExtentBegin>2011-09-01</tempExtentBegin>
+    <mdLanguage>eng</mdLanguage>
+    <mdLanguage>fre</mdLanguage>
+    <crsDetails>{ "code": "WGS 84 (EPSG:4326)", "codeSpace": "", "name": "", "url": "" }</crsDetails>
+    <maintenanceAndUpdateFrequency_text>As needed</maintenanceAndUpdateFrequency_text>
+    <format>inapplicable</format>
+    <denominator>50000</denominator>
+    <root>gmd:MD_Metadata</root>
+    <isTemplate>n</isTemplate>
+    <valid>-1</valid>
+    <feedbackCount>0</feedbackCount>
+    <tempExtentEnd>2020-06-14t21:59:59.000z</tempExtentEnd>
+    <rating>0</rating>
+    <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+    <category>datasets</category>
+    <updateFrequency>asNeeded</updateFrequency>
+    <geoBox>-5.7|41.3|9.5|51</geoBox>
+    <geoBox>2.25|48.75|2.45|48.95</geoBox>
+    <owner>1</owner>
+    <recordOwner>Mitch Admin</recordOwner>
+    <revisionDate>2020-01-03</revisionDate>
+    <defaultAbstract>UMS BBEES provides the CNRS and the National Museum of Natural History’s research units and researchers with technical and scientific supports to structure, perpetuate or pool their databases. Its interventions result in advices or direct actions during several days to several months in order to relaunch or restructure databases.
+It benefits the environment in place at the Museum (Service du Patrimoine Naturel, Inventaire national du Patrimoine naturel, collections patrimoniales, Pôle recherche de la DSI, etc). This structure is not designed to administer databases, which remain the responsibility of the teams that produce them, or to provide them with accommodation, which may be the DSI of the Museum or other suitable structure. However, it can provide guidance on these points.
+To facilitate the integration of databases in national and international frameworks, the UMS BBEES offers recommendations, including:
+- The constitution of corpus and data processing;
+- The choice of tools;
+- Structuring data;
+- Metadata.
+These recommendations are in line with the operative standards and norms, such as the European Directive INSPIRE (2007/2 / CE of 14 March 2007) for geographical informations, or the choice of a common taxonomic repository for existing biodiversity databases (INPN, GBIF, collections databases).
+The issue of identification and accessibility of databases is also at the heart of the concerns of the UMS BBEES, particularly the inactive databases (for example databases developed in the framework of national programs and stored on personal computers) and bases on standby (accessible databases, but are not supplied or operated). Investigations are and will be regularly conducted with the directors of research units in order to identify all the databases produced by the units (inactive standby, developing and active), but also to anticipate and accompany the bases of development applications as part of national and international research programs.
+UMS BBEES gave a particular attention to the implementation of regulations concerning intellectual property in the particular field of databases. Thus, it does not facilitate the dissemination of databases that do not comply with legislation.
+ </defaultAbstract>
+    <link>Site BBEES||https://bbees.mnhn.fr/|WWW:LINK-1.0-http--link|text/html|1</link>
+    <link>Site BBEES||https://bbees.mnhn.fr/|WWW:LINK-1.0-http--link|text/html|1|</link>
+    <defaultTitle>UMS BBEES 3468 - AnaEE-F</defaultTitle>
+    <datasetLang>fre</datasetLang>
+    <userinfo>Mitch|Admin|Mitch|Administrator</userinfo>
+    <topicCat>structure</topicCat>
+    <legalConstraints>See AnaEE-France charters.</legalConstraints>
+    <creationDate>2011-09-01</creationDate>
+    <standardName>ISO 19115:2003/19139</standardName>
+    <crs>WGS 84 (EPSG:4326)</crs>
+    <title>UMS BBEES 3468 - AnaEE-F</title>
+    <draft>n</draft>
+    <geoDesc>France</geoDesc>
+    <geoDesc>Paris</geoDesc>
+    <keywordGroup>{ 'theme.anaeeThes.rdf' :[ {'value': 'AnaEE-France', 'link': ''} , {'value': 'data management', 'link': ''} , {'value': 'ecological data', 'link': ''} , {'value': 'environmental information system', 'link': ''} , {'value': 'metadata management', 'link': ''} , {'value': 'programming language', 'link': ''} , {'value': 'relational database', 'link': ''} , {'value': 'web interface development', 'link': ''} ] , 'GEMET - INSPIRE themes, version 1.0 INSPIRE themes' :[ {'value': 'Environmental monitoring facilities', 'link': ''} ] , 'AnaEE-France Locations' :[ {'value': 'Paris', 'link': ''} , {'value': 'France', 'link': ''} ] }</keywordGroup>
+    <groupOwner>144</groupOwner>
+    <_locale>eng</_locale>
+    <geonet:info xmlns:geonet="http://www.fao.org/geonetwork">
+      <id>292</id>
+      <uuid>c106e898-b8a4-4679-8e2b-eb8fc04e8337</uuid>
+      <schema>iso19139</schema>
+      <createDate>2014-04-25T14:56:32</createDate>
+      <changeDate>2020-01-03T11:50:59</changeDate>
+      <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+      <isPublishedToAll>true</isPublishedToAll>
+      <view>true</view>
+      <notify>false</notify>
+      <download>true</download>
+      <dynamic>true</dynamic>
+      <featured>false</featured>
+      <selected>false</selected>
+    </geonet:info>
+  </metadata>
+  <metadata>
+    <abstract>The site of EFELE (Effluents d’Elevage et Environnement) is part of the french network labeled as SOERE PRO. The objectives of EFELE are the same as QualiAgro and Colmar sites : the aim of the project is to characterize the long term effects of organic products applications on soil properties and to quantify their effects on water and air quality. 
+The experimental site was initiated in 2012 and is located in Brittany, at Le Rheu. The soil is a loamy soil (neoluvisol  à luvisol/redoxisol). The field is managed with a maize/ wheat crop rotation, and white mustard is sown after the wheat  to cover the soil during the intercropping period. 
+Two trials are studied at EFELE site :  
+-	A first trial named « PROs » is structured as a complete randomized block design with 4 replicates. The effects of 5 typical animal wastes are compared to control treatments : i) cattle farmyard manure and composted pig manure are applied every 2 years before maize sowing, and ii) layers manure, pig slurry and a digestate obtained after pig slurry digestion are applied in spring, on wheat vegetation at early spring or just before maize sowing. The rates of application range from 50 t ha-1 for cattle manure, 25 t ha-1 for composted pig manure, 20-25 t ha-1 for the slurry and the digestate and 3 t ha-1 for layers manure, 
+-	A second trial named « TS/MO »  is structured as a band trial with 3 replicates. The objectives of this trial are to study the effects of cattle farmyard manure on soil properties under conventional tillage and reduced tillage. 
+The meteorological data are monitored on the site, and 7 experimental plots are equipped with TDR probes (TRASE system), tensiometers (UMS T4e) and temperature probes placed at the depth of 13, 40, 60, 80 and 110 cm. Data are collected at a hourly time step. 10 plots are also equipped with wick lysimeters (0.25 x 0.50 m) placed at the depth of 40 and 90 cm. 
+The monitoring of N2O and CO2 emission is done by a set of 6 automatics chambers.
+The soil surface layer (0-25 cm) is sampled every year before the animal wastes application, to characterize the evolution of the physical, biological and chemical properties. 
+Soil, plant and animal wastes samples are kept in collection.</abstract>
+    <lineage>EFELE is a service of AnaEE-France Infrastructure.</lineage>
+    <responsibleParty>Point of contact|metadata|INRA||thierry.morvan@rennes.inra.fr|Thierry MORVAN||INRA, 4 rue de Stang Vihan, Quimper, 29000, France|+33 2 98 95 99 63||1|</responsibleParty>
+    <responsibleParty>Point of contact|resource|INRA||thierry.morvan@rennes.inra.fr|Thierry MORVAN||INRA, 4 rue de Stang Vihan, Quimper, 29000, France|+33 2 98 95 99 63||1|</responsibleParty>
+    <type>dataset</type>
+    <legalConstraints>--Optional--</legalConstraints>
+    <isHarvested>y</isHarvested>
+    <displayOrder>0</displayOrder>
+    <docLocale>eng</docLocale>
+    <popularity>41</popularity>
+    <keyword>AnaEE-France</keyword>
+    <keyword>CO2 flux</keyword>
+    <keyword>Environmental monitoring facilities</keyword>
+    <keyword>Enzymatic marker</keyword>
+    <keyword>Le Rheu</keyword>
+    <keyword>Le_Rheu</keyword>
+    <keyword>N2O flux</keyword>
+    <keyword>P and K content in organic amendment</keyword>
+    <keyword>PRO</keyword>
+    <keyword>Structure</keyword>
+    <keyword>agricultural practicies</keyword>
+    <keyword>air humidity</keyword>
+    <keyword>air temperature</keyword>
+    <keyword>carbon flux in soil vegetation atmosphere system</keyword>
+    <keyword>cation exchange capacity</keyword>
+    <keyword>dry bulk density of soil</keyword>
+    <keyword>dry bulk density of the organic amendment</keyword>
+    <keyword>global radiation</keyword>
+    <keyword>livestock manure</keyword>
+    <keyword>loamy soil</keyword>
+    <keyword>maize</keyword>
+    <keyword>major elements content in organic amendment</keyword>
+    <keyword>mass flux in soil vegetation atmosphere system</keyword>
+    <keyword>nitrogen flux in soil vegetation atmosphere system</keyword>
+    <keyword>organic fertilisation</keyword>
+    <keyword>organic waste products</keyword>
+    <keyword>perched water table level</keyword>
+    <keyword>phosphorus flux in soil vegetation atmosphere system</keyword>
+    <keyword>physical soil resistance</keyword>
+    <keyword>pluviometry</keyword>
+    <keyword>rotation</keyword>
+    <keyword>shrinkage and swelling</keyword>
+    <keyword>soil P and K</keyword>
+    <keyword>soil granulometry</keyword>
+    <keyword>soil hydraulic conductivity</keyword>
+    <keyword>soil major elements</keyword>
+    <keyword>soil moisture</keyword>
+    <keyword>soil solution anion</keyword>
+    <keyword>soil solution cations</keyword>
+    <keyword>soil solution chemical analysis</keyword>
+    <keyword>soil solution major elements</keyword>
+    <keyword>soil temperature</keyword>
+    <keyword>soil trace elements</keyword>
+    <keyword>soil water retention characteristics</keyword>
+    <keyword>tillage</keyword>
+    <keyword>trace elements content in  organic amendment</keyword>
+    <keyword>vegetation carbon content</keyword>
+    <keyword>vegetation major element  content</keyword>
+    <keyword>vegetation nitrogen content</keyword>
+    <keyword>wheat</keyword>
+    <keyword>wind speed</keyword>
+    <keyword>yield</keyword>
+    <publishedForGroup>1</publishedForGroup>
+    <identifier>http://w3.avignon.inra.fr/geonetwork_anaee/fdd9e7d7-ee67-4d3c-bc8c-5d6c389de3ad</identifier>
+    <tempExtentBegin>2020-06-14t21:59:59.000z</tempExtentBegin>
+    <mdLanguage>eng</mdLanguage>
+    <mdLanguage>fre</mdLanguage>
+    <crsDetails>{ "code": "WGS 84 (EPSG:4326)", "codeSpace": "", "name": "", "url": "" }</crsDetails>
+    <maintenanceAndUpdateFrequency_text>As needed</maintenanceAndUpdateFrequency_text>
+    <format>inapplicable</format>
+    <denominator>50000</denominator>
+    <root>gmd:MD_Metadata</root>
+    <isTemplate>n</isTemplate>
+    <valid>-1</valid>
+    <feedbackCount>0</feedbackCount>
+    <tempExtentEnd>2020-06-14t21:59:59.000z</tempExtentEnd>
+    <rating>0</rating>
+    <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+    <category>datasets</category>
+    <updateFrequency>asNeeded</updateFrequency>
+    <geoBox>-1.78515|48.11768|-1.79511|48.12272</geoBox>
+    <owner>1</owner>
+    <recordOwner>Mitch Admin</recordOwner>
+    <defaultAbstract>The site of EFELE (Effluents d’Elevage et Environnement) is part of the french network labeled as SOERE PRO. The objectives of EFELE are the same as QualiAgro and Colmar sites : the aim of the project is to characterize the long term effects of organic products applications on soil properties and to quantify their effects on water and air quality. 
+The experimental site was initiated in 2012 and is located in Brittany, at Le Rheu. The soil is a loamy soil (neoluvisol  à luvisol/redoxisol). The field is managed with a maize/ wheat crop rotation, and white mustard is sown after the wheat  to cover the soil during the intercropping period. 
+Two trials are studied at EFELE site :  
+-	A first trial named « PROs » is structured as a complete randomized block design with 4 replicates. The effects of 5 typical animal wastes are compared to control treatments : i) cattle farmyard manure and composted pig manure are applied every 2 years before maize sowing, and ii) layers manure, pig slurry and a digestate obtained after pig slurry digestion are applied in spring, on wheat vegetation at early spring or just before maize sowing. The rates of application range from 50 t ha-1 for cattle manure, 25 t ha-1 for composted pig manure, 20-25 t ha-1 for the slurry and the digestate and 3 t ha-1 for layers manure, 
+-	A second trial named « TS/MO »  is structured as a band trial with 3 replicates. The objectives of this trial are to study the effects of cattle farmyard manure on soil properties under conventional tillage and reduced tillage. 
+The meteorological data are monitored on the site, and 7 experimental plots are equipped with TDR probes (TRASE system), tensiometers (UMS T4e) and temperature probes placed at the depth of 13, 40, 60, 80 and 110 cm. Data are collected at a hourly time step. 10 plots are also equipped with wick lysimeters (0.25 x 0.50 m) placed at the depth of 40 and 90 cm. 
+The monitoring of N2O and CO2 emission is done by a set of 6 automatics chambers.
+The soil surface layer (0-25 cm) is sampled every year before the animal wastes application, to characterize the evolution of the physical, biological and chemical properties. 
+Soil, plant and animal wastes samples are kept in collection.</defaultAbstract>
+    <link>PRO Web site|Link to the resource|https://www.allenvi.fr/groupes-transversaux/infrastructures-de-recherche/pro|WWW:LINK-1.0-http--link|text/html|1</link>
+    <link>PRO Web site|Link to the resource|https://www.allenvi.fr/groupes-transversaux/infrastructures-de-recherche/pro|WWW:LINK-1.0-http--link|text/html|1|</link>
+    <defaultTitle>Site EFELE of SOERE PRO</defaultTitle>
+    <datasetLang>eng</datasetLang>
+    <userinfo>Mitch|Admin|Mitch|Administrator</userinfo>
+    <topicCat>structure</topicCat>
+    <legalConstraints>See AnaEE-France charters.</legalConstraints>
+    <creationDate>2010-01-01</creationDate>
+    <standardName>ISO 19115:2003/19139</standardName>
+    <crs>WGS 84 (EPSG:4326)</crs>
+    <title>Site EFELE of SOERE PRO</title>
+    <draft>n</draft>
+    <geoDesc>Le_Rheu</geoDesc>
+    <keywordGroup>{ 'theme.anaeeThes.rdf' :[ {'value': 'AnaEE-France', 'link': ''} , {'value': 'organic fertilisation', 'link': ''} , {'value': 'rotation', 'link': ''} , {'value': 'livestock manure', 'link': ''} , {'value': 'tillage', 'link': ''} , {'value': 'organic waste products', 'link': ''} , {'value': 'loamy soil', 'link': ''} , {'value': 'Le Rheu', 'link': ''} , {'value': 'PRO', 'link': ''} ] , 'GEMET - INSPIRE themes, version 1.0 INSPIRE themes' :[ {'value': 'Environmental monitoring facilities', 'link': ''} ] , 'AnaEE-France Locations' :[ {'value': 'Le_Rheu', 'link': ''} ] , 'theme.variableAnaEE.rdf' :[ {'value': 'Enzymatic marker', 'link': ''} , {'value': 'air temperature', 'link': ''} , {'value': 'air humidity', 'link': ''} , {'value': 'pluviometry', 'link': ''} , {'value': 'wind speed', 'link': ''} , {'value': 'CO2 flux', 'link': ''} , {'value': 'N2O flux', 'link': ''} , {'value': 'mass flux in soil vegetation atmosphere system', 'link': ''} , {'value': 'nitrogen flux in soil vegetation atmosphere system', 'link': ''} , {'value': 'global radiation', 'link': ''} , {'value': 'phosphorus flux in soil vegetation atmosphere system', 'link': ''} , {'value': 'soil granulometry', 'link': ''} , {'value': 'soil temperature', 'link': ''} , {'value': 'soil water retention characteristics', 'link': ''} , {'value': 'dry bulk density of soil', 'link': ''} , {'value': 'soil moisture', 'link': ''} , {'value': 'carbon flux in soil vegetation atmosphere system', 'link': ''} , {'value': 'physical soil resistance', 'link': ''} , {'value': 'soil major elements', 'link': ''} , {'value': 'shrinkage and swelling', 'link': ''} , {'value': 'perched water table level', 'link': ''} , {'value': 'soil hydraulic conductivity', 'link': ''} , {'value': 'soil trace elements', 'link': ''} , {'value': 'soil solution anion', 'link': ''} , {'value': 'soil solution chemical analysis', 'link': ''} , {'value': 'soil P and K', 'link': ''} , {'value': 'agricultural practicies', 'link': ''} , {'value': 'soil solution major elements', 'link': ''} , {'value': 'major elements content in organic amendment', 'link': ''} , {'value': 'dry bulk density of the organic amendment', 'link': ''} , {'value': 'trace elements content in organic amendment', 'link': ''} , {'value': 'vegetation carbon content', 'link': ''} , {'value': 'P and K content in organic amendment', 'link': ''} , {'value': 'soil solution cations', 'link': ''} , {'value': 'vegetation nitrogen content', 'link': ''} , {'value': 'vegetation major element content', 'link': ''} , {'value': 'yield', 'link': ''} , {'value': 'cation exchange capacity', 'link': ''} ] , 'theme.EcosystemAnaEE.rdf' :[ {'value': 'wheat', 'link': ''} , {'value': 'maize', 'link': ''} ] }</keywordGroup>
+    <groupOwner>144</groupOwner>
+    <_locale>eng</_locale>
+    <geonet:info xmlns:geonet="http://www.fao.org/geonetwork">
+      <id>369</id>
+      <uuid>fdd9e7d7-ee67-4d3c-bc8c-5d6c389de3ad</uuid>
+      <schema>iso19139</schema>
+      <createDate>2014-11-10T09:46:24</createDate>
+      <changeDate>2017-10-04T11:02:25</changeDate>
+      <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+      <isPublishedToAll>true</isPublishedToAll>
+      <view>true</view>
+      <notify>false</notify>
+      <download>true</download>
+      <dynamic>true</dynamic>
+      <featured>false</featured>
+      <selected>false</selected>
+    </geonet:info>
+  </metadata>
+  <metadata>
+    <abstract>The site of Colmar is part of the French national network SOERE PRO (System of Observation and Experimentation for Environmental Research on Organic Residue Recycling). The objectives of the site of Colmar are to characterize the agronomic value of organic residues and their environmental impacts, in a long-term field experiment.
+It has been initiated in 2001 (INRA / SMRA68 / ADEME / Agence de l’Eau Rhin-Meuse partnership).
+The experimental site is located in Colmar (Alsace, France) with a continental climate. The soil is a calcisoil (surface layer: 24% clay, 69% silt, 7% sand / 2.4 % organic matter / pH 8.3). The trial is composed of 60 plots of 90 m² (10 m x 9 m) on 2.2 hectares with 4 replicate blocks of 6 organic treatments randomly distributed within each block: Urban sewage sludge, Composted sewage sludge, Biowaste compost, Farmyard manure, Composted Farmyard manure, Control without organic amendment. The organic amendments are spread every 2 years on the same nitrogen rate of 170 kg/ha. The different treatments received 2 levels of additional mineral fertilizer: without or optimum mineral fertilization. The crops rotation is corn maize / winter wheat / sugar beet / malting barley.
+Site and plots are equipped for continuous monitoring of meteorological data, soil humidity, water tension and temperature. One plot of each treatment is equipped with wick lysimeters to a depth of 0.45 m. Since 2009, six large lysimeters (4m² and 1m deep, bare soil) complete the field experiment, with 2 replicates of 3 organic treatments: Urban sewage sludge, Composted sewage sludge and Control without organic amendment. They are also equipped to measure the hydrodynamic balance: soil humidity, water tension, temperature, volume of leachate.
+A Large set of variables mainly including nutrients and pollutants (trace elements, PAH, PCB), are monitored on different compartments of the agro-system: organic amendments physico-chemical and biochemical characteristics, soils analytical characteristics per layer, crop yields, plants quality, rainwater chemical composition, leachate, microbial biomass and activities.
+Data will be stored in a common database specifically developed for the SOERE PRO network and connected with other SOERE.
+Soils, organic amendments and plants samples are kept in collection and available for further measurements.</abstract>
+    <lineage>The SOERE PRO site of Colmar is managed since 2001 by the National Institute of Agronomic Research (INRA), the Syndicat Mixte Recyclage Agricole du Haut-Rhin (SMRA68) and the Association pour la Relance Agronomique en Alsace (ARAA). He receives financial support from ADEME, Agence de l’Eau Rhin-Meuse, Veolia Environnement Research and Innovation, SITEUCE, Arvalis, SEDE Environnement, Terralys, Brasseries Kronenbourg, Région Alsace, Conseil Général du Haut-Rhin.
+The objective of this program is to characterize the agronomic value of organic residues and their environmental impacts, from long duration field experimentation.
+QualiAgro is a service of AnaEE-France Infrastructure.</lineage>
+    <responsibleParty>Point of contact|metadata|INRA||denis.montenach@colmar.inra.fr|Denis MONTENACH||INRA 28 rue de Herrlisheim, Colmar, 68000, France|+33 3 89 22 49 31||1|</responsibleParty>
+    <responsibleParty>Point of contact|resource|INRA||amichaud@grignon.inra.fr|Aurélia MICHAUD||Avenue Lucien de Brétignières, Thiverval Grignon, 78550, France|+33 1 30 81 53 12||2|</responsibleParty>
+    <responsibleParty>Point of contact|resource|INRA||denis.montenach@colmar.inra.fr|Denis MONTENACH||INRA 28 rue de Herrlisheim, Colmar, 68000, France|+33 3 89 22 49 31||3|</responsibleParty>
+    <responsibleParty>Point of contact|resource|INRA||sabine.houot@grignon.inra.fr|Sabine HOUOT||Avenue Lucien de Brétignières, Thiverval Grignon, 78550, France|+33 1 30 81 54 01||1|</responsibleParty>
+    <type>dataset</type>
+    <isHarvested>y</isHarvested>
+    <displayOrder>0</displayOrder>
+    <docLocale>eng</docLocale>
+    <popularity>58</popularity>
+    <keyword>AnaEE-France</keyword>
+    <keyword>CO2 flux</keyword>
+    <keyword>Environmental monitoring facilities</keyword>
+    <keyword>France</keyword>
+    <keyword>N2O flux</keyword>
+    <keyword>P and K content in organic amendment</keyword>
+    <keyword>Structure</keyword>
+    <keyword>agricultural practicies</keyword>
+    <keyword>agronomy</keyword>
+    <keyword>air humidity</keyword>
+    <keyword>air temperature</keyword>
+    <keyword>barley</keyword>
+    <keyword>carbon flux in soil vegetation atmosphere system</keyword>
+    <keyword>dry bulk density of soil</keyword>
+    <keyword>dry bulk density of the organic amendment</keyword>
+    <keyword>experimental setup</keyword>
+    <keyword>global radiation</keyword>
+    <keyword>long term experiment</keyword>
+    <keyword>long term monitoring</keyword>
+    <keyword>maize</keyword>
+    <keyword>major elements content in organic amendment</keyword>
+    <keyword>mass flux in soil vegetation atmosphere system</keyword>
+    <keyword>nitrogen flux in soil vegetation atmosphere system</keyword>
+    <keyword>organic amendment</keyword>
+    <keyword>perched water table level</keyword>
+    <keyword>phosphorus flux in soil vegetation atmosphere system</keyword>
+    <keyword>physical soil resistance</keyword>
+    <keyword>pluviometry</keyword>
+    <keyword>pollutant</keyword>
+    <keyword>shrinkage and swelling</keyword>
+    <keyword>soil P and K</keyword>
+    <keyword>soil PH</keyword>
+    <keyword>soil granulometry</keyword>
+    <keyword>soil hydraulic conductivity</keyword>
+    <keyword>soil major elements</keyword>
+    <keyword>soil moisture</keyword>
+    <keyword>soil nutrient</keyword>
+    <keyword>soil organic contaminants</keyword>
+    <keyword>soil solution chemical analysis</keyword>
+    <keyword>soil solution major elements</keyword>
+    <keyword>soil solution organic contaminants</keyword>
+    <keyword>soil solution trace elements</keyword>
+    <keyword>soil temperature</keyword>
+    <keyword>soil trace elements</keyword>
+    <keyword>soil water retention characteristics</keyword>
+    <keyword>sugarbeet</keyword>
+    <keyword>trace elements content in  organic amendment</keyword>
+    <keyword>vegetation carbon content</keyword>
+    <keyword>vegetation major element  content</keyword>
+    <keyword>vegetation nitrogen content</keyword>
+    <keyword>waste recycling</keyword>
+    <keyword>wheat</keyword>
+    <keyword>wind speed</keyword>
+    <keyword>yield</keyword>
+    <publishedForGroup>1</publishedForGroup>
+    <identifier>http://localhost:8082/geonetwork_anaee/c8912811-b542-4bae-b4b2-3c62a2812866</identifier>
+    <identifier>http://w3.avignon.inra.fr/geonetwork_anaee/c8912811-b542-4bae-b4b2-3c62a2812866</identifier>
+    <image>thumbnail|http://w3.avignon.inra.fr:80/geonetwork_anaee/srv/eng/resources.get?uuid=c8912811-b542-4bae-b4b2-3c62a2812866&amp;fname=Bl1_s.png|thumbnail</image>
+    <tempExtentBegin>2000-12-31t23:00:00.000z</tempExtentBegin>
+    <tempExtentBegin>2001-01-01</tempExtentBegin>
+    <mdLanguage>eng</mdLanguage>
+    <mdLanguage>fre</mdLanguage>
+    <crsDetails>{ "code": "WGS 84 (EPSG:4326)", "codeSpace": "", "name": "", "url": "" }</crsDetails>
+    <maintenanceAndUpdateFrequency_text>As needed</maintenanceAndUpdateFrequency_text>
+    <format>inapplicable</format>
+    <denominator>50000</denominator>
+    <root>gmd:MD_Metadata</root>
+    <isTemplate>n</isTemplate>
+    <valid>-1</valid>
+    <feedbackCount>0</feedbackCount>
+    <tempExtentEnd>2020-06-14t21:59:59.000z</tempExtentEnd>
+    <rating>0</rating>
+    <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+    <category>datasets</category>
+    <updateFrequency>asNeeded</updateFrequency>
+    <geoBox>7.324027064606428|48.04624263946896|7.349432948395419|48.06505998592947</geoBox>
+    <owner>1</owner>
+    <recordOwner>Mitch Admin</recordOwner>
+    <defaultAbstract>The site of Colmar is part of the French national network SOERE PRO (System of Observation and Experimentation for Environmental Research on Organic Residue Recycling). The objectives of the site of Colmar are to characterize the agronomic value of organic residues and their environmental impacts, in a long-term field experiment.
+It has been initiated in 2001 (INRA / SMRA68 / ADEME / Agence de l’Eau Rhin-Meuse partnership).
+The experimental site is located in Colmar (Alsace, France) with a continental climate. The soil is a calcisoil (surface layer: 24% clay, 69% silt, 7% sand / 2.4 % organic matter / pH 8.3). The trial is composed of 60 plots of 90 m² (10 m x 9 m) on 2.2 hectares with 4 replicate blocks of 6 organic treatments randomly distributed within each block: Urban sewage sludge, Composted sewage sludge, Biowaste compost, Farmyard manure, Composted Farmyard manure, Control without organic amendment. The organic amendments are spread every 2 years on the same nitrogen rate of 170 kg/ha. The different treatments received 2 levels of additional mineral fertilizer: without or optimum mineral fertilization. The crops rotation is corn maize / winter wheat / sugar beet / malting barley.
+Site and plots are equipped for continuous monitoring of meteorological data, soil humidity, water tension and temperature. One plot of each treatment is equipped with wick lysimeters to a depth of 0.45 m. Since 2009, six large lysimeters (4m² and 1m deep, bare soil) complete the field experiment, with 2 replicates of 3 organic treatments: Urban sewage sludge, Composted sewage sludge and Control without organic amendment. They are also equipped to measure the hydrodynamic balance: soil humidity, water tension, temperature, volume of leachate.
+A Large set of variables mainly including nutrients and pollutants (trace elements, PAH, PCB), are monitored on different compartments of the agro-system: organic amendments physico-chemical and biochemical characteristics, soils analytical characteristics per layer, crop yields, plants quality, rainwater chemical composition, leachate, microbial biomass and activities.
+Data will be stored in a common database specifically developed for the SOERE PRO network and connected with other SOERE.
+Soils, organic amendments and plants samples are kept in collection and available for further measurements.</defaultAbstract>
+    <link>Allenvi SOERE PRO||http://www.allenvi.fr/groupes-transversaux/infrastructures-de-recherche/pro|WWW:LINK-1.0-http--link|text/html|1</link>
+    <link>Allenvi SOERE PRO||http://www.allenvi.fr/groupes-transversaux/infrastructures-de-recherche/pro|WWW:LINK-1.0-http--link|text/html|1|</link>
+    <defaultTitle>SOERE PRO Site of Colmar</defaultTitle>
+    <datasetLang>eng</datasetLang>
+    <userinfo>Mitch|Admin|Mitch|Administrator</userinfo>
+    <topicCat>structure</topicCat>
+    <legalConstraints>See AnaEE-France charters.</legalConstraints>
+    <creationDate>2001-01-01</creationDate>
+    <standardName>ISO 19115:2003/19139</standardName>
+    <crs>WGS 84 (EPSG:4326)</crs>
+    <title>SOERE PRO Site of Colmar</title>
+    <draft>n</draft>
+    <geoDesc>Colmar</geoDesc>
+    <keywordGroup>{ 'theme.anaeeThes.rdf' :[ {'value': 'AnaEE-France', 'link': ''} , {'value': 'long term monitoring', 'link': ''} , {'value': 'long term experiment', 'link': ''} , {'value': 'agronomy', 'link': ''} , {'value': 'soil nutrient', 'link': ''} , {'value': 'pollutant', 'link': ''} , {'value': 'experimental setup', 'link': ''} , {'value': 'waste recycling', 'link': ''} , {'value': 'organic amendment', 'link': ''} ] , 'GEMET - INSPIRE themes, version 1.0 INSPIRE themes' :[ {'value': 'Environmental monitoring facilities', 'link': ''} ] , 'AnaEE-France Locations' :[ {'value': 'France', 'link': ''} ] , 'theme.variableAnaEE.rdf' :[ {'value': 'soil organic contaminants', 'link': ''} , {'value': 'dry bulk density of the organic amendment', 'link': ''} , {'value': 'P and K content in organic amendment', 'link': ''} , {'value': 'soil solution organic contaminants', 'link': ''} , {'value': 'air humidity', 'link': ''} , {'value': 'air temperature', 'link': ''} , {'value': 'global radiation', 'link': ''} , {'value': 'pluviometry', 'link': ''} , {'value': 'wind speed', 'link': ''} , {'value': 'CO2 flux', 'link': ''} , {'value': 'mass flux in soil vegetation atmosphere system', 'link': ''} , {'value': 'nitrogen flux in soil vegetation atmosphere system', 'link': ''} , {'value': 'phosphorus flux in soil vegetation atmosphere system', 'link': ''} , {'value': 'carbon flux in soil vegetation atmosphere system', 'link': ''} , {'value': 'soil granulometry', 'link': ''} , {'value': 'soil temperature', 'link': ''} , {'value': 'soil moisture', 'link': ''} , {'value': 'dry bulk density of soil', 'link': ''} , {'value': 'physical soil resistance', 'link': ''} , {'value': 'shrinkage and swelling', 'link': ''} , {'value': 'perched water table level', 'link': ''} , {'value': 'soil hydraulic conductivity', 'link': ''} , {'value': 'soil major elements', 'link': ''} , {'value': 'soil solution chemical analysis', 'link': ''} , {'value': 'vegetation major element content', 'link': ''} , {'value': 'yield', 'link': ''} , {'value': 'N2O flux', 'link': ''} , {'value': 'soil trace elements', 'link': ''} , {'value': 'soil water retention characteristics', 'link': ''} , {'value': 'soil P and K', 'link': ''} , {'value': 'soil solution trace elements', 'link': ''} , {'value': 'soil solution major elements', 'link': ''} , {'value': 'agricultural practicies', 'link': ''} , {'value': 'major elements content in organic amendment', 'link': ''} , {'value': 'soil PH', 'link': ''} , {'value': 'trace elements content in organic amendment', 'link': ''} , {'value': 'vegetation carbon content', 'link': ''} , {'value': 'vegetation nitrogen content', 'link': ''} ] , 'theme.EcosystemAnaEE.rdf' :[ {'value': 'wheat', 'link': ''} , {'value': 'maize', 'link': ''} , {'value': 'sugarbeet', 'link': ''} , {'value': 'barley', 'link': ''} ] }</keywordGroup>
+    <groupOwner>144</groupOwner>
+    <_locale>eng</_locale>
+    <geonet:info xmlns:geonet="http://www.fao.org/geonetwork">
+      <id>305</id>
+      <uuid>c8912811-b542-4bae-b4b2-3c62a2812866</uuid>
+      <schema>iso19139</schema>
+      <createDate>2014-10-31T14:50:47</createDate>
+      <changeDate>2017-07-31T17:14:20</changeDate>
+      <source>19e4395c-b2eb-4592-b490-22689dc7090d</source>
+      <isPublishedToAll>true</isPublishedToAll>
+      <view>true</view>
+      <notify>false</notify>
+      <download>true</download>
+      <dynamic>true</dynamic>
+      <featured>false</featured>
+      <selected>false</selected>
+    </geonet:info>
+  </metadata>
+  <metadata>
+    <title>Physiographic Map of North and Central Eurasia (Sample record, please remove!)</title>
+    <abstract>Physiographic maps for the CIS and Baltic States (CIS_BS), Mongolia, China and Taiwan Province of China. Between the three regions (China, Mongolia, and CIS_BS countries) DCW boundaries were introduced. There are no DCW boundaries between Russian Federation and the rest of the new countries of the CIS_BS. The original physiographic map of China includes the Chinese border between India and China, which extends beyond the Indian border line, and the South China Sea islands (no physiographic information is present for islands in the South China Sea). The use of these country boundaries does not imply the expression of any opinion whatsoever on the part of FAO concerning the legal or constitutional states of any country, territory, or sea area, or concerning delimitation of frontiers. The Maps visualize the items LANDF, HYPSO, SLOPE that correspond to Landform, Hypsometry and Slope.</abstract>
+    <responsibleParty>pointOfContact|resource|FAO - Land and Water Development Division||Freddy.Nachtergaele@fao.org|Nachtergaele Freddy|Technical officer|Viale delle Terme di Caracalla, Rome, RM, 00153, Italy|||1|</responsibleParty>
+    <responsibleParty>pointOfContact|metadata|FAO - Land and Water Development Division|||Marina Zanetti|GIS specialist||||1|</responsibleParty>
+    <type>dataset</type>
+    <isHarvested>n</isHarvested>
+    <displayOrder>0</displayOrder>
+    <popularity>0</popularity>
+    <keyword>physiography, soil</keyword>
+    <keyword>Eurasia</keyword>
+    <keyword>geoscientificInformation</keyword>
+    <publishedForGroup>0</publishedForGroup>
+    <publishedForGroup>1</publishedForGroup>
+    <publishedForGroup>2</publishedForGroup>
+    <image>thumbnail|http://localhost:8080/geonetwork/srv/api/records/78f93047-74f8-4419-ac3d-fc62e4b0477b/attachments/phy_s.gif|Physiographic Map (small preview)</image>
+    <image>overview|http://localhost:8080/geonetwork/srv/api/records/78f93047-74f8-4419-ac3d-fc62e4b0477b/attachments/phy.gif|Physiographic Map</image>
+    <tempExtentBegin>2000-01-01t03:29:00.000z</tempExtentBegin>
+    <crsDetails>{ "code": "Lambert Azimuthal Projection", "codeSpace": "", "name": "", "url": "" }</crsDetails>
+    <maintenanceAndUpdateFrequency_text>asNeeded</maintenanceAndUpdateFrequency_text>
+    <spatialRepresentationType_text>vector</spatialRepresentationType_text>
+    <denominator>5000000</denominator>
+    <root>gmd:MD_Metadata</root>
+    <isTemplate>n</isTemplate>
+    <valid>-1</valid>
+    <feedbackCount>0</feedbackCount>
+    <tempExtentEnd>2008-01-08t03:29:00.000z</tempExtentEnd>
+    <rating>0</rating>
+    <source>83177e44-fcc4-4fcd-890e-b48bc9d097ff</source>
+    <category>maps</category>
+    <category>interactiveResources</category>
+    <status>completed</status>
+    <updateFrequency>asNeeded</updateFrequency>
+    <geoBox>37|-3|156|83</geoBox>
+    <owner>1</owner>
+    <recordOwner>Mitch Admin</recordOwner>
+    <defaultAbstract>Physiographic maps for the CIS and Baltic States (CIS_BS), Mongolia, China and Taiwan Province of China. Between the three regions (China, Mongolia, and CIS_BS countries) DCW boundaries were introduced. There are no DCW boundaries between Russian Federation and the rest of the new countries of the CIS_BS. The original physiographic map of China includes the Chinese border between India and China, which extends beyond the Indian border line, and the South China Sea islands (no physiographic information is present for islands in the South China Sea). The use of these country boundaries does not imply the expression of any opinion whatsoever on the part of FAO concerning the legal or constitutional states of any country, territory, or sea area, or concerning delimitation of frontiers. The Maps visualize the items LANDF, HYPSO, SLOPE that correspond to Landform, Hypsometry and Slope.</defaultAbstract>
+    <link>phy.zip|Physiography of North and Central Eurasia Landform (Gif Format)|http://localhost:8080/geonetwork/srv/api/records/78f93047-74f8-4419-ac3d-fc62e4b0477b/attachments/phy.zip|WWW:DOWNLOAD-1.0-http--download|
+        application/zip
+      |1</link>
+    <link>GEONETWORK:phy_landf_7386|Physiography of North and Central Eurasia Landform|http://data.fao.org/maps/wms|OGC:WMS|application/vnd.ogc.wms_xml|1</link>
+    <link>GEONETWORK:phy_slope_7386|Physiography of North and Central Eurasia Slope|http://data.fao.org/maps/wms|OGC:WMS|application/vnd.ogc.wms_xml|1</link>
+    <link>GEONETWORK:phy_hypso_7386|Physiography of North and Central Eurasia Hypsography|http://data.fao.org/maps/wms|OGC:WMS|application/vnd.ogc.wms_xml|1</link>
+    <defaultTitle>Physiographic Map of North and Central Eurasia (Sample record, please remove!)</defaultTitle>
+    <userinfo>Mitch|Admin|Mitch|Administrator</userinfo>
+    <topicCat>geoscientificInformation</topicCat>
+    <publicationDate>1999-10-01</publicationDate>
+    <status_text>completed</status_text>
+    <standardName>ISO 19115:2003/19139</standardName>
+    <crs>Lambert Azimuthal Projection</crs>
+    <logo>/images/logos/83177e44-fcc4-4fcd-890e-b48bc9d097ff.png</logo>
+    <draft>n</draft>
+    <keywordGroup>{ 'otherKeywords': [ {'value': 'physiography, soil', 'link': ''} , {'value': 'Eurasia', 'link': ''} ] }</keywordGroup>
+    <geonet:info xmlns:geonet="http://www.fao.org/geonetwork">
+      <id>122</id>
+      <uuid>78f93047-74f8-4419-ac3d-fc62e4b0477b</uuid>
+      <schema>iso19139</schema>
+      <createDate>2007-07-25T12:05:45</createDate>
+      <changeDate>2007-11-06T12:10:47</changeDate>
+      <source>83177e44-fcc4-4fcd-890e-b48bc9d097ff</source>
+      <isPublishedToAll>true</isPublishedToAll>
+      <view>true</view>
+      <notify>false</notify>
+      <download>true</download>
+      <dynamic>true</dynamic>
+      <featured>true</featured>
+      <selected>false</selected>
+    </geonet:info>
+  </metadata>
+</response>
+

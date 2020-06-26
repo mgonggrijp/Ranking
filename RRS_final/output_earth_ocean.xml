@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response from="1" to="0" selected="0" maxPageSize="100">
+  <summary count="0" type="local">
+    <dimension name="type" label="types" />
+    <dimension name="mdActions" label="mdActions" />
+    <dimension name="topicCat" label="topicCats" />
+    <dimension name="inspireThemeURI" label="inspireThemesURI" />
+    <dimension name="keyword" label="keywords" />
+    <dimension name="orgName" label="orgNames" />
+    <dimension name="sourceCatalog" label="sourceCatalog" />
+    <dimension name="createDateYear" label="createDateYears" />
+    <dimension name="format" label="formats" />
+    <dimension name="spatialRepresentationType" label="spatialRepresentationTypes" />
+    <dimension name="maintenanceAndUpdateFrequency" label="maintenanceAndUpdateFrequencies" />
+    <dimension name="status" label="status" />
+    <dimension name="serviceType" label="serviceTypes" />
+    <dimension name="denominator" label="denominators" />
+    <dimension name="resolution" label="resolutions" />
+  </summary>
+</response>
+

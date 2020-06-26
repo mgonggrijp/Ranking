@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response from="1" to="1" selected="0" maxPageSize="100">
+  <summary count="1" type="local">
+    <dimension name="type" label="types">
+      <category value="dataset" label="Dataset" count="1" />
+    </dimension>
+    <dimension name="mdActions" label="mdActions">
+      <category value="mdActions-download" label="mdActions-download" count="1" />
+      <category value="mdActions-view" label="mdActions-view" count="1" />
+    </dimension>
+    <dimension name="topicCat" label="topicCats">
+      <category value="inlandWaters" label="Inland waters" count="1" />
+    </dimension>
+    <dimension name="inspireThemeURI" label="inspireThemesURI" />
+    <dimension name="keyword" label="keywords">
+      <category value="watersheds" label="watersheds" count="1" />
+      <category value="river basins" label="river basins" count="1" />
+      <category value="water resources" label="water resources" count="1" />
+      <category value="hydrology" label="hydrology" count="1" />
+      <category value="AQUASTAT" label="AQUASTAT" count="1" />
+      <category value="AWRD" label="AWRD" count="1" />
+      <category value="Africa" label="Africa" count="1" />
+      <category value="Inland waters" label="Inland waters" count="1" />
+    </dimension>
+    <dimension name="orgName" label="orgNames">
+      <category value="FAO - NRCW" label="FAO - NRCW" count="1" />
+    </dimension>
+    <dimension name="sourceCatalog" label="sourceCatalog">
+      <category value="83177e44-fcc4-4fcd-890e-b48bc9d097ff" label="My GeoNetwork catalogue" count="1" />
+    </dimension>
+    <dimension name="createDateYear" label="createDateYears">
+      <category value="2000" label="2000" count="1" />
+    </dimension>
+    <dimension name="format" label="formats">
+      <category value="ShapeFile" label="ShapeFile" count="1" />
+    </dimension>
+    <dimension name="spatialRepresentationType" label="spatialRepresentationTypes">
+      <category value="vector" label="Vector" count="1" />
+    </dimension>
+    <dimension name="maintenanceAndUpdateFrequency" label="maintenanceAndUpdateFrequencies">
+      <category value="asNeeded" label="As needed" count="1" />
+    </dimension>
+    <dimension name="status" label="status">
+      <category value="completed" label="Completed" count="1" />
+    </dimension>
+    <dimension name="serviceType" label="serviceTypes" />
+    <dimension name="denominator" label="denominators">
+      <category value="5000000" label="5000000" count="1" />
+    </dimension>
+    <dimension name="resolution" label="resolutions" />
+  </summary>
+  <metadata>
+    <title>Hydrological Basins in Africa (Sample record, please remove!)</title>
+    <abstract>Major hydrological basins and their sub-basins. This dataset divides the African continent according to its hydrological characteristics.
+The dataset consists of the following information:- numerical code and name of the major basin (MAJ_BAS and MAJ_NAME); - area of the major basin in square km (MAJ_AREA); - numerical code and name of the sub-basin (SUB_BAS and SUB_NAME); - area of the sub-basin in square km (SUB_AREA); - numerical code of the sub-basin towards which the sub-basin flows (TO_SUBBAS) (the codes -888 and -999 have been assigned respectively to internal sub-basins and to sub-basins draining into the sea)</abstract>
+    <lineage>The linework of the map is obtained by delineating drainage basin boundaries from an hydrologically corrected digital elevation model with a resolution of 1 * 1 km.</lineage>
+    <responsibleParty>Point of contact|metadata|FAO - NRCW||jippe.hoogeveen@fao.org|Jippe Hoogeveen|Technical Officer|Viale delle Terme di Caracalla, Rome, 00153, Italy|||1|</responsibleParty>
+    <type>dataset</type>
+    <isHarvested>n</isHarvested>
+    <displayOrder>0</displayOrder>
+    <docLocale>eng</docLocale>
+    <popularity>0</popularity>
+    <keyword>watersheds</keyword>
+    <keyword>river basins</keyword>
+    <keyword>water resources</keyword>
+    <keyword>hydrology</keyword>
+    <keyword>AQUASTAT</keyword>
+    <keyword>AWRD</keyword>
+    <keyword>Africa</keyword>
+    <keyword>Inland waters</keyword>
+    <publishedForGroup>0</publishedForGroup>
+    <publishedForGroup>1</publishedForGroup>
+    <publishedForGroup>2</publishedForGroup>
+    <image>thumbnail|http://localhost:8080/geonetwork/srv/api/records/da165110-88fd-11da-a88f-000d939bc5d8/attachments/thumbnail_s.gif|Hydrological Basins in Africa (small preview)</image>
+    <image>overview|http://localhost:8080/geonetwork/srv/api/records/da165110-88fd-11da-a88f-000d939bc5d8/attachments/thumbnail.gif|Hydrological Basins in Africa</image>
+    <tempExtentBegin>2006-01-01t03:29:00.000z</tempExtentBegin>
+    <mdLanguage>eng</mdLanguage>
+    <crsDetails>{ "code": "WGS 1984", "codeSpace": "", "name": "", "url": "" }</crsDetails>
+    <maintenanceAndUpdateFrequency_text>As needed</maintenanceAndUpdateFrequency_text>
+    <format>ShapeFile</format>
+    <spatialRepresentationType_text>Vector</spatialRepresentationType_text>
+    <denominator>5000000</denominator>
+    <root>gmd:MD_Metadata</root>
+    <isTemplate>n</isTemplate>
+    <valid>-1</valid>
+    <feedbackCount>0</feedbackCount>
+    <tempExtentEnd>2008-01-08t03:29:00.000z</tempExtentEnd>
+    <rating>0</rating>
+    <source>83177e44-fcc4-4fcd-890e-b48bc9d097ff</source>
+    <category>maps</category>
+    <category>datasets</category>
+    <category>interactiveResources</category>
+    <status>completed</status>
+    <updateFrequency>asNeeded</updateFrequency>
+    <geoBox>-17.3|-34.6|51.1|38.2</geoBox>
+    <owner>1</owner>
+    <recordOwner>Mitch Admin</recordOwner>
+    <defaultAbstract>Major hydrological basins and their sub-basins. This dataset divides the African continent according to its hydrological characteristics.
+The dataset consists of the following information:- numerical code and name of the major basin (MAJ_BAS and MAJ_NAME); - area of the major basin in square km (MAJ_AREA); - numerical code and name of the sub-basin (SUB_BAS and SUB_NAME); - area of the sub-basin in square km (SUB_AREA); - numerical code of the sub-basin towards which the sub-basin flows (TO_SUBBAS) (the codes -888 and -999 have been assigned respectively to internal sub-basins and to sub-basins draining into the sea)</defaultAbstract>
+    <link>|Online link to the 'Water Resources and Irrigation in Africa'- website|http://www.fao.org/ag/AGL/aglw/aquastat/watresafrica/index.stm|WWW:LINK-1.0-http--link|text/html|1</link>
+    <link>basins.zip|Hydrological basins in Africa (Shapefile Format)|http://localhost:8080/geonetwork/srv/api/records/da165110-88fd-11da-a88f-000d939bc5d8/attachments/basins.zip|WWW:DOWNLOAD-1.0-http--download|
+        application/zip
+      |1</link>
+    <link>GEONETWORK:basins_296|Hydrological basins in Africa|http://data.fao.org/maps/wms|OGC:WMS|application/vnd.ogc.wms_xml|1</link>
+    <defaultTitle>Hydrological Basins in Africa (Sample record, please remove!)</defaultTitle>
+    <datasetLang>eng</datasetLang>
+    <userinfo>Mitch|Admin|Mitch|Administrator</userinfo>
+    <topicCat>inlandWaters</topicCat>
+    <status_text>Completed</status_text>
+    <creationDate>2000-07-19T14:45:00</creationDate>
+    <standardName>ISO 19115:2003/19139</standardName>
+    <crs>WGS 1984</crs>
+    <logo>/images/logos/83177e44-fcc4-4fcd-890e-b48bc9d097ff.png</logo>
+    <draft>n</draft>
+    <keywordGroup>{ 'otherKeywords': [ {'value': 'watersheds', 'link': ''} , {'value': 'river basins', 'link': ''} , {'value': 'water resources', 'link': ''} , {'value': 'hydrology', 'link': ''} , {'value': 'AQUASTAT', 'link': ''} , {'value': 'AWRD', 'link': ''} , {'value': 'Africa', 'link': ''} ] }</keywordGroup>
+    <_locale>eng</_locale>
+    <geonet:info xmlns:geonet="http://www.fao.org/geonetwork">
+      <id>117</id>
+      <uuid>da165110-88fd-11da-a88f-000d939bc5d8</uuid>
+      <schema>iso19139</schema>
+      <createDate>2007-07-19T14:45:07</createDate>
+      <changeDate>2007-11-06T12:13:00</changeDate>
+      <source>83177e44-fcc4-4fcd-890e-b48bc9d097ff</source>
+      <isPublishedToAll>true</isPublishedToAll>
+      <view>true</view>
+      <notify>false</notify>
+      <download>true</download>
+      <dynamic>true</dynamic>
+      <featured>true</featured>
+      <selected>false</selected>
+    </geonet:info>
+  </metadata>
+</response>
+
